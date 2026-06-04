@@ -1,41 +1,6 @@
 {
   "articles": [
-    {
-      "id": "0e68d45a-6fed-4386-9c1f-2c87688315aa",
-      "title": "CoD Season 4 Patch Notes Detail SG-12 Nerf, Anti-Cheat Updates, And More",
-      "summary": "Season 4 goes live in Black Ops 7 and Warzone on June 4, and the developer's patch notes reveal all the major changes for Call of Duty’s various modes. These adjustments include a nerf for the powerful SG-12 shotgun, a new self-revive kit for Warzone...",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Call_of_Duty_Modern_Warfare_III_key_art.jpg",
-      "sourceUrl": "https://www.gamespot.com/articles/cod-season-4-patch-notes-detail-sg-12-nerf-anti-cheat-updates-and-more/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "2026-06-04T15:14:30.575952Z",
-      "classification": "news",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "1c33e4fc-cc14-4aaa-8d4c-5d07b0f6aa7c",
-      "title": "Howl’s Moving Castle Deluxe Limited Edition Book Is 32% Off At Amazon",
-      "summary": "Howl's Moving Castle Deluxe Limited Edition (Hardcover)\n\t\t\t\t\t\t\t$17 (was $25) | Now in stock\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\nSee at Amazon\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\nSee at Walmart\n\t\t\t\t\t\n\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tWorld of Howl Trilogy Box Set (Paperback)\n\t\t\t\t\t\t\t$25.58 ...",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg",
-      "sourceUrl": "https://www.gamespot.com/articles/howls-moving-castle-deluxe-limited-edition-book-gift-idea-studio-ghibli-fans/1100-6531377/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "2026-06-04T15:14:30.573363Z",
-      "classification": "news",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
+
     {
       "id": "mw4-official-reveal-2026",
       "title": "Call of Duty: Modern Warfare 4 Officially Announced — Full Reveal Trailer Drops",

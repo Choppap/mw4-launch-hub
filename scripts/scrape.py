@@ -93,13 +93,13 @@ def process_feeds():
             # Check for keywords
             content_to_check = (title + " " + desc).lower()
             
-            # Use regex for word boundaries to avoid false positives in URLs/random strings
-            matched = False
-            for kw in KEYWORDS:
-                pattern = r'\b' + re.escape(kw.lower()) + r'\b'
-                if re.search(pattern, content_to_check):
-                    matched = True
-                    break
+            # Super strict matching to prevent unrelated articles
+            has_mw4 = re.search(r'\b(modern warfare 4|modern warfare iv|mw4)\b', content_to_check)
+            has_cod = re.search(r'\b(call of duty|cod)\b', content_to_check)
+            has_2026 = re.search(r'\b2026\b', content_to_check)
+            
+            # Require at least MW4 and CoD to be mentioned
+            matched = has_mw4 and has_cod
                     
             if matched:
                 print(f"Found MW4 match: {title}")
