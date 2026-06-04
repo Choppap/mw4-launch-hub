@@ -90,6 +90,43 @@ def process_feeds():
                 
             desc = clean_html(desc_el.text) if desc_el is not None else ""
             
+            # Extract image from RSS/Atom/HTML
+            image_url = None
+            
+            # 1. Check media:content (RSS)
+            media_content = item.find('.//{http://search.yahoo.com/mrss/}content')
+            if media_content is not None and media_content.get('url'):
+                image_url = media_content.get('url')
+                
+            # 2. Check media:thumbnail
+            if not image_url:
+                media_thumb = item.find('.//{http://search.yahoo.com/mrss/}thumbnail')
+                if media_thumb is not None and media_thumb.get('url'):
+                    image_url = media_thumb.get('url')
+                    
+            # 3. Check enclosure (RSS)
+            if not image_url:
+                enclosure = item.find('enclosure')
+                if enclosure is not None and enclosure.get('type', '').startswith('image/') and enclosure.get('url'):
+                    image_url = enclosure.get('url')
+                    
+            # 4. Check Atom enclosure link
+            if not image_url:
+                for lnk in item.findall('{http://www.w3.org/2005/Atom}link'):
+                    if lnk.get('rel') == 'enclosure' and lnk.get('type', '').startswith('image/') and lnk.get('href'):
+                        image_url = lnk.get('href')
+                        break
+                        
+            # 5. Check description HTML for an img tag
+            if not image_url and desc_el is not None and desc_el.text:
+                img_match = re.search(r'<img[^>]+src=["\'](.*?)["\']', desc_el.text, re.IGNORECASE)
+                if img_match:
+                    image_url = img_match.group(1)
+                    
+            # Fallback to placeholder if no image found
+            if not image_url:
+                image_url = random.choice(PLACEHOLDER_IMAGES)
+            
             # Check for keywords
             content_to_check = (title + " " + desc).lower()
             
@@ -111,7 +148,7 @@ def process_feeds():
                     "id": str(uuid.uuid4()),
                     "title": title,
                     "summary": desc[:250] + "..." if len(desc) > 250 else desc,
-                    "imageUrl": random.choice(PLACEHOLDER_IMAGES),
+                    "imageUrl": image_url,
                     "sourceUrl": link,
                     "source": {
                         "name": feed['name'],
