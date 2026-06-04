@@ -14,180 +14,126 @@ FEEDS = [
     {"url": "https://www.gamespot.com/feeds/news/", "name": "GameSpot", "credibility": "trusted"}
 ]
 
-KEYWORDS = ["MW4", "Modern Warfare 4", "Modern Warfare IV"]
+KEYWORDS = ["MW4", "Modern Warfare 4", "Modern Warfare IV", "Call of Duty 2026", "CoD 2026"]
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), '..', 'data', 'news.json')
 
-PLACEHOLDER_IMAGES = [
-    "assets/images/mw4_placeholder_1.png",
-    "assets/images/mw4_placeholder_2.png",
-    "assets/images/mw4_placeholder_3.png"
-]
-
-import ssl
-
-def fetch_feed(feed_config):
-    print(f"Fetching {feed_config['url']}...")
-    req = urllib.request.Request(
-        feed_config['url'], 
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) MW4-Scraper-Bot/1.0'}
-    )
-    
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-    
-    try:
-        with urllib.request.urlopen(req, timeout=10, context=ctx) as response:
-            xml_data = response.read()
-            return ET.fromstring(xml_data)
-    except Exception as e:
-        print(f"Failed to fetch {feed_config['url']}: {e}")
-        return None
-
 def clean_html(raw_html):
-    if not raw_html: return ""
-    cleanr = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
+    if not raw_html:
+        return ""
+    cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext.strip()
 
-def process_feeds():
+def scrape_feeds():
+    print(f"[{datetime.now().isoformat()}] Starting news scrape...")
+    
+    # Load existing articles to avoid duplicates
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE, 'r') as f:
+            try:
+                data = json.load(f)
+                existing_articles = data.get("articles", [])
+                existing_titles = {a["title"] for a in existing_articles}
+            except json.JSONDecodeError:
+                existing_articles = []
+                existing_titles = set()
+    else:
+        existing_articles = []
+        existing_titles = set()
+        
     new_articles = []
     
     for feed in FEEDS:
-        root = fetch_feed(feed)
-        if root is None: continue
-        
-        # Determine if RSS 2.0 or Atom
-        items = root.findall('.//item') # RSS
-        if not items:
-            items = root.findall('.//{http://www.w3.org/2005/Atom}entry') # Atom
-            
-        for item in items:
-            # RSS fields
-            title_el = item.find('title')
-            link_el = item.find('link')
-            desc_el = item.find('description')
-            pub_el = item.find('pubDate')
-            
-            # Atom fallbacks
-            if title_el is None: title_el = item.find('{http://www.w3.org/2005/Atom}title')
-            if link_el is None: link_el = item.find('{http://www.w3.org/2005/Atom}link')
-            if desc_el is None: desc_el = item.find('{http://www.w3.org/2005/Atom}summary')
-            if pub_el is None: pub_el = item.find('{http://www.w3.org/2005/Atom}published')
-            
-            title = title_el.text if title_el is not None else ""
-            
-            # Handle Atom links which are attributes
-            if link_el is not None and link_el.text:
-                link = link_el.text
-            elif link_el is not None and link_el.get('href'):
-                link = link_el.get('href')
-            else:
-                link = ""
+        print(f"Fetching {feed['name']}...")
+        try:
+            req = urllib.request.Request(feed['url'], headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req) as response:
+                xml_data = response.read()
+                root = ET.fromstring(xml_data)
                 
-            desc = clean_html(desc_el.text) if desc_el is not None else ""
-            
-            # Extract image from RSS/Atom/HTML
-            image_url = None
-            
-            # 1. Check media:content (RSS)
-            media_content = item.find('.//{http://search.yahoo.com/mrss/}content')
-            if media_content is not None and media_content.get('url'):
-                image_url = media_content.get('url')
-                
-            # 2. Check media:thumbnail
-            if not image_url:
-                media_thumb = item.find('.//{http://search.yahoo.com/mrss/}thumbnail')
-                if media_thumb is not None and media_thumb.get('url'):
-                    image_url = media_thumb.get('url')
+                # Basic RSS 2.0 parsing
+                for item in root.findall('.//item'):
+                    title_el = item.find('title')
+                    desc_el = item.find('description')
+                    link_el = item.find('link')
+                    pub_date_el = item.find('pubDate')
                     
-            # 3. Check enclosure (RSS)
-            if not image_url:
-                enclosure = item.find('enclosure')
-                if enclosure is not None and enclosure.get('type', '').startswith('image/') and enclosure.get('url'):
-                    image_url = enclosure.get('url')
-                    
-            # 4. Check Atom enclosure link
-            if not image_url:
-                for lnk in item.findall('{http://www.w3.org/2005/Atom}link'):
-                    if lnk.get('rel') == 'enclosure' and lnk.get('type', '').startswith('image/') and lnk.get('href'):
-                        image_url = lnk.get('href')
-                        break
+                    if title_el is None or link_el is None:
+                        continue
                         
-            # 5. Check description HTML for an img tag
-            if not image_url and desc_el is not None and desc_el.text:
-                img_match = re.search(r'<img[^>]+src=["\'](.*?)["\']', desc_el.text, re.IGNORECASE)
-                if img_match:
-                    image_url = img_match.group(1)
+                    title = title_el.text
                     
-            # Fallback to placeholder if no image found
-            if not image_url:
-                image_url = random.choice(PLACEHOLDER_IMAGES)
+                    # Check if relevant
+                    if any(keyword.lower() in title.lower() for keyword in KEYWORDS):
+                        if title in existing_titles:
+                            continue
+                            
+                        desc = clean_html(desc_el.text) if desc_el is not None else ""
+                        
+                        # Extract image from RSS/Atom/HTML
+                        image_url = None
+                        
+                        # Try media:content
+                        media_content = item.find('{http://search.yahoo.com/mrss/}content')
+                        if media_content is not None and 'url' in media_content.attrib:
+                            image_url = media_content.attrib['url']
+                        
+                        # Try enclosure
+                        if not image_url:
+                            enclosure = item.find('enclosure')
+                            if enclosure is not None and 'url' in enclosure.attrib and 'image' in enclosure.attrib.get('type', ''):
+                                image_url = enclosure.attrib['url']
+                                
+                        # Try parsing from description HTML
+                        if not image_url and desc_el is not None and desc_el.text:
+                            img_match = re.search(r'<img[^>]+src="([^">]+)"', desc_el.text)
+                            if img_match:
+                                image_url = img_match.group(1)
+                                
+                        # Use a fallback image if none found, we will inject a clean placeholder path
+                        if not image_url:
+                            image_url = f"assets/images/mw4_placeholder_{random.randint(1, 3)}.png"
+                            
+                        pub_date = pub_date_el.text if pub_date_el is not None else datetime.now().isoformat()
+                        
+                        article = {
+                            "id": f"scraped-{uuid.uuid4().hex[:8]}",
+                            "title": title,
+                            "summary": desc[:250] + "..." if len(desc) > 250 else desc,
+                            "imageUrl": image_url,
+                            "sourceUrl": link_el.text,
+                            "source": {
+                                "name": feed['name'],
+                                "credibility": feed['credibility']
+                            },
+                            "publishedAt": pub_date,
+                            "classification": "rumour",
+                            "confidence": "medium",
+                            "pinned": False,
+                            "featured": False,
+                            "confirmed": False,
+                            "debunked": False
+                        }
+                        
+                        new_articles.append(article)
+                        existing_titles.add(title)
+                        print(f"Found new article: {title}")
+                        
+        except Exception as e:
+            print(f"Error scraping {feed['name']}: {e}")
             
-            # Check for keywords
-            content_to_check = (title + " " + desc).lower()
-            
-            # Matching logic to include both strict MW4 and speculative 2026 rumors
-            has_mw4 = re.search(r'\b(modern warfare 4|modern warfare iv|mw4)\b', content_to_check)
-            has_2026_speculation = re.search(r'\b(call of duty 2026|cod 2026)\b', content_to_check)
-            has_cod = re.search(r'\b(call of duty|cod)\b', content_to_check)
-            
-            # Require either explicit MW4 + CoD, OR explicit CoD 2026 speculation
-            matched = (has_mw4 and has_cod) or has_2026_speculation
-                    
-            if matched:
-                print(f"Found MW4 match: {title}")
-                
-                # Format date
-                published_at = datetime.utcnow().isoformat() + "Z" # Fallback
-                
-                new_articles.append({
-                    "id": str(uuid.uuid4()),
-                    "title": title,
-                    "summary": desc[:250] + "..." if len(desc) > 250 else desc,
-                    "imageUrl": image_url,
-                    "sourceUrl": link,
-                    "source": {
-                        "name": feed['name'],
-                        "credibility": feed['credibility']
-                    },
-                    "publishedAt": published_at,
-                    "classification": "news",
-                    "confidence": "medium",
-                    "pinned": False,
-                    "featured": False,
-                    "confirmed": False,
-                    "debunked": False
-                })
-                
-    return new_articles
-
-def main():
-    print("Starting MW4 Auto-Scraper...")
-    
-    # Load existing data
-    with open(DATA_FILE, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    if new_articles:
+        # Prepend new articles
+        all_articles = new_articles + existing_articles
+        # Keep only top 50
+        all_articles = all_articles[:50]
         
-    existing_urls = {article.get('sourceUrl') for article in data.get('articles', [])}
-    
-    new_articles = process_feeds()
-    
-    added_count = 0
-    for article in new_articles:
-        if article['sourceUrl'] not in existing_urls and article['sourceUrl'] != "":
-            # Add to top
-            data['articles'].insert(0, article)
-            existing_urls.add(article['sourceUrl'])
-            added_count += 1
-            
-    if added_count > 0:
-        with open(DATA_FILE, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"Successfully added {added_count} new articles to news.json.")
+        with open(DATA_FILE, 'w') as f:
+            json.dump({"articles": all_articles}, f, indent=2)
+        print(f"[{datetime.now().isoformat()}] Added {len(new_articles)} new articles. Total: {len(all_articles)}")
     else:
-        print("No new articles found.")
+        print(f"[{datetime.now().isoformat()}] No new articles found.")
 
 if __name__ == "__main__":
-    main()
+    scrape_feeds()
