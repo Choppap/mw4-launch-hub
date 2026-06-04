@@ -93,13 +93,13 @@ def process_feeds():
             # Check for keywords
             content_to_check = (title + " " + desc).lower()
             
-            # Super strict matching to prevent unrelated articles
+            # Matching logic to include both strict MW4 and speculative 2026 rumors
             has_mw4 = re.search(r'\b(modern warfare 4|modern warfare iv|mw4)\b', content_to_check)
+            has_2026_speculation = re.search(r'\b(call of duty 2026|cod 2026)\b', content_to_check)
             has_cod = re.search(r'\b(call of duty|cod)\b', content_to_check)
-            has_2026 = re.search(r'\b2026\b', content_to_check)
             
-            # Require at least MW4 and CoD to be mentioned
-            matched = has_mw4 and has_cod
+            # Require either explicit MW4 + CoD, OR explicit CoD 2026 speculation
+            matched = (has_mw4 and has_cod) or has_2026_speculation
                     
             if matched:
                 print(f"Found MW4 match: {title}")
