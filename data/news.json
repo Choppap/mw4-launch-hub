@@ -1,0 +1,220 @@
+{
+  "articles": [
+    {
+      "id": "mw4-official-reveal-2026",
+      "title": "Call of Duty: Modern Warfare 4 Officially Announced — Full Reveal Trailer Drops",
+      "summary": "Activision has officially confirmed Call of Duty: Modern Warfare 4 with a stunning cinematic reveal trailer showcasing next-gen visuals, a gripping campaign narrative, and the return of fan-favorite characters. The game is set for a global launch this October.",
+      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.callofduty.com",
+      "source": {
+        "name": "Call of Duty Blog",
+        "credibility": "official"
+      },
+      "publishedAt": "2026-05-15T18:00:00Z",
+      "classification": "official",
+      "confidence": "high",
+      "pinned": true,
+      "featured": true,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-multiplayer-details",
+      "title": "MW4 Multiplayer: 16 Maps at Launch, New Movement System, and Ranked Play Details",
+      "summary": "Infinity Ward confirms Modern Warfare 4 will ship with 16 core multiplayer maps, including remasters of classic maps and entirely new battlegrounds. A revamped movement system and day-one ranked play are also confirmed.",
+      "imageUrl": "https://images.unsplash.com/photo-1552820728-8b83bb6b2b28?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.ign.com",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-20T14:00:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-campaign-story",
+      "title": "MW4 Campaign: Price and Team 141 Return for One Final Mission",
+      "summary": "Multiple sources confirm that Captain Price, Soap, Ghost, and Gaz will return in Modern Warfare 4's campaign. The story reportedly spans multiple global locations and features the series' most ambitious narrative yet.",
+      "imageUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.gamespot.com",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-18T10:30:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-warzone-integration",
+      "title": "Warzone Integration: MW4 Weapons and Operators Coming Day One",
+      "summary": "Activision reveals that Modern Warfare 4 will feature full Warzone integration at launch. New MW4 weapons, operators, and a fresh Warzone map are expected to drop alongside the main game's release.",
+      "imageUrl": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&h=450&fit=crop",
+      "sourceUrl": "https://news.xbox.com",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "2026-05-22T16:00:00Z",
+      "classification": "official",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-beta-dates-leak",
+      "title": "LEAKED: MW4 Open Beta Dates Reportedly Set for September 2026",
+      "summary": "A prominent Call of Duty leaker has shared alleged MW4 open beta dates, claiming PlayStation players will get early access in mid-September, followed by Xbox and PC players the following weekend.",
+      "imageUrl": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&h=450&fit=crop",
+      "sourceUrl": "https://twitter.com",
+      "source": {
+        "name": "Community Leaker",
+        "credibility": "unverified"
+      },
+      "publishedAt": "2026-05-25T09:15:00Z",
+      "classification": "leak",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-engine-analysis",
+      "title": "Technical Analysis: MW4 Runs on an Enhanced IW 9.0 Engine with Ray Tracing 2.0",
+      "summary": "Digital Foundry provides an in-depth technical analysis of the MW4 reveal trailer, identifying an upgraded IW 9.0 engine with improved ray tracing, volumetric lighting, and photogrammetry-based environments.",
+      "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.eurogamer.net",
+      "source": {
+        "name": "Digital Foundry",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "classification": "analysis",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-battle-royale-rumour",
+      "title": "Rumour: MW4 May Include Standalone Battle Royale Mode Separate from Warzone",
+      "summary": "Unverified reports suggest Infinity Ward is developing a standalone battle royale mode for MW4, separate from Warzone. The mode reportedly features smaller maps and a tactical gameplay focus.",
+      "imageUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.windowscentral.com",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-28T08:45:00Z",
+      "classification": "rumour",
+      "confidence": "low",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-pc-specs",
+      "title": "MW4 PC System Requirements Revealed: SSD Required, DLSS 3.5 Supported",
+      "summary": "Activision has published the official PC system requirements for Modern Warfare 4. An SSD is now mandatory for all PC players, and the game will support NVIDIA DLSS 3.5 and AMD FSR 3.1 at launch.",
+      "imageUrl": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.callofduty.com",
+      "source": {
+        "name": "Call of Duty Blog",
+        "credibility": "official"
+      },
+      "publishedAt": "2026-06-01T15:00:00Z",
+      "classification": "official",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-zombies-mode",
+      "title": "MW4 Zombies: Leaker Claims Infinity Ward Adding Zombies Mode Post-Launch",
+      "summary": "A well-known Call of Duty insider claims MW4 will receive a Zombies mode as post-launch DLC, marking the first time Infinity Ward has developed a Zombies experience. The mode is reportedly co-developed with Treyarch.",
+      "imageUrl": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.techradar.com",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-30T11:30:00Z",
+      "classification": "leak",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-gamepass-day-one",
+      "title": "MW4 Confirmed for Xbox Game Pass on Day One",
+      "summary": "Microsoft confirms that Call of Duty: Modern Warfare 4 will be available on Xbox Game Pass and PC Game Pass from day one, continuing the post-acquisition strategy of bringing major Activision titles to the subscription service.",
+      "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=800&h=450&fit=crop",
+      "sourceUrl": "https://news.xbox.com",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "2026-05-16T20:00:00Z",
+      "classification": "official",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-esports-plans",
+      "title": "CDL 2027: MW4 Competitive Ruleset and Esports Roadmap Leaked",
+      "summary": "Leaked documents suggest the Call of Duty League's 2027 season will be played on MW4 with a revamped competitive ruleset. New game modes and a $10 million prize pool are reportedly planned.",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.theverge.com",
+      "source": {
+        "name": "The Verge",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-02T13:00:00Z",
+      "classification": "leak",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-crossplay-details",
+      "title": "MW4 Cross-Play: Input-Based Matchmaking and Cross-Progression Confirmed",
+      "summary": "Infinity Ward confirms that Modern Warfare 4 will feature input-based matchmaking for cross-play, along with full cross-progression across PlayStation, Xbox, and PC platforms.",
+      "imageUrl": "https://images.unsplash.com/photo-1560253023-3780fb1ffe18?w=800&h=450&fit=crop",
+      "sourceUrl": "https://www.gamespot.com",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-03T10:00:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    }
+  ]
+}

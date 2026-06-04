@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "icon": "📅",
+      "label": "Release Date",
+      "value": "October 24, 2026",
+      "detail": "Global simultaneous launch across all platforms. Midnight ET / 9PM PT on October 23rd.",
+      "confirmed": true,
+      "source": "Activision"
+    },
+    {
+      "icon": "🏢",
+      "label": "Developer",
+      "value": "Infinity Ward",
+      "detail": "Lead development by Infinity Ward with support from Beenox, Raven Software, and Sledgehammer Games.",
+      "confirmed": true,
+      "source": "Activision"
+    },
+    {
+      "icon": "🎮",
+      "label": "Platforms",
+      "value": "PS5, Xbox, PC",
+      "detail": "PlayStation 5, Xbox Series X|S, and PC (Steam & Battle.net). Available on Game Pass day one.",
+      "confirmed": true,
+      "source": "Xbox Wire"
+    },
+    {
+      "icon": "⚙️",
+      "label": "Engine",
+      "value": "IW 9.0 Engine",
+      "detail": "Enhanced version of the proprietary IW engine with improved ray tracing, volumetric lighting, and photogrammetry.",
+      "confirmed": true,
+      "source": "Infinity Ward"
+    },
+    {
+      "icon": "🎬",
+      "label": "Campaign",
+      "value": "Task Force 141 Returns",
+      "detail": "Captain Price, Soap, Ghost, and Gaz return for a globe-spanning narrative. Single-player campaign included.",
+      "confirmed": true,
+      "source": "Reveal Trailer"
+    },
+    {
+      "icon": "⚔️",
+      "label": "Multiplayer",
+      "value": "16 Maps at Launch",
+      "detail": "16 core maps including fan-favorite remasters. New movement system, perks overhaul, and day-one ranked play.",
+      "confirmed": true,
+      "source": "IGN Interview"
+    },
+    {
+      "icon": "🌍",
+      "label": "Warzone Integration",
+      "value": "Day One Integration",
+      "detail": "Full Warzone integration with new MW4 weapons, operators, and a fresh battle royale map at launch.",
+      "confirmed": true,
+      "source": "Xbox Wire"
+    },
+    {
+      "icon": "🧟",
+      "label": "Zombies Mode",
+      "value": "Post-Launch DLC",
+      "detail": "Zombies mode reportedly coming as post-launch content, co-developed with Treyarch. Not confirmed officially.",
+      "confirmed": false,
+      "source": "Leaker Reports"
+    },
+    {
+      "icon": "💻",
+      "label": "PC Requirements",
+      "value": "SSD Required",
+      "detail": "Minimum: RTX 3060 / RX 6600, 16GB RAM, SSD required. Supports DLSS 3.5 and FSR 3.1.",
+      "confirmed": true,
+      "source": "Call of Duty Blog"
+    }
+  ]
+}

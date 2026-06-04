@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "date": "May 2026",
+      "title": "Official Announcement",
+      "description": "Activision officially reveals Call of Duty: Modern Warfare 4 with a cinematic announcement trailer.",
+      "status": "past",
+      "icon": "📢"
+    },
+    {
+      "date": "May 15, 2026",
+      "title": "Reveal Trailer",
+      "description": "The full reveal trailer showcases MW4's campaign, next-gen visuals, and confirms returning characters.",
+      "status": "past",
+      "icon": "🎬"
+    },
+    {
+      "date": "June 2026",
+      "title": "Gameplay Reveal",
+      "description": "First look at MW4 gameplay footage, showcasing the enhanced IW 9.0 engine and new movement mechanics.",
+      "status": "upcoming",
+      "icon": "🎮"
+    },
+    {
+      "date": "July 2026",
+      "title": "Multiplayer Reveal Event",
+      "description": "Full multiplayer reveal event with map walkthroughs, weapon system deep-dives, and content creator hands-on sessions.",
+      "status": "upcoming",
+      "icon": "⚔️"
+    },
+    {
+      "date": "August 2026",
+      "title": "Campaign Deep Dive",
+      "description": "Extended look at the MW4 campaign with developer commentary, story details, and mission previews.",
+      "status": "rumoured",
+      "icon": "🎯"
+    },
+    {
+      "date": "September 12–14, 2026",
+      "title": "Early Access Beta (PlayStation)",
+      "description": "PlayStation players get exclusive early access to the MW4 open beta weekend.",
+      "status": "rumoured",
+      "icon": "🕹️"
+    },
+    {
+      "date": "September 19–21, 2026",
+      "title": "Open Beta (All Platforms)",
+      "description": "Open beta weekend for all platforms including Xbox, PC, and PlayStation.",
+      "status": "rumoured",
+      "icon": "🌐"
+    },
+    {
+      "date": "October 2026",
+      "title": "Pre-Load Available",
+      "description": "Pre-load becomes available for all digital pre-order customers across all platforms.",
+      "status": "upcoming",
+      "icon": "📥"
+    },
+    {
+      "date": "October 24, 2026",
+      "title": "🚀 GLOBAL LAUNCH",
+      "description": "Call of Duty: Modern Warfare 4 launches worldwide on PlayStation, Xbox, and PC. Available day one on Game Pass.",
+      "status": "upcoming",
+      "icon": "🚀"
+    },
+    {
+      "date": "November 2026",
+      "title": "Season 1 Content Drop",
+      "description": "First major post-launch content update with new maps, weapons, operators, and Warzone integration.",
+      "status": "rumoured",
+      "icon": "📦"
+    },
+    {
+      "date": "January 2027",
+      "title": "Season 2 & Ranked Play",
+      "description": "Season 2 launch with ranked play mode, new battle pass, and competitive playlist updates.",
+      "status": "rumoured",
+      "icon": "🏆"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "sources": [
+    {
+      "name": "Call of Duty Blog",
+      "url": "https://www.callofduty.com/blog",
+      "credibility": "official",
+      "credibilityScore": 10,
+      "description": "Official Call of Duty news and announcements directly from Activision.",
+      "badge": "✅ Official"
+    },
+    {
+      "name": "Activision",
+      "url": "https://www.activision.com",
+      "credibility": "official",
+      "credibilityScore": 10,
+      "description": "Publisher of Call of Duty. Official corporate communications and press releases.",
+      "badge": "✅ Official"
+    },
+    {
+      "name": "Xbox Wire",
+      "url": "https://news.xbox.com",
+      "credibility": "official",
+      "credibilityScore": 10,
+      "description": "Official Xbox news outlet. First-party source for Microsoft/Xbox gaming news.",
+      "badge": "✅ Official"
+    },
+    {
+      "name": "IGN",
+      "url": "https://www.ign.com",
+      "credibility": "trusted",
+      "credibilityScore": 8,
+      "description": "Major gaming news outlet with exclusive developer interviews and hands-on previews.",
+      "badge": "📰 Trusted"
+    },
+    {
+      "name": "GameSpot",
+      "url": "https://www.gamespot.com",
+      "credibility": "trusted",
+      "credibilityScore": 8,
+      "description": "Established gaming publication with in-depth coverage and professional reviews.",
+      "badge": "📰 Trusted"
+    },
+    {
+      "name": "Windows Central",
+      "url": "https://www.windowscentral.com",
+      "credibility": "trusted",
+      "credibilityScore": 7,
+      "description": "Microsoft-focused tech publication with strong insider connections for Xbox/PC gaming.",
+      "badge": "📰 Trusted"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com",
+      "credibility": "trusted",
+      "credibilityScore": 8,
+      "description": "Leading technology publication covering gaming, tech, and entertainment.",
+      "badge": "📰 Trusted"
+    },
+    {
+      "name": "TechRadar",
+      "url": "https://www.techradar.com",
+      "credibility": "trusted",
+      "credibilityScore": 7,
+      "description": "Technology news and reviews publication with gaming coverage.",
+      "badge": "📰 Trusted"
+    },
+    {
+      "name": "Digital Foundry",
+      "url": "https://www.eurogamer.net/digital-foundry",
+      "credibility": "trusted",
+      "credibilityScore": 9,
+      "description": "Industry-leading technical analysis team specializing in game engine and performance breakdowns.",
+      "badge": "🔍 Expert"
+    },
+    {
+      "name": "Community Leakers",
+      "url": "#",
+      "credibility": "unverified",
+      "credibilityScore": 3,
+      "description": "Unverified community sources including social media leakers and data miners. Information should be treated with caution.",
+      "badge": "⚠️ Unverified"
+    }
+  ]
+}
