@@ -19,11 +19,9 @@ KEYWORDS = ["MW4", "Modern Warfare 4", "Modern Warfare IV"]
 DATA_FILE = os.path.join(os.path.dirname(__file__), '..', 'data', 'news.json')
 
 PLACEHOLDER_IMAGES = [
-    "https://upload.wikimedia.org/wikipedia/en/1/1d/Call_of_Duty_Modern_Warfare_III_key_art.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/b/b2/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/e/e9/CallofDutyModernWarfare%282019%29.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/4/43/Call_of_Duty_Warzone_2.0_cover_art.jpg",
-    "https://upload.wikimedia.org/wikipedia/en/5/51/Call_of_Duty_Modern_Warfare_3_Campaign_Remastered.jpg"
+    "assets/images/mw4_placeholder_1.png",
+    "assets/images/mw4_placeholder_2.png",
+    "assets/images/mw4_placeholder_3.png"
 ]
 
 import ssl
