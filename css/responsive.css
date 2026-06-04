@@ -1,0 +1,196 @@
+/* ============================================
+   MW4 LAUNCH HUB — Responsive Styles
+   ============================================ */
+
+/* ── Ultra Wide (2560px+) ────────────────── */
+@media (min-width: 2560px) {
+  :root {
+    --max-width: 1800px;
+    --fs-hero: 8rem;
+  }
+  
+  .news-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .info-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* ── Large Desktop (1440px) ──────────────── */
+@media (max-width: 1440px) {
+  .news-grid {
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  }
+}
+
+/* ── Tablet Landscape (1024px) ───────────── */
+@media (max-width: 1024px) {
+  .nav__links {
+    display: none;
+  }
+
+  .nav__hamburger {
+    display: flex;
+  }
+
+  .hero__title {
+    font-size: clamp(2.5rem, 7vw, 4rem);
+  }
+
+  .news-card--featured {
+    grid-template-columns: 1fr;
+  }
+
+  .footer__grid {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-xl);
+  }
+
+  .timeline__item {
+    width: 100%;
+    left: 0 !important;
+    padding-left: var(--space-3xl) !important;
+    padding-right: var(--space-md) !important;
+    text-align: left !important;
+  }
+
+  .timeline::before {
+    left: 15px;
+    transform: none;
+  }
+
+  .timeline__dot {
+    left: 7px !important;
+    right: auto !important;
+  }
+}
+
+/* ── Tablet Portrait (768px) ─────────────── */
+@media (max-width: 768px) {
+  :root {
+    --section-padding: clamp(3rem, 6vw, 5rem);
+    --nav-height: 60px;
+  }
+
+  .container {
+    padding: 0 var(--space-md);
+  }
+
+  .countdown__timer {
+    gap: var(--space-sm);
+  }
+
+  .countdown__value {
+    padding: var(--space-sm) var(--space-md);
+    min-width: 65px;
+  }
+
+  .countdown__info {
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .info-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .newsletter__form {
+    flex-direction: column;
+  }
+
+  .newsletter__input {
+    width: 100%;
+  }
+
+  .footer__grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-xl);
+  }
+
+  .filter-bar {
+    justify-content: center;
+  }
+}
+
+/* ── Mobile (480px) ──────────────────────── */
+@media (max-width: 480px) {
+  .hero {
+    padding: var(--space-xl) var(--space-md);
+  }
+
+  .hero__logo {
+    width: 180px;
+  }
+
+  .countdown__timer {
+    gap: var(--space-2xs);
+  }
+
+  .countdown__value {
+    font-size: 2rem;
+    min-width: 55px;
+    padding: var(--space-xs) var(--space-sm);
+  }
+
+  .countdown__separator {
+    font-size: 1.2rem;
+  }
+
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section__title {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+  }
+
+  .disclaimer {
+    padding: var(--space-md);
+  }
+
+  .disclaimer::before {
+    display: none;
+  }
+
+  .disclaimer__title,
+  .disclaimer__text {
+    padding-left: 0;
+  }
+
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .timeline__item {
+    padding-left: var(--space-2xl) !important;
+  }
+
+  .timeline::before {
+    left: 10px;
+  }
+
+  .timeline__dot {
+    left: 2px !important;
+    width: 14px;
+    height: 14px;
+  }
+}
+
+/* ── Small Mobile (360px) ────────────────── */
+@media (max-width: 360px) {
+  .countdown__value {
+    font-size: 1.5rem;
+    min-width: 45px;
+  }
+
+  .countdown__label {
+    font-size: 0.6rem;
+  }
+}
