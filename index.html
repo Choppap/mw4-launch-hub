@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MW4 Launch Hub — Call of Duty: Modern Warfare 4 Countdown & Intel</title>
+  <meta name="description" content="The ultimate fan-made countdown hub for Call of Duty: Modern Warfare 4. Live countdown timer, latest news, intel, and everything MW4.">
+  <meta name="keywords" content="MW4, Modern Warfare 4, Call of Duty, COD, countdown, release date, news, intel, multiplayer, Warzone">
+  <meta name="author" content="MW4 Launch Hub Community">
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="MW4 Launch Hub — Modern Warfare 4 Countdown">
+  <meta property="og:description" content="Live countdown, latest news, and intel for Call of Duty: Modern Warfare 4.">
+  <meta property="og:url" content="https://choppap.github.io/mw4-launch-hub/">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="MW4 Launch Hub">
+  <meta name="twitter:description" content="Live countdown & intel for Call of Duty: Modern Warfare 4">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  
+  <!-- Preload critical fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <!-- RSS Feed -->
+  <link rel="alternate" type="application/rss+xml" title="MW4 Launch Hub RSS" href="feed.xml">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════
+       PARTICLES BACKGROUND
+       ═══════════════════════════════════════ -->
+  <canvas id="particles-canvas" aria-hidden="true"></canvas>
+
+  <!-- ═══════════════════════════════════════
+       NAVIGATION
+       ═══════════════════════════════════════ -->
+  <nav class="nav" id="main-nav" role="navigation" aria-label="Main navigation">
+    <div class="nav__inner">
+      <a href="#" class="nav__logo" id="nav-logo">
+        <span class="nav__logo-icon">MW</span>
+        MW4 Hub
+      </a>
+
+      <div class="nav__links" id="nav-links">
+        <a href="#countdown" class="nav__link" id="nav-countdown">Countdown</a>
+        <a href="#news" class="nav__link" id="nav-news">Intel</a>
+        <a href="#info" class="nav__link" id="nav-info">Details</a>
+        <a href="#timeline" class="nav__link" id="nav-timeline">Timeline</a>
+        <a href="sources.html" class="nav__link" id="nav-sources">Sources</a>
+      </div>
+
+      <div class="nav__actions">
+        <button class="nav__theme-toggle" id="theme-toggle" aria-label="Toggle dark/light mode">🌙</button>
+        <button class="nav__hamburger" id="hamburger-btn" aria-label="Toggle mobile menu" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div class="nav__mobile-menu" id="mobile-menu">
+      <a href="#countdown" class="nav__mobile-link">Countdown</a>
+      <a href="#news" class="nav__mobile-link">Intel Hub</a>
+      <a href="#info" class="nav__mobile-link">Game Details</a>
+      <a href="#timeline" class="nav__mobile-link">Timeline</a>
+      <a href="sources.html" class="nav__mobile-link">Sources</a>
+      <button class="btn btn--primary" id="enable-notifications" style="margin-top: auto;">🔔 Enable Notifications</button>
+    </div>
+  </nav>
+
+  <!-- Scroll Progress -->
+  <div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
+
+  <!-- ═══════════════════════════════════════
+       HERO SECTION
+       ═══════════════════════════════════════ -->
+  <header class="hero" id="hero">
+    <div class="hero__bg">
+      <img src="assets/images/mw4-hero-bg.jpg" 
+           alt="MW4 cinematic background" 
+           fetchpriority="high"
+           onerror="this.style.display='none'">
+    </div>
+
+    <div class="hero__content">
+      <img src="assets/images/mw4-logo.png" 
+           alt="Modern Warfare 4 Logo" 
+           class="hero__logo"
+           fetchpriority="high"
+           onerror="this.outerHTML='<div style=&quot;font-family: Rajdhani, sans-serif; font-size: clamp(3rem, 10vw, 6rem); font-weight: 900; letter-spacing: 0.05em; background: linear-gradient(135deg, #f0f0f0, #ff6b35); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 1.5rem; filter: drop-shadow(0 0 30px rgba(255,107,53,0.3));&quot;>MW4</div>'">
+
+      <span class="hero__pre-title">Call of Duty</span>
+      <h1 class="hero__title">Modern Warfare <span>4</span><br>Launches In</h1>
+
+      <!-- COUNTDOWN TIMER -->
+      <div class="countdown" id="countdown">
+        <div class="countdown__timer">
+          <div class="countdown__unit">
+            <div class="countdown__value" id="countdown-days">000</div>
+            <div class="countdown__label">Days</div>
+          </div>
+          <span class="countdown__separator">:</span>
+          <div class="countdown__unit">
+            <div class="countdown__value" id="countdown-hours">00</div>
+            <div class="countdown__label">Hours</div>
+          </div>
+          <span class="countdown__separator">:</span>
+          <div class="countdown__unit">
+            <div class="countdown__value" id="countdown-minutes">00</div>
+            <div class="countdown__label">Minutes</div>
+          </div>
+          <span class="countdown__separator">:</span>
+          <div class="countdown__unit">
+            <div class="countdown__value" id="countdown-seconds">00</div>
+            <div class="countdown__label">Seconds</div>
+          </div>
+        </div>
+
+        <div class="countdown__info">
+          <div class="countdown__info-item">
+            <span class="countdown__info-icon">📅</span>
+            <span id="release-date">Loading...</span>
+          </div>
+          <div class="countdown__info-item">
+            <span class="countdown__info-icon">⏰</span>
+            <span id="release-time">Loading...</span>
+          </div>
+          <div class="countdown__info-item">
+            <span class="countdown__info-icon">🌍</span>
+            <span id="current-timezone">Detecting...</span>
+          </div>
+          <select class="countdown__tz-select" id="timezone-select" aria-label="Select timezone">
+            <option>Loading timezones...</option>
+          </select>
+        </div>
+
+        <div style="margin-top: var(--space-xl); display: flex; gap: var(--space-md); justify-content: center; flex-wrap: wrap;">
+          <button class="btn btn--primary" id="countdown-share-btn">📤 Share Countdown</button>
+          <button class="btn btn--secondary" id="enable-notifications-hero" onclick="document.getElementById('enable-notifications').click()">🔔 Get Notified</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero__scroll-indicator">
+      <span class="hero__scroll-text">Scroll for Intel</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════
+       NEWS & INTEL HUB
+       ═══════════════════════════════════════ -->
+  <section class="section" id="news">
+    <div class="container">
+      <div class="section__header reveal">
+        <span class="section__subtitle">📡 Intel Feed</span>
+        <h2 class="section__title">MW4 News & Intel Hub</h2>
+        <p class="section__description">Latest information, reports, and community intel on Modern Warfare 4.</p>
+      </div>
+
+      <!-- Disclaimer Banner -->
+      <div class="disclaimer reveal">
+        <div class="disclaimer__title">News & Rumour Disclaimer</div>
+        <p class="disclaimer__text">
+          Information displayed on this website is collected from third-party news sources, journalists, leakers, content creators, and community reports. While we strive to feature information from reputable sources, some details may be inaccurate, speculative, outdated, unconfirmed, or later proven false. Users should treat all rumours, leaks, and unofficial reports with caution until officially confirmed by Activision, Call of Duty, or Infinity Ward.
+        </p>
+      </div>
+
+      <!-- Search -->
+      <div class="news-search reveal">
+        <span class="news-search__icon">🔍</span>
+        <input type="text" 
+               class="news-search__input" 
+               id="news-search-input" 
+               placeholder="Search intel..." 
+               aria-label="Search news articles">
+      </div>
+
+      <!-- Filter Bar -->
+      <div class="filter-bar reveal" id="news-filters">
+        <!-- Rendered by JS -->
+      </div>
+
+      <!-- News Grid -->
+      <div class="news-grid" id="news-grid">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ═══════════════════════════════════════
+       OFFICIAL INFORMATION
+       ═══════════════════════════════════════ -->
+  <section class="section" id="info">
+    <div class="container">
+      <div class="section__header reveal">
+        <span class="section__subtitle">📋 Confirmed Details</span>
+        <h2 class="section__title">What We Know About MW4</h2>
+        <p class="section__description">Currently known details from verified sources. Items marked as unconfirmed are based on reliable reports but await official confirmation.</p>
+      </div>
+
+      <div class="info-grid stagger-children" id="info-grid">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ═══════════════════════════════════════
+       TIMELINE
+       ═══════════════════════════════════════ -->
+  <section class="section" id="timeline">
+    <div class="container">
+      <div class="section__header reveal">
+        <span class="section__subtitle">📅 Roadmap</span>
+        <h2 class="section__title">MW4 Timeline</h2>
+        <p class="section__description">Track every major milestone from announcement to launch and beyond.</p>
+      </div>
+
+      <div class="timeline" id="timeline-container">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- ═══════════════════════════════════════
+       NEWSLETTER
+       ═══════════════════════════════════════ -->
+  <section class="section" id="newsletter">
+    <div class="container">
+      <div class="newsletter reveal">
+        <span class="section__subtitle">📧 Stay Informed</span>
+        <h2 class="section__title" style="font-size: var(--fs-h2);">Get MW4 Updates</h2>
+        <p class="section__description">Subscribe for the latest MW4 news, countdown alerts, and launch notifications.</p>
+        <form class="newsletter__form" id="newsletter-form">
+          <input type="email" class="newsletter__input" placeholder="Enter your email" required aria-label="Email address">
+          <button type="submit" class="btn btn--primary">Subscribe</button>
+        </form>
+        <p style="font-size: var(--fs-xs); color: var(--text-muted); margin-top: var(--space-md);">No spam. Unsubscribe anytime. We respect your privacy.</p>
+      </div>
+
+      <!-- Social Links -->
+      <div style="text-align: center; margin-top: var(--space-2xl);" class="reveal">
+        <p style="font-family: var(--font-display); font-size: var(--fs-small); font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); margin-bottom: var(--space-md);">Join the Community</p>
+        <div style="display: flex; gap: var(--space-md); justify-content: center; flex-wrap: wrap;">
+          <a href="https://discord.gg/callofduty" target="_blank" rel="noopener noreferrer" class="btn btn--ghost">💬 Discord</a>
+          <a href="https://reddit.com/r/ModernWarfareIV" target="_blank" rel="noopener noreferrer" class="btn btn--ghost">📱 Reddit</a>
+          <a href="https://twitter.com/CallofDuty" target="_blank" rel="noopener noreferrer" class="btn btn--ghost">🐦 Twitter/X</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════ -->
+  <footer class="footer" id="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <a href="#" class="nav__logo" style="margin-bottom: var(--space-sm); display: inline-flex;">
+            <span class="nav__logo-icon">MW</span>
+            MW4 Hub
+          </a>
+          <p class="footer__brand-desc">The ultimate fan-made countdown and intel hub for Call of Duty: Modern Warfare 4. Stay informed with the latest news, leaks, and official announcements.</p>
+          <div class="footer__socials">
+            <a href="https://discord.gg/callofduty" class="footer__social-link" aria-label="Discord" target="_blank" rel="noopener noreferrer">💬</a>
+            <a href="https://twitter.com/CallofDuty" class="footer__social-link" aria-label="Twitter" target="_blank" rel="noopener noreferrer">🐦</a>
+            <a href="https://reddit.com/r/ModernWarfareIV" class="footer__social-link" aria-label="Reddit" target="_blank" rel="noopener noreferrer">📱</a>
+            <a href="https://youtube.com/callofduty" class="footer__social-link" aria-label="YouTube" target="_blank" rel="noopener noreferrer">▶️</a>
+          </div>
+        </div>
+
+        <div>
+          <h3 class="footer__heading">Quick Links</h3>
+          <a href="#countdown" class="footer__link">Countdown</a>
+          <a href="#news" class="footer__link">News & Intel</a>
+          <a href="#info" class="footer__link">Game Details</a>
+          <a href="#timeline" class="footer__link">Timeline</a>
+        </div>
+
+        <div>
+          <h3 class="footer__heading">Resources</h3>
+          <a href="sources.html" class="footer__link">Our Sources</a>
+          <a href="feed.xml" class="footer__link">RSS Feed</a>
+          <a href="https://www.callofduty.com" target="_blank" rel="noopener noreferrer" class="footer__link">Official COD Site</a>
+          <a href="https://support.activision.com" target="_blank" rel="noopener noreferrer" class="footer__link">Activision Support</a>
+        </div>
+
+        <div>
+          <h3 class="footer__heading">Legal</h3>
+          <a href="#" class="footer__link">About This Site</a>
+          <a href="#" class="footer__link">Privacy Policy</a>
+          <a href="sources.html" class="footer__link">Source Policy</a>
+        </div>
+      </div>
+
+      <div class="footer__bottom">
+        <p class="footer__disclaimer">
+          ⚠️ This website is a fan-made community project and is not affiliated with Activision, Call of Duty, Infinity Ward, Microsoft, Xbox, PlayStation, or any related entities. All trademarks and registered trademarks are the property of their respective owners. Information may be speculative or unconfirmed.
+        </p>
+        <p class="footer__copyright">
+          © 2026 MW4 Launch Hub — A Community Project. All information sourced from publicly available news.
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ═══════════════════════════════════════
+       SCRIPTS
+       ═══════════════════════════════════════ -->
+  <script src="js/utils.js"></script>
+  <script src="js/countdown.js"></script>
+  <script src="js/news.js"></script>
+  <script src="js/timeline.js"></script>
+  <script src="js/particles.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

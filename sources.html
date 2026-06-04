@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sources & Credibility — MW4 Launch Hub</title>
+  <meta name="description" content="Full list of news sources used by MW4 Launch Hub, with credibility ratings and information about our article classification system.">
+  
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <style>
+    .sources-hero {
+      padding: calc(var(--nav-height) + var(--space-3xl)) 0 var(--space-3xl);
+      text-align: center;
+      background: linear-gradient(180deg, var(--charcoal-deep), var(--bg-primary));
+    }
+
+    .source-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: var(--space-xl);
+    }
+
+    .source-table th,
+    .source-table td {
+      text-align: left;
+      padding: var(--space-md) var(--space-lg);
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .source-table th {
+      font-family: var(--font-display);
+      font-size: var(--fs-xs);
+      font-weight: var(--fw-bold);
+      letter-spacing: var(--ls-ultra);
+      text-transform: uppercase;
+      color: var(--text-muted);
+      background: var(--glass-bg-light);
+    }
+
+    .source-table tr:hover td {
+      background: rgba(255, 107, 53, 0.03);
+    }
+
+    .source-table td {
+      font-size: var(--fs-small);
+      color: var(--text-secondary);
+    }
+
+    .credibility-bar {
+      width: 100px;
+      height: 6px;
+      background: var(--glass-bg-light);
+      border-radius: var(--radius-full);
+      overflow: hidden;
+    }
+
+    .credibility-bar__fill {
+      height: 100%;
+      border-radius: var(--radius-full);
+      transition: width 0.5s var(--ease-out);
+    }
+
+    .classification-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: var(--space-lg);
+      margin-top: var(--space-xl);
+    }
+
+    .classification-card {
+      background: var(--bg-card);
+      border: var(--glass-border);
+      border-radius: var(--radius-lg);
+      padding: var(--space-xl);
+      text-align: center;
+    }
+
+    .classification-card__icon {
+      font-size: 2.5rem;
+      margin-bottom: var(--space-md);
+    }
+
+    .classification-card__title {
+      font-family: var(--font-display);
+      font-size: var(--fs-h3);
+      margin-bottom: var(--space-xs);
+    }
+
+    .classification-card__desc {
+      font-size: var(--fs-small);
+      color: var(--text-muted);
+    }
+
+    @media (max-width: 768px) {
+      .source-table-wrap {
+        overflow-x: auto;
+      }
+      .source-table {
+        min-width: 600px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav nav--scrolled" role="navigation" aria-label="Main navigation">
+    <div class="nav__inner">
+      <a href="index.html" class="nav__logo">
+        <span class="nav__logo-icon">MW</span>
+        MW4 Hub
+      </a>
+      <div class="nav__links">
+        <a href="index.html#countdown" class="nav__link">Countdown</a>
+        <a href="index.html#news" class="nav__link">Intel</a>
+        <a href="index.html#info" class="nav__link">Details</a>
+        <a href="index.html#timeline" class="nav__link">Timeline</a>
+        <a href="sources.html" class="nav__link nav__link--active">Sources</a>
+      </div>
+      <div class="nav__actions">
+        <button class="nav__theme-toggle" id="theme-toggle-sources" aria-label="Toggle theme" onclick="const t=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',t);localStorage.setItem('mw4-theme',t);this.textContent=t==='dark'?'☀️':'🌙';">🌙</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <div class="sources-hero">
+    <div class="container">
+      <span class="section__subtitle">🔍 Transparency</span>
+      <h1 class="section__title">Sources & Credibility</h1>
+      <p class="section__description">We believe in transparency. Here's a complete list of our news sources and how we classify articles.</p>
+    </div>
+  </div>
+
+  <!-- Classification System -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title" style="text-align: center; margin-bottom: var(--space-md);">Article Classification System</h2>
+      <p style="text-align: center; color: var(--text-secondary); max-width: 600px; margin: 0 auto var(--space-xl);">
+        Every article on MW4 Launch Hub receives a classification badge and confidence rating to help you assess the reliability of information.
+      </p>
+
+      <div class="classification-grid">
+        <div class="classification-card">
+          <div class="classification-card__icon">✅</div>
+          <h3 class="classification-card__title">Official Source</h3>
+          <p class="classification-card__desc">Information directly from Activision, Infinity Ward, Xbox, or other official channels.</p>
+          <span class="badge badge--official" style="margin-top: var(--space-md); display: inline-flex;">High Reliability</span>
+        </div>
+
+        <div class="classification-card">
+          <div class="classification-card__icon">📰</div>
+          <h3 class="classification-card__title">News Report</h3>
+          <p class="classification-card__desc">Coverage from established gaming news outlets with editorial standards.</p>
+          <span class="badge badge--news" style="margin-top: var(--space-md); display: inline-flex;">Good Reliability</span>
+        </div>
+
+        <div class="classification-card">
+          <div class="classification-card__icon">🔍</div>
+          <h3 class="classification-card__title">Analysis</h3>
+          <p class="classification-card__desc">Expert technical breakdowns, speculation analysis, and informed commentary.</p>
+          <span class="badge badge--analysis" style="margin-top: var(--space-md); display: inline-flex;">Informed Opinion</span>
+        </div>
+
+        <div class="classification-card">
+          <div class="classification-card__icon">⚠️</div>
+          <h3 class="classification-card__title">Rumour</h3>
+          <p class="classification-card__desc">Unconfirmed reports that may or may not be accurate. Treat with caution.</p>
+          <span class="badge badge--rumour" style="margin-top: var(--space-md); display: inline-flex;">Unverified</span>
+        </div>
+
+        <div class="classification-card">
+          <div class="classification-card__icon">🚨</div>
+          <h3 class="classification-card__title">Leak</h3>
+          <p class="classification-card__desc">Information from data mines, insider sources, or unauthorized disclosures.</p>
+          <span class="badge badge--leak" style="margin-top: var(--space-md); display: inline-flex;">Unverified</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- Confidence Ratings -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title" style="text-align: center; margin-bottom: var(--space-xl);">Confidence Ratings</h2>
+      <div class="classification-grid" style="max-width: 900px; margin: 0 auto;">
+        <div class="classification-card">
+          <span class="badge badge--confidence-high" style="font-size: 0.85rem; padding: 6px 16px;">🟢 High Confidence</span>
+          <p class="classification-card__desc" style="margin-top: var(--space-md);">Confirmed by official sources or multiple trusted outlets. Very likely accurate.</p>
+        </div>
+        <div class="classification-card">
+          <span class="badge badge--confidence-medium" style="font-size: 0.85rem; padding: 6px 16px;">🟡 Medium Confidence</span>
+          <p class="classification-card__desc" style="margin-top: var(--space-md);">Reported by reliable sources but not officially confirmed. Plausible but unverified.</p>
+        </div>
+        <div class="classification-card">
+          <span class="badge badge--confidence-low" style="font-size: 0.85rem; padding: 6px 16px;">🔴 Low Confidence</span>
+          <p class="classification-card__desc" style="margin-top: var(--space-md);">Single source, anonymous tip, or speculative. May be inaccurate or fabricated.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-divider"></div>
+
+  <!-- Source List -->
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title" style="text-align: center; margin-bottom: var(--space-xl);">Our Sources</h2>
+      
+      <div class="source-table-wrap">
+        <table class="source-table" id="sources-table">
+          <thead>
+            <tr>
+              <th>Source</th>
+              <th>Type</th>
+              <th>Credibility</th>
+              <th>Score</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody id="sources-tbody">
+            <!-- Rendered by JS below -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__bottom">
+        <p class="footer__disclaimer">
+          ⚠️ This website is a fan-made community project and is not affiliated with Activision, Call of Duty, Infinity Ward, Microsoft, Xbox, PlayStation, or any related entities.
+        </p>
+        <p class="footer__copyright">© 2026 MW4 Launch Hub — A Community Project</p>
+        <a href="index.html" class="btn btn--secondary" style="margin-top: var(--space-lg);">← Back to Launch Hub</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Load and render sources
+    (async () => {
+      // Apply saved theme
+      const saved = localStorage.getItem('mw4-theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', saved);
+      const toggle = document.getElementById('theme-toggle-sources');
+      if (toggle) toggle.textContent = saved === 'dark' ? '☀️' : '🌙';
+
+      try {
+        const res = await fetch('./data/sources.json');
+        const data = await res.json();
+        const tbody = document.getElementById('sources-tbody');
+        
+        tbody.innerHTML = data.sources
+          .sort((a, b) => b.credibilityScore - a.credibilityScore)
+          .map(s => {
+            const barColor = s.credibilityScore >= 8 ? 'var(--badge-official)' 
+                          : s.credibilityScore >= 6 ? 'var(--badge-news)' 
+                          : s.credibilityScore >= 4 ? 'var(--badge-rumour)' 
+                          : 'var(--badge-leak)';
+            return `
+              <tr>
+                <td><a href="${s.url}" target="_blank" rel="noopener noreferrer" style="color: var(--text-primary); font-weight: 600;">${s.name}</a></td>
+                <td><span class="badge badge--${s.credibility === 'official' ? 'official' : s.credibility === 'trusted' ? 'news' : 'rumour'}">${s.badge}</span></td>
+                <td>
+                  <div class="credibility-bar">
+                    <div class="credibility-bar__fill" style="width: ${s.credibilityScore * 10}%; background: ${barColor};"></div>
+                  </div>
+                </td>
+                <td style="font-weight: 700; color: ${barColor};">${s.credibilityScore}/10</td>
+                <td>${s.description}</td>
+              </tr>
+            `;
+          }).join('');
+      } catch (e) {
+        console.error('Failed to load sources:', e);
+      }
+    })();
+  </script>
+</body>
+</html>

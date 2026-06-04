@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MW4 Launch Hub — News Feed</title>
+    <link>https://choppap.github.io/mw4-launch-hub/</link>
+    <description>Latest news, intel, and updates for Call of Duty: Modern Warfare 4</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://choppap.github.io/mw4-launch-hub/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Call of Duty: Modern Warfare 4 Officially Announced</title>
+      <link>https://www.callofduty.com</link>
+      <description>Activision has officially confirmed Call of Duty: Modern Warfare 4 with a stunning cinematic reveal trailer.</description>
+      <pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
+      <guid>mw4-official-reveal-2026</guid>
+      <category>Official</category>
+    </item>
+    
+    <item>
+      <title>MW4 Confirmed for Xbox Game Pass on Day One</title>
+      <link>https://news.xbox.com</link>
+      <description>Microsoft confirms MW4 will be available on Game Pass from day one.</description>
+      <pubDate>Sat, 16 May 2026 20:00:00 +0000</pubDate>
+      <guid>mw4-gamepass-day-one</guid>
+      <category>Official</category>
+    </item>
+
+    <item>
+      <title>MW4 PC System Requirements Revealed</title>
+      <link>https://www.callofduty.com</link>
+      <description>SSD required, DLSS 3.5 and FSR 3.1 supported at launch.</description>
+      <pubDate>Mon, 01 Jun 2026 15:00:00 +0000</pubDate>
+      <guid>mw4-pc-specs</guid>
+      <category>Official</category>
+    </item>
+  </channel>
+</rss>
