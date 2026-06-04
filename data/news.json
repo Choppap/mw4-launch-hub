@@ -1,3 +1,58 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "id": "mw4-korea-leak-2026",
+      "title": "Call of Duty: Modern Warfare 4 Reportedly Set in Korea, Features 'Zero-to-Hero' Campaign",
+      "summary": "New leaks suggest Infinity Ward's 2026 title, Modern Warfare 4, will be set on the Korean Peninsula. Players will reportedly take on the role of Private Park, a young South Korean soldier, in a massive conflict involving a North Korean invasion. The game promises a 'grounded' combat experience.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e9/CallofDutyModernWarfare%282019%29.jpg",
+      "sourceUrl": "https://www.gamespot.com",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-03T14:30:00Z",
+      "classification": "rumour",
+      "confidence": "high",
+      "pinned": true,
+      "featured": true,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-next-gen-release-date",
+      "title": "Modern Warfare 4 (2026) Confirmed for Next-Gen Only, Targeting October 23 Release",
+      "summary": "Activision's 2026 release schedule points to an October 23 launch for Modern Warfare 4. The game will reportedly abandon PS4 and Xbox One entirely, launching exclusively on PS5, Xbox Series X|S, PC, and potentially the Nintendo Switch 2.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Call_of_Duty_Modern_Warfare_III_key_art.jpg",
+      "sourceUrl": "https://wccftech.com",
+      "source": {
+        "name": "WCCFTech",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-01T09:15:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "mw4-gamepass-delay",
+      "title": "Call of Duty 2026 Will Not Arrive on Game Pass on Day One",
+      "summary": "According to recent reports, Modern Warfare 4 will not launch directly into Xbox Game Pass Ultimate or PC Game Pass. Instead, the title is expected to join the subscription service approximately one year after its initial release.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg",
+      "sourceUrl": "https://www.theguardian.com",
+      "source": {
+        "name": "The Guardian",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-05-28T16:45:00Z",
+      "classification": "analysis",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    }
+  ]
 }
