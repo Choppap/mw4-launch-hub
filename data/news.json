@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-e03b5ad0",
+      "title": "Call of Duty: Modern Warfare 4 DMZ First Details Tease a Feedback-Driven Extraction Experience",
+      "summary": "Activision and Infinity Ward have seen the feedback, and that's why Call of Duty: Modern Warfare 4 will feature a new take on DMZ with \"a deeper, more cohesive, and more persistent combat experience.\"",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/06/06/call-of-duty-modern-warfare-4-dmz-details-1780772196336.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-first-details-tease-a-feedback-driven-extraction-experience",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 6 Jun 2026 19:05:16 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "mw4-korea-leak-2026",
       "title": "Call of Duty: Modern Warfare 4 Reportedly Set in Korea, Features 'Zero-to-Hero' Campaign",
       "summary": "New leaks suggest Infinity Ward's 2026 title, Modern Warfare 4, will be set on the Korean Peninsula. Players will reportedly take on the role of Private Park, a young South Korean soldier, in a massive conflict involving a North Korean invasion. The game promises a 'grounded' combat experience.",
