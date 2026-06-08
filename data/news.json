@@ -1,57 +1,21 @@
 {
   "articles": [
     {
-      "id": "mw4-dmz-hajin-map",
-      "title": "Modern Warfare 4's New DMZ Mode Centers on Massive 'Hajin' Map",
-      "summary": "The DMZ extraction mode returns in Modern Warfare 4 with a brand new iteration. Players will deploy into 'Hajin', a massive demilitarized zone affected by a nuclear meltdown, blending environments from South Korea, North Korea, and Russia.",
-      "imageUrl": "assets/images/mw4_placeholder_3.png",
-      "sourceUrl": "https://www.techradar.com/gaming/modern-warfare-4-dmz-hajin-map-revealed",
-      "source": {
-        "name": "TechRadar",
-        "credibility": "trusted"
-      },
-      "publishedAt": "2026-06-08T14:15:00Z",
-      "classification": "news",
-      "confidence": "high",
-      "pinned": false,
-      "featured": false,
-      "confirmed": true,
-      "debunked": false
-    },
-    {
-      "id": "mw4-platforms-skip-last-gen",
-      "title": "Modern Warfare 4 Skips PS4 and Xbox One, Set for Switch 2 Release",
-      "summary": "Modern Warfare 4 will officially skip previous-generation consoles, launching exclusively on PS5, Xbox Series X|S, PC, and the upcoming Nintendo Switch 2. It's also reported that the title won't hit Game Pass on Day One.",
-      "imageUrl": "assets/images/mw4_placeholder_2.png",
-      "sourceUrl": "https://www.windowscentral.com/gaming/modern-warfare-4-skips-ps4-xbox-one",
+      "id": "scraped-ca2f35ce",
+      "title": " Welcome to Hajin \u2014 Here's everything you need to know about Call of Duty: Modern Warfare 4's new take on DMZ ",
+      "summary": "Call of Duty: Modern Warfare 4 developer Infinity Ward has shared new details about the upcoming game's new third mode \u2014 a fully realized take on the DMZ \u2014 now set on the upcoming Korea-based map, Hajin.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/NR7Fxymswmw9CE3Re58XuE-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/modern-warfare-4-dmz-reveal",
       "source": {
         "name": "Windows Central",
         "credibility": "trusted"
       },
-      "publishedAt": "2026-06-08T12:30:00Z",
-      "classification": "news",
-      "confidence": "high",
+      "publishedAt": "Sat, 06 Jun 2026 15:01:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
       "pinned": false,
       "featured": false,
-      "confirmed": true,
-      "debunked": false
-    },
-    {
-      "id": "mw4-official-announcement-2026",
-      "title": "Call of Duty: Modern Warfare 4 Officially Announced",
-      "summary": "Activision has officially announced Call of Duty: Modern Warfare 4, set to launch on October 23, 2026. The game features a grounded campaign in the Korean Peninsula following a North Korean invasion, 12 all-new 6v6 multiplayer maps at launch, and the highly anticipated return of DMZ mode.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://www.callofduty.com/blog/2026/06/modern-warfare-4-official-announcement",
-      "source": {
-        "name": "Call of Duty Blog",
-        "credibility": "official"
-      },
-      "publishedAt": "2026-06-08T10:00:00Z",
-      "classification": "official",
-      "confidence": "high",
-      "pinned": true,
-      "featured": true,
-      "confirmed": true,
+      "confirmed": false,
       "debunked": false
     },
     {

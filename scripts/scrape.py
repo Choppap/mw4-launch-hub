@@ -53,8 +53,12 @@ def scrape_feeds():
     for feed in FEEDS:
         print(f"Fetching {feed['name']}...")
         try:
-            req = urllib.request.Request(feed['url'], headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req) as response:
+            import ssl
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            req = urllib.request.Request(feed['url'], headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'})
+            with urllib.request.urlopen(req, context=ctx) as response:
                 xml_data = response.read()
                 root = ET.fromstring(xml_data)
                 
