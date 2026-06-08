@@ -11,7 +11,13 @@ import random
 FEEDS = [
     {"url": "https://charlieintel.com/feed/", "name": "CharlieIntel", "credibility": "trusted"},
     {"url": "https://www.ign.com/rss/articles/feed", "name": "IGN", "credibility": "trusted"},
-    {"url": "https://www.gamespot.com/feeds/news/", "name": "GameSpot", "credibility": "trusted"}
+    {"url": "https://www.gamespot.com/feeds/news/", "name": "GameSpot", "credibility": "trusted"},
+    {"url": "https://www.callofduty.com/blog/rss", "name": "Call of Duty Blog", "credibility": "official"},
+    {"url": "https://blog.activision.com/feed", "name": "Activision", "credibility": "official"},
+    {"url": "https://news.xbox.com/en-us/feed/", "name": "Xbox Wire", "credibility": "official"},
+    {"url": "https://www.windowscentral.com/rss", "name": "Windows Central", "credibility": "trusted"},
+    {"url": "https://www.techradar.com/rss", "name": "TechRadar", "credibility": "trusted"},
+    {"url": "https://www.theguardian.com/games/rss", "name": "The Guardian", "credibility": "trusted"}
 ]
 
 KEYWORDS = ["MW4", "Modern Warfare 4", "Modern Warfare IV", "Call of Duty 2026", "CoD 2026"]

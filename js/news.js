@@ -23,7 +23,7 @@ const NewsHub = {
    */
   async loadArticles() {
     try {
-      const response = await fetch('./data/news.json');
+      const response = await fetch('./data/news.json?t=' + new Date().getTime());
       const data = await response.json();
       this.articles = data.articles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
       this.filteredArticles = [...this.articles];

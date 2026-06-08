@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "mw4-dmz-hajin-map",
+      "title": "Modern Warfare 4's New DMZ Mode Centers on Massive 'Hajin' Map",
+      "summary": "The DMZ extraction mode returns in Modern Warfare 4 with a brand new iteration. Players will deploy into 'Hajin', a massive demilitarized zone affected by a nuclear meltdown, blending environments from South Korea, North Korea, and Russia.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://www.techradar.com",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-08T14:15:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": true,
+      "debunked": false
+    },
+    {
+      "id": "mw4-platforms-skip-last-gen",
+      "title": "Modern Warfare 4 Skips PS4 and Xbox One, Set for Switch 2 Release",
+      "summary": "Modern Warfare 4 will officially skip previous-generation consoles, launching exclusively on PS5, Xbox Series X|S, PC, and the upcoming Nintendo Switch 2. It's also reported that the title won't hit Game Pass on Day One.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://www.windowscentral.com",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "2026-06-08T12:30:00Z",
+      "classification": "news",
+      "confidence": "high",
+      "pinned": false,
+      "featured": false,
+      "confirmed": true,
+      "debunked": false
+    },
+    {
+      "id": "mw4-official-announcement-2026",
+      "title": "Call of Duty: Modern Warfare 4 Officially Announced",
+      "summary": "Activision has officially announced Call of Duty: Modern Warfare 4, set to launch on October 23, 2026. The game features a grounded campaign in the Korean Peninsula following a North Korean invasion, 12 all-new 6v6 multiplayer maps at launch, and the highly anticipated return of DMZ mode.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://www.callofduty.com/blog",
+      "source": {
+        "name": "Call of Duty Blog",
+        "credibility": "official"
+      },
+      "publishedAt": "2026-06-08T10:00:00Z",
+      "classification": "official",
+      "confidence": "high",
+      "pinned": true,
+      "featured": true,
+      "confirmed": true,
+      "debunked": false
+    },
+    {
       "id": "scraped-f4e9bb0d",
       "title": "Call of Duty: Modern Warfare 4's Gritty Extraction Mode, DMZ, Gets First Gameplay",
       "summary": "Call of Duty: Modern Warfare 4's extraction mode, DMZ, has been revealed with an extensive first look.",
