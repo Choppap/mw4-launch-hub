@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "scraped-1b5494a3",
+      "title": "Call of Duty: Modern Warfare 4 Campaign Early Access Confirmed \u2014 Here's How It Works",
+      "summary": "Activision has confirmed Call of Duty: Modern Warfare 4 campaign early access, which begins October 16 \u2014 a full week before the game\u2019s release date.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/06/12/cod-main-1781272169082.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-early-access-confirmed-heres-how-it-works",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-7a7c26a0",
+      "title": "Call Of Duty: Modern Warfare 4 Brings Back Campaign Early Access, Here\u2019s How To Get It",
+      "summary": "Call of Duty: Modern Warfare 4 will feature \"campaign early access,\" allowing people who preorder or pre-buy the game to start playing the story mode early. \n\n\n\nThis applies to preorders and pre-purchases for the MW4 standard digital edition or the V...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-12-at-9.46.18-AM.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-brings-back-campaign-early-access-heres-how-to-get-it/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-5e77bc16",
+      "title": "Modern Warfare 4: Campaign Early Access Confirmed",
+      "summary": "The post Modern Warfare 4: Campaign Early Access Confirmed appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://www.callofduty.com/blog/2026/06/call-of-duty-modern-warfare-4-campaign-early-access#new_tab",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 12 Jun 2026 17:30:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-59375fee",
+      "title": " The wait for Call of Duty: Modern Warfare 4 just got a little bit shorter as early access to the campaign becomes a preorder bonus ",
+      "summary": "Infinity Ward announces campaign early access for Call of Duty: Modern Warfare 4, starting on October 16 for those who digitally preorder the game.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/DqisNGEb8J8nd78weS27PB-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/mw4-preorders-early-campaign-access",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-ca2f35ce",
       "title": " Welcome to Hajin \u2014 Here's everything you need to know about Call of Duty: Modern Warfare 4's new take on DMZ ",
       "summary": "Call of Duty: Modern Warfare 4 developer Infinity Ward has shared new details about the upcoming game's new third mode \u2014 a fully realized take on the DMZ \u2014 now set on the upcoming Korea-based map, Hajin.",
