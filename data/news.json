@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-0ae5af1b",
+      "title": "Activision Promotes Call Of Duty: MW4 By Telling You It\u2019s Not On Game Pass",
+      "summary": "For the first time in two years, the annual Call of Duty release, Modern Warfare 4, will not come to Xbox Game Pass at launch. To help hammer that point home, Activision is rolling out a new ad campaign reminding people they need to buy the game outr...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/06/MW4COD.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/activision-promotes-call-of-duty-mw4-by-telling-you-its-not-on-game-pass/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 29 Jun 2026 18:50:45 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-ab493ef4",
       "title": "Call of Duty: Modern Warfare 4 Is Up for Preorder, Here\u2019s What Comes in Each Edition",
       "summary": "Preorders are live for Call of Duty: Modern Warfare 4. We've broken down what comes in each edition and where you can pick them up right now ahead of its release on October 23.",
