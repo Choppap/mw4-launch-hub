@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-10a041cc",
+      "title": " \"Not on Xbox Game Pass This Year\": I can't believe Activision now has to spell it out for Call of Duty: Modern Warfare 4 ",
+      "summary": "Activision is explicitly advertising that Call of Duty: Modern Warfare 4 will not launch on Xbox Game Pass this year, raising questions about Microsoft's subscription strategy while promoting pre-orders and early campaign access.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/RW9Zy6WkGqzcYqBTP653hY-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/not-on-xbox-game-pass-this-year-i-cant-believe-activision-now-has-to-spell-it-out-for-call-of-duty-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 29 Jun 2026 20:51:46 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-0ae5af1b",
       "title": "Activision Promotes Call Of Duty: MW4 By Telling You It\u2019s Not On Game Pass",
       "summary": "For the first time in two years, the annual Call of Duty release, Modern Warfare 4, will not come to Xbox Game Pass at launch. To help hammer that point home, Activision is rolling out a new ad campaign reminding people they need to buy the game outr...",
