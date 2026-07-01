@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-7071c389",
+      "title": "Microsoft Is Reminding Xbox Game Pass Members That They'll Have to Buy Call of Duty: Modern Warfare 4 if They Want to Play Day One",
+      "summary": "Microsoft is sending notifications out to Xbox Game Pass members reminding them that Call of Duty: Modern Warfare 4 won\u2019t be in the subscription service this year, so if they want to play the game at launch, they\u2019ll have to buy it.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/01/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1782896487543.jpg",
+      "sourceUrl": "https://www.ign.com/articles/microsoft-is-reminding-xbox-game-pass-members-that-theyll-have-to-buy-call-of-duty-modern-warfare-4-if-they-want-to-play-day-one",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 1 Jul 2026 09:07:48 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-10a041cc",
       "title": " \"Not on Xbox Game Pass This Year\": I can't believe Activision now has to spell it out for Call of Duty: Modern Warfare 4 ",
       "summary": "Activision is explicitly advertising that Call of Duty: Modern Warfare 4 will not launch on Xbox Game Pass this year, raising questions about Microsoft's subscription strategy while promoting pre-orders and early campaign access.",
