@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-99159fda",
+      "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
+      "summary": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign for it. That may have already begun, but not in the...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4COD.webp?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-just-showed-up-in-a-very-unexpected-place/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 01 Jul 2026 19:45:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-7071c389",
       "title": "Microsoft Is Reminding Xbox Game Pass Members That They'll Have to Buy Call of Duty: Modern Warfare 4 if They Want to Play Day One",
       "summary": "Microsoft is sending notifications out to Xbox Game Pass members reminding them that Call of Duty: Modern Warfare 4 won\u2019t be in the subscription service this year, so if they want to play the game at launch, they\u2019ll have to buy it.",
