@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-a98ccce2",
+      "title": " \u2018Lucky that we didn\u2019t listen to the internet\u2019 \u2014 Black Ops 7 isn\u2019t perfect, but I\u2019ll be sad to leave its incredible multiplayer behind for Modern Warfare 4 ",
+      "summary": "Despite a rocky launch, Black Ops 7 has delivered the best multiplayer Call of Duty experience in years.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mqKdqWxS7Enj8wCCWR3chX-1280-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/black-ops-7-isnt-perfect-but-ill-be-sad-to-leave-its-incredible-multiplayer-behind",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 08 Jul 2026 20:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-99159fda",
       "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
       "summary": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign for it. That may have already begun, but not in the...",
