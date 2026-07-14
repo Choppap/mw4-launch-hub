@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-e431e077",
+      "title": "Star Of 2026\u2019s Biggest Movie Will Talk Call Of Duty: MW4 This Weekend",
+      "summary": "The Fanatics Fest event takes place this weekend in New York City, and as announced previously, Call of Duty: Modern Warfare 4's multiplayer will be playable at the event. In addition to that, Infinity Ward studio head Mark Grigsby and Activision mar...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/obsession.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/star-of-2026s-biggest-movie-will-talk-call-of-duty-mw4-this-weekend/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 14 Jul 2026 18:06:57 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-a98ccce2",
       "title": " \u2018Lucky that we didn\u2019t listen to the internet\u2019 \u2014 Black Ops 7 isn\u2019t perfect, but I\u2019ll be sad to leave its incredible multiplayer behind for Modern Warfare 4 ",
       "summary": "Despite a rocky launch, Black Ops 7 has delivered the best multiplayer Call of Duty experience in years.",
