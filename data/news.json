@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-86d89d53",
+      "title": "Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel",
+      "summary": "The post Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://www.callofduty.com/blog/2026/07/call-of-duty-modern-warfare-4-multiplayer-kill-block#new_tab",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Wed, 15 Jul 2026 16:30:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c5b0b332",
+      "title": " The innovative \"Kill Block\" map for Call of Duty: Modern Warfare 4 is my most anticipated new feature for the game's multiplayer \u2014 and we finally get to see more of it ",
+      "summary": "Infinity Ward releases details on its innovative new dynamic map, Kill Block, coming to Modern Warfare 4 this October.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VNzumwmZcdhogQkZjme625-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/infinity-ward-shows-off-kill-block-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 15 Jul 2026 16:12:32 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-e431e077",
       "title": "Star Of 2026\u2019s Biggest Movie Will Talk Call Of Duty: MW4 This Weekend",
       "summary": "The Fanatics Fest event takes place this weekend in New York City, and as announced previously, Call of Duty: Modern Warfare 4's multiplayer will be playable at the event. In addition to that, Infinity Ward studio head Mark Grigsby and Activision mar...",
