@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-6a6b35bf",
+      "title": "Call of Duty: Modern Warfare 4 Has a Bespoke Tactical SUV Designed by Aston Martin \u2014 It's Called Dreadnought, and We've Got a First Look",
+      "summary": "Call of Duty: Modern Warfare 4 has a new vehicle called Dreadnought, a bespoke tactical SUV designed for the game by Aston Martin and developed by Infinity Ward \u2014 and we\u2019ve got a first look.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/16/in-game-astonmartin-dreadnought-01-1-1784209819819.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-has-a-bespoke-tactical-suv-designed-by-aston-martin-its-called-dreadnought-and-weve-got-a-first-look",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-fe46f3c8",
+      "title": "Call Of Duty: MW4 Features A Car Created By Iconic Brand That Looks Like A Halo Warthog With A Roof",
+      "summary": "Activision and iconic car company Aston Martin have teamed up to bring an all-new car to Call of Duty: Modern Warfare 4. \n\n\n\nThe Aston Martin Dreadnought was designed exclusively for Modern Warfare 4, and it looks pretty slick. The SUV is described a...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/AstonMartin-Dreadnought_05.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4-features-a-car-created-by-iconic-brand-that-isnt-even-available-irl/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 16 Jul 2026 15:01:12 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-2632b159",
+      "title": " You've never seen an Aston Martin like this \u2014 legendary car maker reveals SUV designed exclusively for Modern Warfare 4 ",
+      "summary": "Aston Martin has revealed the Dreadnought, a new SUV designed exclusively for Call of Duty: Modern Warfare 4.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZzJqJmL4ihkmKmmmPSph7i-1280-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/youve-never-seen-an-aston-martin-like-this-legendary-car-maker-reveals-suv-designed-exclusively-for-modern-warfare-4",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-4548826b",
       "title": "Call Of Duty: Modern Warfare 4 Will Probably Look Best On The Console That Costs The Most",
       "summary": "Another year, another Call of Duty, with this year's entry featuring Infinity Ward as the lead developer. Call of Duty: Modern Warfare 4 will once again be available across a wide variety of platforms, and Sony has dropped a few details about how the...",
