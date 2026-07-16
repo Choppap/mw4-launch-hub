@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-4548826b",
+      "title": "Call Of Duty: Modern Warfare 4 Will Probably Look Best On The Console That Costs The Most",
+      "summary": "Another year, another Call of Duty, with this year's entry featuring Infinity Ward as the lead developer. Call of Duty: Modern Warfare 4 will once again be available across a wide variety of platforms, and Sony has dropped a few details about how the...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/Modern-Warfare-4.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-will-probably-look-best-on-the-console-that-costs-the-most/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 16 Jul 2026 11:04:35 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-86d89d53",
       "title": "Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel",
       "summary": "The post Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel appeared first on XBOX Wire.",
