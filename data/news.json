@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-19477f97",
+      "title": "'Wrong (again)' \u2014 Infinity Ward Fires Back at Call of Duty: Modern Warfare 4 Gunny AI Chatbot Claim",
+      "summary": "Infinity Ward has hit back at claims the new Gunsmith for Call of Duty: Modern Warfare 4 features an AI chatbot.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/17/hnsoxfyxaaa3rc9-1784278759448.jpg",
+      "sourceUrl": "https://www.ign.com/articles/wrong-again-infinity-ward-fires-back-at-call-of-duty-modern-warfare-4-gunny-ai-chatbot-claim",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 17 Jul 2026 09:01:34 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-0529387c",
+      "title": "Call Of Duty: Modern Warfare 4 Dev Is Tired Of People Calling Gunny An AI Chatbot",
+      "summary": "Call of Duty: Modern Warfare 4 lead studio Infinity Ward has addressed claims that the game features an AI assistant. After retired Call of Duty leaker TheGhostOfHope labeled the Gunsmith assistant \"Gunny\" as an AI chatbot, Infinity Ward responded by...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/Gunsmith-Clippy.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-dev-is-tired-of-people-calling-gunny-an-ai-chatbot/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 17 Jul 2026 10:38:27 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-6a6b35bf",
       "title": "Call of Duty: Modern Warfare 4 Has a Bespoke Tactical SUV Designed by Aston Martin \u2014 It's Called Dreadnought, and We've Got a First Look",
       "summary": "Call of Duty: Modern Warfare 4 has a new vehicle called Dreadnought, a bespoke tactical SUV designed for the game by Aston Martin and developed by Infinity Ward \u2014 and we\u2019ve got a first look.",
