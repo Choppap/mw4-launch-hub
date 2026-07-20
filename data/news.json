@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-35b4f9ee",
+      "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
+      "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more details. Read on to learn more.\n\n\n\nModern Warfare ...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 20 Jul 2026 17:29:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-e5c96452",
+      "title": "Modern Warfare 4: Open Beta Dates, Call of Duty: NEXT, Fanatics Fest Recap, and Serialized Weapon Camo Pre-Order Bonus",
+      "summary": "The post Modern Warfare 4: Open Beta Dates, Call of Duty: NEXT, Fanatics Fest Recap, and Serialized Weapon Camo Pre-Order Bonus appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://www.callofduty.com/blog/2026/07/call-of-duty-modern-warfare-4-open-beta-next-fanatics-fest-recap-serialized-camo-preorder-bonus#new_tab",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Mon, 20 Jul 2026 17:30:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-19477f97",
       "title": "'Wrong (again)' \u2014 Infinity Ward Fires Back at Call of Duty: Modern Warfare 4 Gunny AI Chatbot Claim",
       "summary": "Infinity Ward has hit back at claims the new Gunsmith for Call of Duty: Modern Warfare 4 features an AI chatbot.",
