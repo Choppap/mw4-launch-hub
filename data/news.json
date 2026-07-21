@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-420065a9",
+      "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
+      "summary": "Activision and Infinity Ward have confirmed dates for the upcoming Call of Duty: Modern Warfare 4 beta tests across PC, Nintendo, PlayStation, and Xbox devices.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 20 Jul 2026 21:23:15 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-35b4f9ee",
       "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
       "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more details. Read on to learn more.\n\n\n\nModern Warfare ...",
