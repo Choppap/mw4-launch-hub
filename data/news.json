@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-7d279767",
+      "title": " Call of Duty: Modern Warfare 4 Open Beta dates revealed \u2014 Here's how and when you can play ",
+      "summary": "Infinity Ward has confirmed the early access and open beta periods for Call of Duty: Modern Warfare 4. Here's when and how you can play the upcoming Call of Duty title's new multiplayer experience.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/aDz5jxNRTrSeeBr49nA6Um-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-how-to-play-modern-warfare-4-beta",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 21 Jul 2026 09:23:54 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-420065a9",
       "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
       "summary": "Activision and Infinity Ward have confirmed dates for the upcoming Call of Duty: Modern Warfare 4 beta tests across PC, Nintendo, PlayStation, and Xbox devices.",
