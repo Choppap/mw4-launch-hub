@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-c1b63def",
+      "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Beta Will Feature Single-Player Campaign Mission for the First Time",
+      "summary": "Xbox is trying something new with the Call of Duty: Modern Warfare 4 beta, as the company has announced this month's pre-release tests will include a single-player campaign mission for the first time.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/14/call-of-duty-modern-warfare-4-beta-campaign-mission-1786722459406.png",
+      "sourceUrl": "https://www.ign.com/articles/xbox-confirms-call-of-duty-modern-warfare-4-beta-will-feature-single-player-campaign-mission-for-the-first-time",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 14 Aug 2026 15:52:48 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-1e011c94",
+      "title": "Call Of Duty: Modern Warfare 4 Beta Will Do Something No Previous CoD Beta Has",
+      "summary": "Activision has announced that the upcoming Call of Duty: Modern Warfare 4 beta will have more than just multiplayer content. The MW4 beta will also include access to the campaign mission, Entrenched, along with the upcoming Warzone mode, Resurgence Z...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/CODNew-Large.jpeg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 14 Aug 2026 14:48:08 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c7a51cc0",
+      "title": " Call of Duty: Modern Warfare 4's beta tests are stacked with an exclusive single-player campaign mission, multiplayer, and more \u2014 here are all the details ",
+      "summary": "Infinity Ward and Activision have announced the full contents of Call of Duty: Modern Warfare 4's upcoming beta tests, including its multiplayer modes, Warzone, an exclusive single-player campaign mission, and more.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/N4Ni3HVDzdhZ7apSW67LJG-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 14 Aug 2026 15:49:14 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-2cb195ba",
       "title": " When (and how) to watch Call of Duty NEXT ahead of the Modern Warfare 4 beta ",
       "summary": "The annual Call of Duty NEXT showcase is one of the biggest gaming events of the year, showing off the next Call of Duty title and upcoming changes to Warzone to build hype before the game's beta. Here's when and how you can watch COD NEXT 2026.",
