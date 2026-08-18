@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-a644eeb3",
+      "title": "Call Of Duty: Modern Warfare 4 Beta Trailer Shows Off Franchise\u2019s Most Ambitious Map Yet",
+      "summary": "Activision has released a teaser trailer for the upcoming Call of Duty: Modern Warfare 4 first beta weekend, and it looks pretty great. The trailer shows off some of the content in the beta, and that includes, for the first time in the franchise's hi...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-trailer-shows-off-franchises-most-ambitious-map-yet/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 17 Aug 2026 19:20:06 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-c1b63def",
       "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Beta Will Feature Single-Player Campaign Mission for the First Time",
       "summary": "Xbox is trying something new with the Call of Duty: Modern Warfare 4 beta, as the company has announced this month's pre-release tests will include a single-player campaign mission for the first time.",
