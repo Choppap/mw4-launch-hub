@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-e64e9f26",
+      "title": "Call of Duty Socials Accidentally Post Placeholder Marketing Image for Modern Warfare 4, Fans Suspect AI Usage",
+      "summary": "The Call of Duty socials team accidentally posted an internal marketing image for Modern Warfare 4, and fans suspect it may be AI-generated.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-socials-accidentally-post-placeholder-marketing-image-for-modern-warfare-4-fans-suspect-ai-usage",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 18 Aug 2026 23:00:04 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-acf3bf6b",
       "title": "Battlefield 6 Free Trial Overlaps With Call Of Duty: Modern Warfare 4 Beta This Weekend",
       "summary": "Battlefield and Call of Duty are overlapping this weekend, as the latest entries in both franchises have exciting opportunities on tap for fans.\n\n\n\nBattlefield 6 is free now through August 25 to celebrate the launch of the game's big new update, incl...",
