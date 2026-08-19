@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "scraped-32611918",
+      "title": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
+      "summary": "The Call of Duty: Modern Warfare 4 beta will fix some issues that have plagued the series for the better part of a decade.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/19/mw4-blog-1787141604767.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 19 Aug 2026 17:03:14 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-53ecbaf5",
+      "title": "Call Of Duty: Modern Warfare 4 Beta Offers These Rewards As You Climb The Ranks",
+      "summary": "The Call of Duty: Modern Warfare 4 beta begins this Friday, August 21, and everyone who takes part will have a chance to earn special rewards.\n\n\n\nAs with previous Call of Duty betas, Activision is encouraging people to play by offering rewards for pr...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-11.32.57-AM.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-offers-these-rewards-as-you-climb-the-ranks/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 19 Aug 2026 15:50:50 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-22f9319b",
+      "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, Rewards And How To Get In",
+      "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more details. Read on to learn more.\n\n\n\nModern Warfare ...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 20 Jul 2026 17:29:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-40cea55d",
+      "title": "Call of Duty: NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More",
+      "summary": "The post Call of Duty: NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/19/call-of-duty-next-and-modern-warfare-4-early-intel-pc-specs-pre-loading-and-more/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Wed, 19 Aug 2026 17:15:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-e64e9f26",
       "title": "Call of Duty Socials Accidentally Post Placeholder Marketing Image for Modern Warfare 4, Fans Suspect AI Usage",
       "summary": "The Call of Duty socials team accidentally posted an internal marketing image for Modern Warfare 4, and fans suspect it may be AI-generated.",
