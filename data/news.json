@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-d3fb1971",
+      "title": "Modern Warfare 4 Developers Address Need for Balance in Call of Duty",
+      "summary": "The team behind Call of Duty: Modern Warfare 4 believes that players have only gotten better at the game since the franchise became a pop culture juggernaut.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 20 Aug 2026 17:01:04 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-df29757c",
+      "title": "The Big Call of Duty: Modern Warfare 4 Interview \u2014 Infinity Ward on the Beta, Matchmaking, and Much More",
+      "summary": "IGN interviews Infinity Ward on all things Call of Duty: Modern Warfare 4 ahead of the beta.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/10/mw4thumb-1786378576747.png",
+      "sourceUrl": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 20 Aug 2026 17:00:33 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-5ab17636",
       "title": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
       "summary": "Call of Duty: Modern Warfare 4's beta will utilize a divisive new matchmaking system in addition to the open matchmaking introduced last year.",
