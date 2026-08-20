@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-5ab17636",
+      "title": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
+      "summary": "Call of Duty: Modern Warfare 4's beta will utilize a divisive new matchmaking system in addition to the open matchmaking introduced last year.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 19 Aug 2026 21:47:51 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-509dab38",
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash",
+      "summary": "The creators of Call of Duty: Modern Warfare 4 are trying to prove one trash-talking player wrong by giving them a free code to the game's upcoming early-access beta.\n\n\n\nIn response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on ...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 19 Aug 2026 19:54:11 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-32611918",
       "title": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
       "summary": "The Call of Duty: Modern Warfare 4 beta will fix some issues that have plagued the series for the better part of a decade.",
