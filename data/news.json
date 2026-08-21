@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "scraped-fc1b3482",
+      "title": "Modern Warfare 4 Open Beta: Everything You Need to Know",
+      "summary": "The post Modern Warfare 4 Open Beta: Everything You Need to Know appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/modern-warfare-4-open-beta-everything-you-need-to-know/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 18:02:21 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-ac9db436",
+      "title": "Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, & Maps",
+      "summary": "The post Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, &amp; Maps appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/modern-warfare-4-multiplayer-movement-gunplay-modes-maps/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 18:01:36 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-a7e06310",
+      "title": "Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today",
+      "summary": "The post Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/pre-order-call-of-duty-modern-warfare-4-and-play-the-beta-today/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-cb1ba480",
+      "title": " I might have been wrong about Call of Duty: Modern Warfare 4 ",
+      "summary": "I was prepared to miss this year's Call of Duty: Modern Warfare 4 release because I generally don't like the series. But I might have been wrong on that.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Jd6zVYo43g4DiidTe9PEcg-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/i-might-have-been-wrong-about-call-of-duty-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-d3fb1971",
       "title": "Modern Warfare 4 Developers Address Need for Balance in Call of Duty",
       "summary": "The team behind Call of Duty: Modern Warfare 4 believes that players have only gotten better at the game since the franchise became a pop culture juggernaut.",
