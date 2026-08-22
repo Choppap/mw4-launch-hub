@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-d7a6bc6e",
+      "title": "Call Of Duty\u2019s Most Controversial Item Is Back In Modern Warfare 4, But With Some Major Changes",
+      "summary": "One of the most infamous and controversial items in Call of Duty is the Riot Shield. Some love it. Some hate it. Well, it's back in Call of Duty: Modern Warfare 4, but with a few key changes.\n\n\n\nWith MW4's beta now live, we're seeing the game in acti...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4New.webp?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 20:02:01 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-554fbe2f",
+      "title": "CoD: MW4 DLC Honors Real-Life Medal Of Honor Recipient Who Lost His Eye And Teeth In Grenade Blast",
+      "summary": "Activision has announced that Call of Duty: Modern Warfare 4 will  have day-one DLC, and like in years past, it will focus on a real-life military hero, with proceeds going to charity. \n\n\n\nThe Call of Duty Endowment Valor Pack, launching on October 2...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/COD-Large.jpeg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 19:05:17 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-e7b8370f",
+      "title": "Call of Duty: Modern Warfare 4 \u2013 Inside the Maps and Movement of Multiplayer",
+      "summary": "Call of Duty Season has officially kicked off with Call of Duty: NEXT, along with the first of two beta weekends for Call of Duty: Modern Warfare 4, giving us our first hands-on with the newest maps, combat mechanics, and more \u2013 chances are by the ti...",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/call-of-duty-modern-warfare-4-inside-the-maps-and-movement-of-multiplayer/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 21 Aug 2026 19:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-fc1b3482",
       "title": "Modern Warfare 4 Open Beta: Everything You Need to Know",
       "summary": "The post Modern Warfare 4 Open Beta: Everything You Need to Know appeared first on XBOX Wire.",
@@ -843,42 +897,6 @@
       "confidence": "high",
       "pinned": true,
       "featured": true,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "mw4-next-gen-release-date",
-      "title": "Modern Warfare 4 (2026) Confirmed for Next-Gen Only, Targeting October 23 Release",
-      "summary": "Activision's 2026 release schedule points to an October 23 launch for Modern Warfare 4. The game will reportedly abandon PS4 and Xbox One entirely, launching exclusively on PS5, Xbox Series X|S, PC, and potentially the Nintendo Switch 2.",
-      "imageUrl": "data:image/jpeg;base64,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",
-      "sourceUrl": "https://nl.ign.com/call-of-duty-2026-unofficial-name/164766/call-of-duty-modern-warfare-4-official-from-the-ward-ep1-video",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "2026-06-01T09:15:00Z",
-      "classification": "news",
-      "confidence": "high",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "mw4-gamepass-delay",
-      "title": "Call of Duty 2026 Will Not Arrive on Game Pass on Day One",
-      "summary": "According to recent reports, Modern Warfare 4 will not launch directly into Xbox Game Pass Ultimate or PC Game Pass. Instead, the title is expected to join the subscription service approximately one year after its initial release.",
-      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQABLAEsAAD/4QCARXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAAEsAAAAAQAAASwAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAJagAwAEAAAAAQAAAJYAAAAA/+0AOFBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAAAAOEJJTQQlAAAAAAAQ1B2M2Y8AsgTpgAmY7PhCfv/AABEIAJYAlgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2wBDABMTExMTEyATEyAtICAgLT0tLS0tPU09PT09PU1dTU1NTU1NXV1dXV1dXV1wcHBwcHCDg4ODg5OTk5OTk5OTk5P/2wBDARcYGCUjJUAjI0CZaFVomZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZn/3QAEAAr/2gAMAwEAAhEDEQA/AOOApwFIKeBQIjFPAp4VTUoRSaAIRSkcVaEaegqZIEJ6D8qYD4OYlz6Cp9ppyxhRwR+VLgjp/KgACbR60/FHOajL8EpgmgB3APFPWPPNMToN3WrSFcdfrQBQvExbsax8V08vlEENgj0NZzxW5OQoAoAxyKbitF44uwFQFF9KQFPuPrTyKl2qO3NNIoAiopxpKAP/0ORAp+KiG7I5qamIBU4HNRDrU46UASdBViPjmqwqwtAFoH0pARxTM46U3NAExI6CkUKv3Rg96jyaN3cUAWQwBqZX9Kz95FPDmgC04VjkZAqmykH2qTfuG00hPr1oArsB2qBhVphVduKAKzCowKmaoqQERFJT2ptAz//R5JR8w+tS4qEdRU56CgQCpQwAxUVOAzTAmU1Omegqsoz3rREz29r5keMlscjNNITYm1scimYx1oGpXR4O3/vkVZug20SjggBj/WqsTcr7WI4pORxStfSogwR9MA1FL5igyuQfXAx+VRdFajse9AqEuAm4YJ/z2q1ax7mVDzmhag2OCkj5aeVwMmmT380czJFjAOBwKdb3U9xv8zGFHPAqrIm7ImOartjtUpfnb1NRPxUlkLdKhzgEmpiaifGw0AVGYufamYp3aikM/9LkR1FTnoKr4bI4NXLdBNJtboBmgRGMGnjirwWAymDYMgZzUAiAuvK6r159KVwK0kjIF2960cs9hub+/wD0okt4WRgFGQDimWf7yEqwyAen4VSloJq4RxrgZ65rQuH2XaxNjYVAP0IrKRv3wTtuxU14xDo56/4VXP0I5StOkkTmNycDjPpTWcumOBj0OfyFaF0fNYTY6gZ+pqKMCAsGXBZSKnS5V3YzTNKGzxj0Na+lySPP5j4wilvyFMljtowGdBycfnUh22qkRjHmEIfoTSUkNq6KEh+Yt61ZVjb2RkXq7Y/AUXEaK0eFHzNg0twYo/LEg+TJ45oUhWIVlLIGPU0MQashLfyvMCjbjPfpUELQSysqqCMAjr+NK5RVPWom6GtCKFAZDIMgNxn0rOLbtxAwD0p3Ag7UUdqSgZ//0+TFW7I4lb6VTFSxSiKXc3QjBoewi3IZvtTGDG7aOvpToBL9oZpsbgo6e9Hm24cy7uSMUyK5iLu7nGcAZ9BUgXYy/mSbgQCRj8qhs/kDr6NioY7td7eYwC/w05J4UZzuGGOf0oAiU/6SP981JqB4T8aa0lsHV0IzuyTzUjy2smPMIOOnWjqBJIRtZuzbMfnVeYgzMQMYPJz1ptlFFK5R+4OPrSMqxrgdjVWsK5bvDmNf94U+5PCf761C89s+AzZwciop7hZMLHyVOfyqRlq5OWi/36r6icon1p/n28oBZsFTnB45qndzrKQqche9CAvqf9CH+5VCJ9kiP+B/Gplni+zhNwztxiquRx7YpoDSu32QkD+Lisvt+FW7maKRQqsOtVM5oQENJUuFI5o2p6frTGf/1OSFWbXb5jbwCAO9Vc4p6vs3cZ3DFDEXDEkcLrgZOSPpninPtJki2rhUyOOc1T85yrBuSQAPwp7XG4HCYZhgmlYC0drP5JVcFM9Oc0yQstuu0JjZzkDP4VC1yAMhPmxtyTTid8AZoicDaGzRZgWpAFVywXYF44Gc0eWrskmAcDBGPUcVTMxYtlThxjFPeSSGQM6kfKBj+tFmA20Yguq9SuR9RVxwATJgEKpB+tZkUhikD4zjtVpjKYC207Xbr/ShpgTptWJVYD5QGPFObkFmC7NmTxzmoFllkLYBKYPy+lRec2cFTgrtIo1ETS7vIUoEwVGcgZ/Cm3CL5YCgDyyAeOtQzFkdPMXBQDimm6ZgyuCQeg9KLMZdnACSFlUKB8uAM5plzuAIGwLx2+aq7TF9+VOHAx7GiSVJMny/m9c0WAmt0QfOwzu4GR6daqetSJNJHgE5X0qPcTlm5JpgHBUUmKh3NjrRub1oA//V5AcHJ60uabnmloEOFOpgp1MAbkDA71pbsafj/b/pWeDirqSQvD5UxI5zwM00TIqBskVd1HLSKQCflX+VHlWAGQ75+g/xpJpRIwK5wAAM07WQlqzO2v8A3T+Va1uTJZyREfdww/kapsxHGalgnEbfPnaRg0kOSIVkKnAqS2XzbhV9TVkR6eeWd/yH+NNDWsBLwliccZH/ANemo2JuVb2Qyzu4BwTxVQKzHGMe5qZnyc0zOalmiH8DgdqSkpKAA0maKbmkBFRRRQM//9bjqKSigBwp2abS0xD80uaZSjrQBMue9Oz2pgOKM80AKx703NNJGaQmgB+6m7qZmigB2aCaSigAzRmkopAGaaTQTTSaBiUUlFAH/9fjKUU2loAdSim5pcigBaeDiowRS7hQIlzSg1HuFLvHtTADSUbgelITSATNLmm5FGRQA7NFJkUcUAFFGRSZFAw602looATik4paSgD/0OLooooAKWkooAWiiigBaKSigBR1oY84oFIetABRRRQAUUUUAJRRRQAvaijtQaAEooooA//Z",
-      "sourceUrl": "https://www.theguardian.com/games/2026/may/28/call-of-duty-modern-warfare-4-korean-war",
-      "source": {
-        "name": "The Guardian",
-        "credibility": "trusted"
-      },
-      "publishedAt": "2026-05-28T16:45:00Z",
-      "classification": "analysis",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
       "confirmed": false,
       "debunked": false
     }
