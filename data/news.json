@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-83e57622",
+      "title": "\u2018A cognitive cacophony\u2019: hands-on with the Call of Duty Modern Warfare 4 beta test",
+      "summary": "Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what\u2019s with all the distractions?There\u2019s a lot riding on this year\u2019s Call of Duty, the inescapable first-person shootfest t...",
+      "imageUrl": "https://i.guim.co.uk/img/media/0d38351cfc66d0b13a87bc467644e763b9e69435/568_103_2550_2040/master/2550.png?width=140&quality=85&auto=format&fit=max&s=b7c7910e2938f60084fa3e3c6fbca58f",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
+      "source": {
+        "name": "The Guardian",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 24 Aug 2026 12:15:27 GMT",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-38f126ba",
       "title": " 'A generational Call of Duty game' \u2014 After almost ten hours hands-on, I think Modern Warfare 4 could revolutionize the long-running series ",
       "summary": "Modern Warfare 4 is shaping up to be a generational Call of Duty experience if the ongoing beta is anything to go by.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sun, 7 Jun 2026 18:31:53 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e03b5ad0",
-      "title": "Call of Duty: Modern Warfare 4 DMZ First Details Tease a Feedback-Driven Extraction Experience",
-      "summary": "Activision and Infinity Ward have seen the feedback, and that's why Call of Duty: Modern Warfare 4 will feature a new take on DMZ with \"a deeper, more cohesive, and more persistent combat experience.\"",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/06/06/call-of-duty-modern-warfare-4-dmz-details-1780772196336.png",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-first-details-tease-a-feedback-driven-extraction-experience",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 6 Jun 2026 19:05:16 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
