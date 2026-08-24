@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-415f183a",
+      "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
+      "summary": "Call of Duty: Modern Warfare 4 is adding more options for how your operators appear in-game.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/05/28/cod4image1-1779986564142.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 24 Aug 2026 18:06:58 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-67c7b87f",
+      "title": "New Indie Fishing Game Is More Popular Than Modern Warfare 4 Beta On Steam",
+      "summary": "Everyone has heard of Call of Duty, and yet, a video game that you've probably never heard of is outperforming the first Modern Warfare 4 beta on Steam. How to Fish looks like a surprise hit with over 341,000 concurrent players today, per Steam. Plus...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/HowToFish.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/new-indie-fishing-game-is-more-popular-than-modern-warfare-4-beta-on-steam/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 24 Aug 2026 15:51:03 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-83e57622",
       "title": "\u2018A cognitive cacophony\u2019: hands-on with the Call of Duty Modern Warfare 4 beta test",
       "summary": "Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what\u2019s with all the distractions?There\u2019s a lot riding on this year\u2019s Call of Duty, the inescapable first-person shootfest t...",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ca2f35ce",
-      "title": " Welcome to Hajin \u2014 Here's everything you need to know about Call of Duty: Modern Warfare 4's new take on DMZ ",
-      "summary": "Call of Duty: Modern Warfare 4 developer Infinity Ward has shared new details about the upcoming game's new third mode \u2014 a fully realized take on the DMZ \u2014 now set on the upcoming Korea-based map, Hajin.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/NR7Fxymswmw9CE3Re58XuE-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/modern-warfare-4-dmz-reveal",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 06 Jun 2026 15:01:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-f4e9bb0d",
-      "title": "Call of Duty: Modern Warfare 4's Gritty Extraction Mode, DMZ, Gets First Gameplay",
-      "summary": "Call of Duty: Modern Warfare 4's extraction mode, DMZ, has been revealed with an extensive first look.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/06/07/modern-warfare-4-dmz-1780856993015.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4s-gritty-extraction-mode-dmz-gets-first-gameplay",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sun, 7 Jun 2026 18:31:53 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
