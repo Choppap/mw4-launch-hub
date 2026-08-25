@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-9c160831",
+      "title": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
+      "summary": "Publisher Activision and developer Infinity Ward have promised to update Captain Price's hair in Call of Duty: Modern Warfare 4 after images of his botched haircut went viral.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/24/call-of-duty-modern-warfare-4-captain-price-hair-1787605087848.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 24 Aug 2026 21:13:30 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-27f794f9",
+      "title": "Call Of Duty: Modern Warfare 4 Is Way Ahead Of Black Ops 7 Already By One Metric",
+      "summary": "Call of Duty: Modern Warfare 4 is nearing 400,000 copies sold on Steam already, and that's well ahead of where last year's Black Ops 7 stood at launch on Valve's platform. This is according to Rhys Elliott of Alinea Analytics, who added that pre-sale...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 24 Aug 2026 19:12:33 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-415f183a",
       "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
       "summary": "Call of Duty: Modern Warfare 4 is adding more options for how your operators appear in-game.",
@@ -854,42 +890,6 @@
       "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-brings-back-campaign-early-access-heres-how-to-get-it/",
       "source": {
         "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-5e77bc16",
-      "title": "Modern Warfare 4: Campaign Early Access Confirmed",
-      "summary": "The post Modern Warfare 4: Campaign Early Access Confirmed appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_3.png",
-      "sourceUrl": "https://www.callofduty.com/blog/2026/06/call-of-duty-modern-warfare-4-campaign-early-access#new_tab",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 12 Jun 2026 17:30:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-59375fee",
-      "title": " The wait for Call of Duty: Modern Warfare 4 just got a little bit shorter as early access to the campaign becomes a preorder bonus ",
-      "summary": "Infinity Ward announces campaign early access for Call of Duty: Modern Warfare 4, starting on October 16 for those who digitally preorder the game.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/DqisNGEb8J8nd78weS27PB-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/mw4-preorders-early-campaign-access",
-      "source": {
-        "name": "Windows Central",
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 12 Jun 2026 17:00:00 +0000",
