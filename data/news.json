@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-65a2e894",
+      "title": "Call of Duty: Modern Warfare 4 for Switch 2 Is Up for Preorder",
+      "summary": "Preorders are live for the Nintendo Switch 2 version of Call of Duty: Modern Warfare 4 \u2013 but physical copies are just a code in a box.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/26/untitled-design-1787767062967.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-for-switch-2-where-to-buy",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 26 Aug 2026 18:39:44 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-5274918c",
+      "title": "Modern Warfare 4 Open Beta: Weekend Two Intel",
+      "summary": "The post Modern Warfare 4 Open Beta: Weekend Two Intel appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/26/modern-warfare-4-open-beta-weekend-two-intel/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Wed, 26 Aug 2026 17:30:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-399ac978",
       "title": "Call of Duty: Modern Warfare 4 Beta Pushes Unplanned Update to Address Fan Feedback",
       "summary": "Infinity Ward has pushed an unplanned update for the Call of Duty: Modern Warfare 4 beta in order to quickly address fan feedback.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 29 Jun 2026 18:50:45 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ab493ef4",
-      "title": "Call of Duty: Modern Warfare 4 Is Up for Preorder, Here\u2019s What Comes in Each Edition",
-      "summary": "Preorders are live for Call of Duty: Modern Warfare 4. We've broken down what comes in each edition and where you can pick them up right now ahead of its release on October 23.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/06/17/cod-mw4-preorder-1781698195862.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-where-to-preorder",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 17 Jun 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-5a1607ad",
-      "title": " Want an early access code to the Call of Duty: Modern Warfare 4 beta? The upcoming Call of Duty Endowment Bowl is your chance to score \u2014 Here's when and how to watch ",
-      "summary": "Call of Duty Endowment, a nonprofit founded in 2009 to assist military veterans in finding high-quality civilian careers after service, is celebrating its 7th annual C.O.D.E. Bowl, presented by USAA, during NASCAR's San Diego Race Weekend on June 20.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/TB5w9FxmmA66TSa2U7aDUQ-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/code-bowl-vii-mw4-beta-codes",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 15 Jun 2026 17:01:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
