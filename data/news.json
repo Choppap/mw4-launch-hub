@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-12b253a1",
+      "title": "Free Play Days \u2013 \u00a0Call of Duty Modern Warfare 4 Open Beta, Control Ultimate Edition, Fatal Fury: City of the Wolves, and More",
+      "summary": "Jump into different worlds with Free Play Days this weekend! Naruto To Boruto: Shinobi Striker, and ARK: Survival Ascended are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, August 27 until Su...",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/27/free-play-days-08-27-2026/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 27 Aug 2026 15:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-65a2e894",
       "title": "Call of Duty: Modern Warfare 4 for Switch 2 Is Up for Preorder",
       "summary": "Preorders are live for the Nintendo Switch 2 version of Call of Duty: Modern Warfare 4 \u2013 but physical copies are just a code in a box.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 29 Jun 2026 20:51:46 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-0ae5af1b",
-      "title": "Activision Promotes Call Of Duty: MW4 By Telling You It\u2019s Not On Game Pass",
-      "summary": "For the first time in two years, the annual Call of Duty release, Modern Warfare 4, will not come to Xbox Game Pass at launch. To help hammer that point home, Activision is rolling out a new ad campaign reminding people they need to buy the game outr...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/06/MW4COD.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/activision-promotes-call-of-duty-mw4-by-telling-you-its-not-on-game-pass/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 29 Jun 2026 18:50:45 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
