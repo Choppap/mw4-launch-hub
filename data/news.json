@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-306690db",
+      "title": "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
+      "summary": "Infinity Ward has addressed the state of Call of Duty: Modern Warfare 4's time to kill and tweaked a handful of weapons in a new beta update.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-developers-address-time-to-kill-criticisms-and-tweak-weapons-in-new-beta-update",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 31 Aug 2026 21:44:39 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-6c770d7e",
+      "title": "Buying COD: MW4 On Xbox Comes With A Special Perk Not Available On Other Console Platforms",
+      "summary": "Microsoft is encouraging people to buy the Xbox edition of Call of Duty: Modern Warfare 4 by offering a special perk that players can't get on other console systems. \n\n\n\nPeople who preorder any edition of MW4 on a Microsoft Store--including Xbox or P...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.38.13-AM.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/buying-cod-mw4-on-xbox-comes-with-a-special-perk-not-available-on-other-console-platforms/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 31 Aug 2026 12:49:45 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-12b253a1",
       "title": "Free Play Days \u2013 \u00a0Call of Duty Modern Warfare 4 Open Beta, Control Ultimate Edition, Fatal Fury: City of the Wolves, and More",
       "summary": "Jump into different worlds with Free Play Days this weekend! Naruto To Boruto: Shinobi Striker, and ARK: Survival Ascended are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, August 27 until Su...",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Wed, 01 Jul 2026 19:45:10 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-7071c389",
-      "title": "Microsoft Is Reminding Xbox Game Pass Members That They'll Have to Buy Call of Duty: Modern Warfare 4 if They Want to Play Day One",
-      "summary": "Microsoft is sending notifications out to Xbox Game Pass members reminding them that Call of Duty: Modern Warfare 4 won\u2019t be in the subscription service this year, so if they want to play the game at launch, they\u2019ll have to buy it.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/01/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1782896487543.jpg",
-      "sourceUrl": "https://www.ign.com/articles/microsoft-is-reminding-xbox-game-pass-members-that-theyll-have-to-buy-call-of-duty-modern-warfare-4-if-they-want-to-play-day-one",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 1 Jul 2026 09:07:48 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-10a041cc",
-      "title": " \"Not on Xbox Game Pass This Year\": I can't believe Activision now has to spell it out for Call of Duty: Modern Warfare 4 ",
-      "summary": "Activision is explicitly advertising that Call of Duty: Modern Warfare 4 will not launch on Xbox Game Pass this year, raising questions about Microsoft's subscription strategy while promoting pre-orders and early campaign access.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/RW9Zy6WkGqzcYqBTP653hY-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/not-on-xbox-game-pass-this-year-i-cant-believe-activision-now-has-to-spell-it-out-for-call-of-duty-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 29 Jun 2026 20:51:46 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
