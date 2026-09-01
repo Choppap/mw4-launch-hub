@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-c4f315dc",
+      "title": "Call Of Duty: Modern Warfare 4 Beta Extended, Adds Double XP To Help You Grind For Rewards",
+      "summary": "The Call of Duty: Modern Warfare 4 open beta was supposed to end today, September 1, at 10 AM PT / 1 PM ET, but Activision is extending it.\n\n\n\nThe beta is now set to wrap up at 10 PM PT / 1 AM ET (September 2), meaning it's been extended by a full 12...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4MP.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-extended-adds-double-xp-to-help-you-grind-for-rewards/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 01 Sep 2026 17:18:43 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c8f3e49b",
+      "title": " Still trying to unlock the Call of Duty: Modern Warfare 4 Beta rewards? Here\u2019s how long you can keep playing. ",
+      "summary": "You still have time to hop into the Call of Duty: Modern Warfare 4 Open Beta and unlock those coveted beta rewards before the event ends September 1 at 10 PM PT/September 2 at 1 AM ET.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ikRPtA2S6u7EbEBxbyYMeZ-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/modern-warfare-4-beta-extended",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 01 Sep 2026 17:56:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-306690db",
       "title": "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
       "summary": "Infinity Ward has addressed the state of Call of Duty: Modern Warfare 4's time to kill and tweaked a handful of weapons in a new beta update.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 14 Jul 2026 18:06:57 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-a98ccce2",
-      "title": " \u2018Lucky that we didn\u2019t listen to the internet\u2019 \u2014 Black Ops 7 isn\u2019t perfect, but I\u2019ll be sad to leave its incredible multiplayer behind for Modern Warfare 4 ",
-      "summary": "Despite a rocky launch, Black Ops 7 has delivered the best multiplayer Call of Duty experience in years.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mqKdqWxS7Enj8wCCWR3chX-1280-80.jpg",
-      "sourceUrl": "https://www.techradar.com/gaming/black-ops-7-isnt-perfect-but-ill-be-sad-to-leave-its-incredible-multiplayer-behind",
-      "source": {
-        "name": "TechRadar",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 08 Jul 2026 20:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-99159fda",
-      "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
-      "summary": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign for it. That may have already begun, but not in the...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4COD.webp?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-just-showed-up-in-a-very-unexpected-place/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 01 Jul 2026 19:45:10 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
