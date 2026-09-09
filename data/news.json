@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-5ed28e40",
+      "title": "Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint",
+      "summary": "The post Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/09/09/modern-warfare-4-pre-order-bonus-inner-circuit-m4-blueprint/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Wed, 09 Sep 2026 18:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-21aa931c",
       "title": " Doom is coming to Black Ops 7 in new Halloween event as final season revealed ahead of Modern Warfare 4 launch ",
       "summary": "Black Ops 7's final season has been revealed.",
@@ -875,24 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Wed, 15 Jul 2026 16:30:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c5b0b332",
-      "title": " The innovative \"Kill Block\" map for Call of Duty: Modern Warfare 4 is my most anticipated new feature for the game's multiplayer \u2014 and we finally get to see more of it ",
-      "summary": "Infinity Ward releases details on its innovative new dynamic map, Kill Block, coming to Modern Warfare 4 this October.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VNzumwmZcdhogQkZjme625-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/infinity-ward-shows-off-kill-block-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 15 Jul 2026 16:12:32 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
