@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-21aa931c",
+      "title": " Doom is coming to Black Ops 7 in new Halloween event as final season revealed ahead of Modern Warfare 4 launch ",
+      "summary": "Black Ops 7's final season has been revealed.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/7QP9pKXYKZZAkxPyATLfWU-1280-80.webp",
+      "sourceUrl": "https://www.techradar.com/gaming/doom-is-coming-to-black-ops-7-in-new-halloween-event-as-final-season-revealed-ahead-of-modern-warfare-4-launch",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 09 Sep 2026 12:01:28 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-c4f315dc",
       "title": "Call Of Duty: Modern Warfare 4 Beta Extended, Adds Double XP To Help You Grind For Rewards",
       "summary": "The Call of Duty: Modern Warfare 4 open beta was supposed to end today, September 1, at 10 AM PT / 1 PM ET, but Activision is extending it.\n\n\n\nThe beta is now set to wrap up at 10 PM PT / 1 AM ET (September 2), meaning it's been extended by a full 12...",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Wed, 15 Jul 2026 16:12:32 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e431e077",
-      "title": "Star Of 2026\u2019s Biggest Movie Will Talk Call Of Duty: MW4 This Weekend",
-      "summary": "The Fanatics Fest event takes place this weekend in New York City, and as announced previously, Call of Duty: Modern Warfare 4's multiplayer will be playable at the event. In addition to that, Infinity Ward studio head Mark Grigsby and Activision mar...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/obsession.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/star-of-2026s-biggest-movie-will-talk-call-of-duty-mw4-this-weekend/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 14 Jul 2026 18:06:57 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
