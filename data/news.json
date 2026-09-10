@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-e5cc63d6",
+      "title": " Black Ops Cold War is the Call of Duty game you should be playing right now while waiting on Modern Warfare 4 ",
+      "summary": "Call of Duty: Black Ops Cold War is the latest legacy title to be added to Xbox Game Pass, and I think it might be the game to play right now, even with Modern Warfare 4 looming.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/CHUeXAEss3sewUqWrxpCzA-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/maybe-the-call-of-duty-game-you-should-be-playing-right-now-is-2020s-black-ops-cold-war-on-xbox-game-pass",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 10 Sep 2026 10:00:36 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-5ed28e40",
       "title": "Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint",
       "summary": "The post Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint appeared first on XBOX Wire.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 16 Jul 2026 11:04:35 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-86d89d53",
-      "title": "Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel",
-      "summary": "The post Call of Duty: Modern Warfare 4 Multiplayer: Kill Block Intel appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://www.callofduty.com/blog/2026/07/call-of-duty-modern-warfare-4-multiplayer-kill-block#new_tab",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Wed, 15 Jul 2026 16:30:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
