@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-0d0f79e7",
+      "title": " When is the Call of Duty: Modern Warfare 4 campaign early access, and how can you play? ",
+      "summary": "Call of Duty: Modern Warfare 4 will be letting some players in to play early, but only the campaign. Here's everything you need to know.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Dky65eSrxwV9FtT6RDtJTf-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-the-call-of-duty-modern-warfare-4-campaign-early-access-and-how-can-you-play",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 11 Sep 2026 21:04:52 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-e5cc63d6",
       "title": " Black Ops Cold War is the Call of Duty game you should be playing right now while waiting on Modern Warfare 4 ",
       "summary": "Call of Duty: Black Ops Cold War is the latest legacy title to be added to Xbox Game Pass, and I think it might be the game to play right now, even with Modern Warfare 4 looming.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-4548826b",
-      "title": "Call Of Duty: Modern Warfare 4 Will Probably Look Best On The Console That Costs The Most",
-      "summary": "Another year, another Call of Duty, with this year's entry featuring Infinity Ward as the lead developer. Call of Duty: Modern Warfare 4 will once again be available across a wide variety of platforms, and Sony has dropped a few details about how the...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/Modern-Warfare-4.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-will-probably-look-best-on-the-console-that-costs-the-most/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 16 Jul 2026 11:04:35 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
