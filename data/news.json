@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-0183fac0",
+      "title": " What carries forward from Call of Duty: Black Ops 7 into Modern Warfare 4? ",
+      "summary": "There's a new Call of Duty game upon us in Modern Warfare 4, so let's break down exactly what items you can carry forward into the new game from Black Ops 7.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/pEtfkWjrH5w73EhxmNaYbV-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/what-carries-forward-from-call-of-duty-black-ops-7-into-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 12 Sep 2026 14:41:28 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-0d0f79e7",
       "title": " When is the Call of Duty: Modern Warfare 4 campaign early access, and how can you play? ",
       "summary": "Call of Duty: Modern Warfare 4 will be letting some players in to play early, but only the campaign. Here's everything you need to know.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 16 Jul 2026 15:01:12 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-2632b159",
-      "title": " You've never seen an Aston Martin like this \u2014 legendary car maker reveals SUV designed exclusively for Modern Warfare 4 ",
-      "summary": "Aston Martin has revealed the Dreadnought, a new SUV designed exclusively for Call of Duty: Modern Warfare 4.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZzJqJmL4ihkmKmmmPSph7i-1280-80.jpg",
-      "sourceUrl": "https://www.techradar.com/gaming/youve-never-seen-an-aston-martin-like-this-legendary-car-maker-reveals-suv-designed-exclusively-for-modern-warfare-4",
-      "source": {
-        "name": "TechRadar",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
