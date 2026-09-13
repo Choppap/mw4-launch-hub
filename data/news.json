@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-3b1a071a",
+      "title": " When is Call of Duty: Warzone being integrated with Modern Warfare 4? ",
+      "summary": "Call of Duty: Warzone will be integrated with Modern Warfare 4, but not right away. Here's what we know about what's happening and when we think it's going to happen.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nKKmWQJFwgsb9Dw5UxCwmk-1280-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-call-of-duty-warzone-being-integrated-with-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sun, 13 Sep 2026 19:27:53 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-0183fac0",
       "title": " What carries forward from Call of Duty: Black Ops 7 into Modern Warfare 4? ",
       "summary": "There's a new Call of Duty game upon us in Modern Warfare 4, so let's break down exactly what items you can carry forward into the new game from Black Ops 7.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-fe46f3c8",
-      "title": "Call Of Duty: MW4 Features A Car Created By Iconic Brand That Looks Like A Halo Warthog With A Roof",
-      "summary": "Activision and iconic car company Aston Martin have teamed up to bring an all-new car to Call of Duty: Modern Warfare 4. \n\n\n\nThe Aston Martin Dreadnought was designed exclusively for Modern Warfare 4, and it looks pretty slick. The SUV is described a...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/AstonMartin-Dreadnought_05.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4-features-a-car-created-by-iconic-brand-that-isnt-even-available-irl/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 16 Jul 2026 15:01:12 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
