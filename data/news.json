@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-a94047dd",
+      "title": "Call of Duty: Modern Warfare 4: The Story So Far",
+      "summary": "The post Call of Duty: Modern Warfare 4: The Story So Far appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/09/16/call-of-duty-modern-warfare-4-the-story-so-far/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Wed, 16 Sep 2026 17:40:28 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-3b1a071a",
       "title": " When is Call of Duty: Warzone being integrated with Modern Warfare 4? ",
       "summary": "Call of Duty: Warzone will be integrated with Modern Warfare 4, but not right away. Here's what we know about what's happening and when we think it's going to happen.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 17 Jul 2026 10:38:27 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-6a6b35bf",
-      "title": "Call of Duty: Modern Warfare 4 Has a Bespoke Tactical SUV Designed by Aston Martin \u2014 It's Called Dreadnought, and We've Got a First Look",
-      "summary": "Call of Duty: Modern Warfare 4 has a new vehicle called Dreadnought, a bespoke tactical SUV designed for the game by Aston Martin and developed by Infinity Ward \u2014 and we\u2019ve got a first look.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/16/in-game-astonmartin-dreadnought-01-1-1784209819819.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-has-a-bespoke-tactical-suv-designed-by-aston-martin-its-called-dreadnought-and-weve-got-a-first-look",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 16 Jul 2026 14:15:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
