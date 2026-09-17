@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-11ca7360",
+      "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
+      "summary": "Activision has revealed Casino Royale and Death Stranding star Mads Mikkelsen as a major antagonist in Call of Duty: Modern Warfare 4.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/09/17/hsaspbgwkaatzcz-1789640377723.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 17 Sep 2026 10:26:47 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-89dc2459",
+      "title": "Modern Warfare 4: Tokyo Games Show Campaign Trailer",
+      "summary": "The post Modern Warfare 4: Tokyo Games Show Campaign Trailer appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/09/17/modern-warfare-4-tokyo-games-show-campaign-trailer/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-a94047dd",
       "title": "Call of Duty: Modern Warfare 4: The Story So Far",
       "summary": "The post Call of Duty: Modern Warfare 4: The Story So Far appeared first on XBOX Wire.",
@@ -857,42 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Mon, 20 Jul 2026 17:30:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-19477f97",
-      "title": "'Wrong (again)' \u2014 Infinity Ward Fires Back at Call of Duty: Modern Warfare 4 Gunny AI Chatbot Claim",
-      "summary": "Infinity Ward has hit back at claims the new Gunsmith for Call of Duty: Modern Warfare 4 features an AI chatbot.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/17/hnsoxfyxaaa3rc9-1784278759448.jpg",
-      "sourceUrl": "https://www.ign.com/articles/wrong-again-infinity-ward-fires-back-at-call-of-duty-modern-warfare-4-gunny-ai-chatbot-claim",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 17 Jul 2026 09:01:34 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-0529387c",
-      "title": "Call Of Duty: Modern Warfare 4 Dev Is Tired Of People Calling Gunny An AI Chatbot",
-      "summary": "Call of Duty: Modern Warfare 4 lead studio Infinity Ward has addressed claims that the game features an AI assistant. After retired Call of Duty leaker TheGhostOfHope labeled the Gunsmith assistant \"Gunny\" as an AI chatbot, Infinity Ward responded by...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/Gunsmith-Clippy.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-dev-is-tired-of-people-calling-gunny-an-ai-chatbot/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 17 Jul 2026 10:38:27 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
