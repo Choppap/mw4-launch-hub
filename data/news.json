@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-e5f91b47",
+      "title": "Activision Calls Call of Duty: Modern Warfare 4 'The Epic Conclusion,' Leaving Fans Wondering What's Next",
+      "summary": "Call of Duty: Modern Warfare 4 is being advertised as the \"epic conclusion,\" suggesting an end of an era for the franchise.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/05/27/cod-mp-preview-br2-1779914695480.jpg",
+      "sourceUrl": "https://www.ign.com/articles/activision-calls-call-of-duty-modern-warfare-4-the-epic-conclusion-leaving-fans-wondering-whats-next",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 17 Sep 2026 18:09:52 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-11ca7360",
       "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
       "summary": "Activision has revealed Casino Royale and Death Stranding star Mads Mikkelsen as a major antagonist in Call of Duty: Modern Warfare 4.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 20 Jul 2026 17:29:10 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e5c96452",
-      "title": "Modern Warfare 4: Open Beta Dates, Call of Duty: NEXT, Fanatics Fest Recap, and Serialized Weapon Camo Pre-Order Bonus",
-      "summary": "The post Modern Warfare 4: Open Beta Dates, Call of Duty: NEXT, Fanatics Fest Recap, and Serialized Weapon Camo Pre-Order Bonus appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://www.callofduty.com/blog/2026/07/call-of-duty-modern-warfare-4-open-beta-next-fanatics-fest-recap-serialized-camo-preorder-bonus#new_tab",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Mon, 20 Jul 2026 17:30:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
