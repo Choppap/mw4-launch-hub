@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-0281c228",
+      "title": " Call of Duty: Modern Warfare 4 is the \"epic conclusion\", and it's definitely time for something new ",
+      "summary": "Alongside the new campaign trailer for Call of Duty: Modern Warfare 4, Activision has called it the \"epic conclusion\" which leads fans to question what that actually means for the future of the franchise.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ikRPtA2S6u7EbEBxbyYMeZ-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-is-the-epic-conclusion-and-its-definitely-time-for-something-new",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 18 Sep 2026 11:49:42 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-e5f91b47",
       "title": "Activision Calls Call of Duty: Modern Warfare 4 'The Epic Conclusion,' Leaving Fans Wondering What's Next",
       "summary": "Call of Duty: Modern Warfare 4 is being advertised as the \"epic conclusion,\" suggesting an end of an era for the franchise.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 20 Jul 2026 21:23:15 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-35b4f9ee",
-      "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
-      "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more details. Read on to learn more.\n\n\n\nModern Warfare ...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 20 Jul 2026 17:29:10 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
