@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-8565be5e",
+      "title": " Modern Warfare 4 will be the \"epic conclusion\" to the series ",
+      "summary": "Alongside the new campaign trailer for Call of Duty: Modern Warfare 4, Activision has called it the \"epic conclusion\" which leads fans to question what that actually means for the future of the franchise.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ikRPtA2S6u7EbEBxbyYMeZ-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-is-the-epic-conclusion-and-its-definitely-time-for-something-new",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 18 Sep 2026 11:49:42 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-fbc39834",
+      "title": " When is Warzone merging with Modern Warfare 4?  ",
+      "summary": "Call of Duty: Warzone will be integrated with Modern Warfare 4, but not right away. Here's what we know about what's happening and when we think it's going to happen.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nKKmWQJFwgsb9Dw5UxCwmk-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-call-of-duty-warzone-being-integrated-with-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sun, 13 Sep 2026 19:27:53 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-0281c228",
       "title": " Call of Duty: Modern Warfare 4 is the \"epic conclusion\", and it's definitely time for something new ",
       "summary": "Alongside the new campaign trailer for Call of Duty: Modern Warfare 4, Activision has called it the \"epic conclusion\" which leads fans to question what that actually means for the future of the franchise.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 07 Aug 2026 21:46:38 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-7d279767",
-      "title": " Call of Duty: Modern Warfare 4 Open Beta dates revealed \u2014 Here's how and when you can play ",
-      "summary": "Infinity Ward has confirmed the early access and open beta periods for Call of Duty: Modern Warfare 4. Here's when and how you can play the upcoming Call of Duty title's new multiplayer experience.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/aDz5jxNRTrSeeBr49nA6Um-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-how-to-play-modern-warfare-4-beta",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 21 Jul 2026 09:23:54 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-420065a9",
-      "title": "Call of Duty: Modern Warfare 4 Beta Dates Confirmed",
-      "summary": "Activision and Infinity Ward have confirmed dates for the upcoming Call of Duty: Modern Warfare 4 beta tests across PC, Nintendo, PlayStation, and Xbox devices.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 20 Jul 2026 21:23:15 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
