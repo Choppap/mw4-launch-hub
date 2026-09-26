@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-adae9906",
+      "title": " Don't uninstall Black Ops 7 until the last minute and get all the 2XP tokens you can for MW4 ",
+      "summary": "Even if you're not actively playing Black Ops 7 now ahead of Modern Warfare 4 launching in October, you can still use it to make leveling speedier in the new game.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/dZj2TwCj7SUQ6kSb67xijR-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/before-call-of-duty-modern-warfare-4-launches-you-should-be-doing-this-every-day-in-black-ops-7",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 26 Sep 2026 11:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-8565be5e",
       "title": " Modern Warfare 4 will be the \"epic conclusion\" to the series ",
       "summary": "Alongside the new campaign trailer for Call of Duty: Modern Warfare 4, Activision has called it the \"epic conclusion\" which leads fans to question what that actually means for the future of the franchise.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 14 Aug 2026 15:49:14 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-2cb195ba",
-      "title": " When (and how) to watch Call of Duty NEXT ahead of the Modern Warfare 4 beta ",
-      "summary": "The annual Call of Duty NEXT showcase is one of the biggest gaming events of the year, showing off the next Call of Duty title and upcoming changes to Warzone to build hype before the game's beta. Here's when and how you can watch COD NEXT 2026.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/6nzmsKfRQYJF4RPQKpQYHm-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/how-to-watch-mw4-cod-next",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 07 Aug 2026 21:46:38 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
