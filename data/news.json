@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-c1dd354c",
+      "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
+      "summary": "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 28 Sep 2026 21:03:37 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-ef99c8e7",
+      "title": "Activision Keeps Saying All The Right Things About Modern Warfare 4",
+      "summary": "Activision has made a key announcement about how Double XP tokens work in the upcoming Call of Duty: Modern Warfare 4, and it sounds like good news.\n\n\n\nBeginning with MW4, 2XP tokens will only count down when you're actually in a match. Previously, t...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 28 Sep 2026 20:22:41 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-811063cf",
+      "title": " Modern Warfare 4 isn't going to waste your 2XP tokens in the lobby ",
+      "summary": "It took entirely too long, but Activision has announced that starting in Modern Warfare 4, you won't burn through your 2XP tokens while you're sat in the lobby.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/eKik6wJJTBRKDq5MupmJVS-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-will-finally-fix-the-big-problem-with-2xp-tokens",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 28 Sep 2026 18:44:13 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-adae9906",
       "title": " Don't uninstall Black Ops 7 until the last minute and get all the 2XP tokens you can for MW4 ",
       "summary": "Even if you're not actively playing Black Ops 7 now ahead of Modern Warfare 4 launching in October, you can still use it to make leveling speedier in the new game.",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 17 Aug 2026 19:20:06 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c1b63def",
-      "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Beta Will Feature Single-Player Campaign Mission for the First Time",
-      "summary": "Xbox is trying something new with the Call of Duty: Modern Warfare 4 beta, as the company has announced this month's pre-release tests will include a single-player campaign mission for the first time.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/14/call-of-duty-modern-warfare-4-beta-campaign-mission-1786722459406.png",
-      "sourceUrl": "https://www.ign.com/articles/xbox-confirms-call-of-duty-modern-warfare-4-beta-will-feature-single-player-campaign-mission-for-the-first-time",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 14 Aug 2026 15:52:48 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-1e011c94",
-      "title": "Call Of Duty: Modern Warfare 4 Beta Will Do Something No Previous CoD Beta Has",
-      "summary": "Activision has announced that the upcoming Call of Duty: Modern Warfare 4 beta will have more than just multiplayer content. The MW4 beta will also include access to the campaign mission, Entrenched, along with the upcoming Warzone mode, Resurgence Z...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/CODNew-Large.jpeg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 14 Aug 2026 14:48:08 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c7a51cc0",
-      "title": " Call of Duty: Modern Warfare 4's beta tests are stacked with an exclusive single-player campaign mission, multiplayer, and more \u2014 here are all the details ",
-      "summary": "Infinity Ward and Activision have announced the full contents of Call of Duty: Modern Warfare 4's upcoming beta tests, including its multiplayer modes, Warzone, an exclusive single-player campaign mission, and more.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/N4Ni3HVDzdhZ7apSW67LJG-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-beta-tests-are-stacked-with-an-exclusive-single-player-campaign-mission-multiplayer-and-more-here-are-all-the-details",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 14 Aug 2026 15:49:14 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
