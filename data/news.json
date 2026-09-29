@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-830de5ed",
+      "title": "CoD: Modern Warfare 4 Brings Back The Franchise\u2019s Most Chaotic And Divisive Multiplayer Map",
+      "summary": "Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment, is coming back for this year's Modern Warfare 4.\n\n\n\nAfter fans spotted it in the newly released trailer for MW4's PC version, the Call of Duty account di...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4Map.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 29 Sep 2026 19:08:41 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-269a5c6c",
       "title": "Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More",
       "summary": "The post Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More appeared first on XBOX Wire.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 18 Aug 2026 23:00:04 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-acf3bf6b",
-      "title": "Battlefield 6 Free Trial Overlaps With Call Of Duty: Modern Warfare 4 Beta This Weekend",
-      "summary": "Battlefield and Call of Duty are overlapping this weekend, as the latest entries in both franchises have exciting opportunities on tap for fans.\n\n\n\nBattlefield 6 is free now through August 25 to celebrate the launch of the game's big new update, incl...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/battlefield-Large.jpeg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/battlefield-6-free-trial-overlaps-with-call-of-duty-modern-warfare-4-beta-this-weekend/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 18 Aug 2026 15:36:01 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
