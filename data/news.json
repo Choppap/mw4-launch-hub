@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-269a5c6c",
+      "title": "Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More",
+      "summary": "The post Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/09/29/call-of-duty-modern-warfare-4-pc-trailer-tech-updates-and-more/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Tue, 29 Sep 2026 15:30:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-c1dd354c",
       "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
       "summary": "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 18 Aug 2026 15:36:01 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-a644eeb3",
-      "title": "Call Of Duty: Modern Warfare 4 Beta Trailer Shows Off Franchise\u2019s Most Ambitious Map Yet",
-      "summary": "Activision has released a teaser trailer for the upcoming Call of Duty: Modern Warfare 4 first beta weekend, and it looks pretty great. The trailer shows off some of the content in the beta, and that includes, for the first time in the franchise's hi...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-trailer-shows-off-franchises-most-ambitious-map-yet/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 17 Aug 2026 19:20:06 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
