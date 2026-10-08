@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-36addba1",
+      "title": " Battlefield 6 deploys on Xbox Game Pass just a few days before Call of Duty: MW4 ",
+      "summary": "Microsoft has announced the latest batch of new games coming in the second half of October 2026, which includes new IP like Valor Mortis and AAA games like Battlefield 6.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/vJa2STV6kfvjEC8xSdwbjg-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/xbox/battlefield-6-aims-to-take-on-call-of-duty-modern-warfare-4-as-the-former-comes-to-xbox-game-pass-just-a-few-days-before-the-latters-launch",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 08 Oct 2026 08:27:30 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-640e1af1",
       "title": " Steelbook or 2XP tokens? Your Modern Warfare 4 pre-order could get you free stuff ",
       "summary": "Call of Duty: Modern Warfare 4 won't be on Xbox Game Pass this year, so you'll need to buy it. But if you pre-order, you can get yourself some free stuff, because who doesn't like that?",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Wed, 19 Aug 2026 21:47:51 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-509dab38",
-      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash",
-      "summary": "The creators of Call of Duty: Modern Warfare 4 are trying to prove one trash-talking player wrong by giving them a free code to the game's upcoming early-access beta.\n\n\n\nIn response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on ...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 19 Aug 2026 19:54:11 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
