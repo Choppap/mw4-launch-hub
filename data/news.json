@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "scraped-15368224",
+      "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
+      "summary": "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch later this month.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 9 Oct 2026 17:11:53 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-dd977e63",
+      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here\u2019s How To Get In",
+      "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.\n\n\n\nActivision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, ...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 09 Oct 2026 19:17:24 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-8a172ebc",
+      "title": "DMZ \u2014 5 Features to Get Excited for in Call of Duty: Modern Warfare 4\u2019s New Mode",
+      "summary": "Call of Duty\u2019s upcoming DMZ mode sounds like it\u2019s shaping up to be something special. Set on the new Hajin map and inspired by the events and locations from Modern Warfare 4\u2019s Campaign, this open-world combat environment will challenge you to loot, c...",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 09 Oct 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-9a5913fc",
+      "title": " Modern Warfare 4 DMZ will be playable EARLY \u2014 here's how ",
+      "summary": "In a last-ditch play for your pre-orders, Activision has announced an early access period for DMZ in Modern Warfare 4, coming just days after the campaign gets its own early play time.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/h9B3GRrsKTYXbCFFu4Y2i8-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-dmz-will-be-playable-early-heres-when-and-how-you-can-deploy",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 09 Oct 2026 17:00:04 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-36addba1",
       "title": " Battlefield 6 deploys on Xbox Game Pass just a few days before Call of Duty: MW4 ",
       "summary": "Microsoft has announced the latest batch of new games coming in the second half of October 2026, which includes new IP like Valor Mortis and AAA games like Battlefield 6.",
@@ -821,78 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Fri, 21 Aug 2026 16:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-cb1ba480",
-      "title": " I might have been wrong about Call of Duty: Modern Warfare 4 ",
-      "summary": "I was prepared to miss this year's Call of Duty: Modern Warfare 4 release because I generally don't like the series. But I might have been wrong on that.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Jd6zVYo43g4DiidTe9PEcg-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/i-might-have-been-wrong-about-call-of-duty-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 16:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-d3fb1971",
-      "title": "Modern Warfare 4 Developers Address Need for Balance in Call of Duty",
-      "summary": "The team behind Call of Duty: Modern Warfare 4 believes that players have only gotten better at the game since the franchise became a pop culture juggernaut.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
-      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-developers-address-need-for-balance-in-call-of-duty",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 20 Aug 2026 17:01:04 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-df29757c",
-      "title": "The Big Call of Duty: Modern Warfare 4 Interview \u2014 Infinity Ward on the Beta, Matchmaking, and Much More",
-      "summary": "IGN interviews Infinity Ward on all things Call of Duty: Modern Warfare 4 ahead of the beta.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/10/mw4thumb-1786378576747.png",
-      "sourceUrl": "https://www.ign.com/articles/the-big-call-of-duty-modern-warfare-4-interview-infinity-ward-on-the-beta-matchmaking-and-much-more",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 20 Aug 2026 17:00:33 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-5ab17636",
-      "title": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
-      "summary": "Call of Duty: Modern Warfare 4's beta will utilize a divisive new matchmaking system in addition to the open matchmaking introduced last year.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/07/20/call-of-duty-modern-warfare-4-beta-test-dates-confirmed-1784582463520.png",
-      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 19 Aug 2026 21:47:51 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
