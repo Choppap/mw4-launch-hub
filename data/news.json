@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-75206725",
+      "title": "Call of Duty: Modern Warfare Story Recap \u2013 What You Need To Know Ahead of MW4",
+      "summary": "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cutscenes.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/07/mw-recap-blog-1791376493012.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-15368224",
       "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
       "summary": "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch later this month.",
@@ -875,24 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Fri, 21 Aug 2026 18:01:36 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-a7e06310",
-      "title": "Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today",
-      "summary": "The post Pre-order Call of Duty: Modern Warfare 4 and Play the Beta Today appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/pre-order-call-of-duty-modern-warfare-4-and-play-the-beta-today/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 16:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
