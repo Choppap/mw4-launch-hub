@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-90e3cb3f",
+      "title": " Hamilton CEO reveals how the watchmaker is leveling up its entertainment heritage in new Modern Warfare 4 special edition ",
+      "summary": "The Hamilton CEO reveals how the brand's cinematic history inspired its boldest video game collaboration yet.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/WnFtr6HmAyeW5cwGrVTq9S-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/gaming-accessories/call-of-duty-modern-warfare-4-x-hamilton-interview",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 13 Oct 2026 00:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-2231a148",
       "title": "Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus",
       "summary": "The post Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus appeared first on XBOX Wire.",
@@ -875,24 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Fri, 21 Aug 2026 19:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-fc1b3482",
-      "title": "Modern Warfare 4 Open Beta: Everything You Need to Know",
-      "summary": "The post Modern Warfare 4 Open Beta: Everything You Need to Know appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_2.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/modern-warfare-4-open-beta-everything-you-need-to-know/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 18:02:21 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
