@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-2231a148",
+      "title": "Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus",
+      "summary": "The post Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/12/get-the-shattered-relay-weapon-blueprint-in-call-of-duty-mobile-as-a-call-of-duty-modern-warfare-4-pre-order-bonus/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Mon, 12 Oct 2026 18:17:50 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-75206725",
       "title": "Call of Duty: Modern Warfare Story Recap \u2013 What You Need To Know Ahead of MW4",
       "summary": "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cutscenes.",
@@ -875,24 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Fri, 21 Aug 2026 18:02:21 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ac9db436",
-      "title": "Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, & Maps",
-      "summary": "The post Modern Warfare 4 Multiplayer: Movement, Gunplay, Modes, &amp; Maps appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/modern-warfare-4-multiplayer-movement-gunplay-modes-maps/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 18:01:36 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
