@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-12e71599",
+      "title": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
+      "summary": "Activision has confirmed the global release times and preload details for Call of Duty: Modern Warfare 4, which launches in various parts over the coming weeks.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/09/18/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1789741799815.jpg",
+      "sourceUrl": "https://www.ign.com/articles/cod-modern-warfare-4-pre-load-release-times",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 14 Oct 2026 10:23:20 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-90e3cb3f",
       "title": " Hamilton CEO reveals how the watchmaker is leveling up its entertainment heritage in new Modern Warfare 4 special edition ",
       "summary": "The Hamilton CEO reveals how the brand's cinematic history inspired its boldest video game collaboration yet.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 21 Aug 2026 19:05:17 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e7b8370f",
-      "title": "Call of Duty: Modern Warfare 4 \u2013 Inside the Maps and Movement of Multiplayer",
-      "summary": "Call of Duty Season has officially kicked off with Call of Duty: NEXT, along with the first of two beta weekends for Call of Duty: Modern Warfare 4, giving us our first hands-on with the newest maps, combat mechanics, and more \u2013 chances are by the ti...",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/21/call-of-duty-modern-warfare-4-inside-the-maps-and-movement-of-multiplayer/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 19:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
