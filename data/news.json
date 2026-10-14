@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-3ef6ba21",
+      "title": "Today\u2019s Top Deals: Forza Horizon 6, COD: Modern Warfare 4, and a LEGO Arcade Machine",
+      "summary": "Plus, don\u2019t miss savings on dumbbells, a gaming monitor, a controller, and more.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/14/untitled-design-21-1791998203599.png",
+      "sourceUrl": "https://www.ign.com/articles/best-deals-for-october-14-2026",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-12e71599",
       "title": "Call of Duty: Modern Warfare 4 Preload and Global Release Times Confirmed for Campaign, DMZ, and the Full Game",
       "summary": "Activision has confirmed the global release times and preload details for Call of Duty: Modern Warfare 4, which launches in various parts over the coming weeks.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 21 Aug 2026 20:02:01 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-554fbe2f",
-      "title": "CoD: MW4 DLC Honors Real-Life Medal Of Honor Recipient Who Lost His Eye And Teeth In Grenade Blast",
-      "summary": "Activision has announced that Call of Duty: Modern Warfare 4 will  have day-one DLC, and like in years past, it will focus on a real-life military hero, with proceeds going to charity. \n\n\n\nThe Call of Duty Endowment Valor Pack, launching on October 2...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/COD-Large.jpeg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 21 Aug 2026 19:05:17 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
