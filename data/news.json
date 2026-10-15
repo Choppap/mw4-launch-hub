@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-dbf8de3e",
+      "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here\u2019s When You Can Expect It",
+      "summary": "Call of Duty: Modern Warfare 4 is set for release on October 23, and in a big shakeup, it will not be available on Xbox Game Pass at launch.\n\n\n\nThis has been known for a while, but Activision is reminding people of this in a new blog post on the eve ...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4NewGame.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 15 Oct 2026 19:21:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-38aa6f11",
+      "title": "Modern Warfare 4 Launches October 23 as a Standalone Release",
+      "summary": "The post Modern Warfare 4 Launches October 23 as a Standalone Release appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/15/modern-warfare-4-launches-october-23-as-a-standalone-release/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 15 Oct 2026 18:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-68d4e645",
       "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
       "summary": "Activision believes GTA 6 will benefit Call of Duty rather than hinder it, with the expectation that Modern Warfare 4 and Rockstar\u2019s behemoth will end up the two biggest games of 2026.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 24 Aug 2026 18:06:58 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-67c7b87f",
-      "title": "New Indie Fishing Game Is More Popular Than Modern Warfare 4 Beta On Steam",
-      "summary": "Everyone has heard of Call of Duty, and yet, a video game that you've probably never heard of is outperforming the first Modern Warfare 4 beta on Steam. How to Fish looks like a surprise hit with over 341,000 concurrent players today, per Steam. Plus...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/HowToFish.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/new-indie-fishing-game-is-more-popular-than-modern-warfare-4-beta-on-steam/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 24 Aug 2026 15:51:03 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-83e57622",
-      "title": "\u2018A cognitive cacophony\u2019: hands-on with the Call of Duty Modern Warfare 4 beta test",
-      "summary": "Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what\u2019s with all the distractions?There\u2019s a lot riding on this year\u2019s Call of Duty, the inescapable first-person shootfest t...",
-      "imageUrl": "https://i.guim.co.uk/img/media/0d38351cfc66d0b13a87bc467644e763b9e69435/568_103_2550_2040/master/2550.png?width=140&quality=85&auto=format&fit=max&s=b7c7910e2938f60084fa3e3c6fbca58f",
-      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
-      "source": {
-        "name": "The Guardian",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 24 Aug 2026 12:15:27 GMT",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
