@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-17db3ccd",
+      "title": "Call of Duty: Modern Warfare 4 - Campaign Review",
+      "summary": "Modern Warfare 4 may not have quite enough to be considered amongst the very best Call of Duty campaigns, but if it\u2019s to be the end of this particular saga, then at least it's going out on a high note.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 16 Oct 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-99cbbdb7",
+      "title": "Modern Warfare 4 on Switch 2 Is Not The Disaster You\u2019d Imagine",
+      "summary": "Modern Warfare 4 is the first Call of Duty since 2013 to launch on a Nintendo console. We played the campaign on Switch 2 and were pleasantly surprised by its performance.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/mw4-switch-blog-1792059802695.jpg",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 16 Oct 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-53ac1474",
+      "title": "Modern Warfare 4: Campaign Early Access Now Live",
+      "summary": "The post Modern Warfare 4: Campaign Early Access Now Live appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/16/modern-warfare-4-campaign-early-access-now-live/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 16 Oct 2026 17:01:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-52e50e24",
       "title": "Call Of Duty: MW4\u2019s Campaign Launches Today, Please Don\u2019t Spoil It For Others",
       "summary": "It's a big day for Call of Duty, as Call of Duty: Modern Warfare 4's campaign is playable beginning today, October 16, for people who preorder the game.\n\n\n\nThe campaign is available to preload now, but doesn't unlock until 10 AM PT / 1 PM ET. You can...",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 25 Aug 2026 16:47:20 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e299667e",
-      "title": " So was I actually wrong about Call of Duty: Modern Warfare 4 after playing the beta? Mostly. ",
-      "summary": "After my first Modern Warfare 4 playtest I immediately thought my previous trepidation about this year's Call of Duty was unfounded. So how's it panned out after a weekend playing the beta?",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Dky65eSrxwV9FtT6RDtJTf-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/so-was-i-actually-wrong-about-call-of-duty-modern-warfare-4-after-playing-the-beta-mostly",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 25 Aug 2026 17:04:40 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-9c160831",
-      "title": "Call of Duty: Modern Warfare 4 Devs Vow to Update Captain Price After Botched Haircut Goes Viral",
-      "summary": "Publisher Activision and developer Infinity Ward have promised to update Captain Price's hair in Call of Duty: Modern Warfare 4 after images of his botched haircut went viral.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/24/call-of-duty-modern-warfare-4-captain-price-hair-1787605087848.png",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-devs-vow-to-update-captain-price-after-botched-haircut-goes-viral",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 24 Aug 2026 21:13:30 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-27f794f9",
-      "title": "Call Of Duty: Modern Warfare 4 Is Way Ahead Of Black Ops 7 Already By One Metric",
-      "summary": "Call of Duty: Modern Warfare 4 is nearing 400,000 copies sold on Steam already, and that's well ahead of where last year's Black Ops 7 stood at launch on Valve's platform. This is according to Rhys Elliott of Alinea Analytics, who added that pre-sale...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 24 Aug 2026 19:12:33 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
