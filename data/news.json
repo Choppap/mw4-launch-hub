@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-52e50e24",
+      "title": "Call Of Duty: MW4\u2019s Campaign Launches Today, Please Don\u2019t Spoil It For Others",
+      "summary": "It's a big day for Call of Duty, as Call of Duty: Modern Warfare 4's campaign is playable beginning today, October 16, for people who preorder the game.\n\n\n\nThe campaign is available to preload now, but doesn't unlock until 10 AM PT / 1 PM ET. You can...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/mw4campaign-Large.jpeg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 16 Oct 2026 15:24:46 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-dbf8de3e",
       "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here\u2019s When You Can Expect It",
       "summary": "Call of Duty: Modern Warfare 4 is set for release on October 23, and in a big shakeup, it will not be available on Xbox Game Pass at launch.\n\n\n\nThis has been known for a while, but Activision is reminding people of this in a new blog post on the eve ...",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 24 Aug 2026 19:12:33 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-415f183a",
-      "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
-      "summary": "Call of Duty: Modern Warfare 4 is adding more options for how your operators appear in-game.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/05/28/cod4image1-1779986564142.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 24 Aug 2026 18:06:58 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
