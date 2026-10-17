@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-53bc8edb",
+      "title": " High praise for Call of Duty: Modern Warfare 4  ",
+      "summary": "Modern Warfare 4 early access is live, sitting at 82% on Steam, and critics are calling it the best CoD story mode since 2019.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/9oa4zo9m8EbzRjQV9nGajk-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-campaign-early-access-is-out-and-people-are-actually-loving-it",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 17 Oct 2026 10:43:29 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c027b126",
+      "title": " 'Call of Duty: Modern Warfare 4' story campaign is truly a cinematic masterpiece \u2014 a BIG return to form ",
+      "summary": "Windows Central goes hands-on with the full campaign of Call of Duty: Modern Warfare 4 for early impressions ahead of the early access release for preorders and full launch on October 23.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VFSboauhq6BbdLhjU9yvnR-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/early-access-for-the-call-of-duty-modern-warfare-4-campaign-is-live-heres-our-spoiler-free-first-impressions",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 17 Oct 2026 10:27:15 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-6d983a9e",
       "title": "Call of Duty: Modern Warfare 4 \u2013 Captain Price's Fate Explained",
       "summary": "Who is alive and who is dead at the end of Call of Duty Modern Warfare 4's campaign? Infinity Ward explains Captain Price's fate.",
@@ -857,42 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Thu, 27 Aug 2026 15:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-65a2e894",
-      "title": "Call of Duty: Modern Warfare 4 for Switch 2 Is Up for Preorder",
-      "summary": "Preorders are live for the Nintendo Switch 2 version of Call of Duty: Modern Warfare 4 \u2013 but physical copies are just a code in a box.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/26/untitled-design-1787767062967.png",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-for-switch-2-where-to-buy",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 26 Aug 2026 18:39:44 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-5274918c",
-      "title": "Modern Warfare 4 Open Beta: Weekend Two Intel",
-      "summary": "The post Modern Warfare 4 Open Beta: Weekend Two Intel appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/26/modern-warfare-4-open-beta-weekend-two-intel/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Wed, 26 Aug 2026 17:30:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
