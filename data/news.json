@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-24a87850",
+      "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
+      "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/16/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1792164596496.jpg",
+      "sourceUrl": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Sat, 17 Oct 2026 15:52:41 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-53bc8edb",
       "title": " High praise for Call of Duty: Modern Warfare 4  ",
       "summary": "Modern Warfare 4 early access is live, sitting at 82% on Steam, and critics are calling it the best CoD story mode since 2019.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 31 Aug 2026 12:49:45 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-12b253a1",
-      "title": "Free Play Days \u2013 \u00a0Call of Duty Modern Warfare 4 Open Beta, Control Ultimate Edition, Fatal Fury: City of the Wolves, and More",
-      "summary": "Jump into different worlds with Free Play Days this weekend! Naruto To Boruto: Shinobi Striker, and ARK: Survival Ascended are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, August 27 until Su...",
-      "imageUrl": "assets/images/mw4_placeholder_2.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/08/27/free-play-days-08-27-2026/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Thu, 27 Aug 2026 15:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
