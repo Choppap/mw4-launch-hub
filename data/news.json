@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-7ed54328",
+      "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
+      "summary": "Call of Duty co-creator Vince Zampella is honoured in the credits of the Modern Warfare 4 Campaign.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/19/vincezampella1280jpg-fe1e2d-160w-1792404902827.webp",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 10:17:11 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-e524c661",
+      "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
+      "summary": "One Modern Warfare 4 campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Here's how they did it.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/09/mw4-dmz-ea-1791562031815.jpg",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 09:34:28 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-ed42ecf2",
+      "title": " Upgrade your Xbox storage to make space for Call of Duty: Modern Warfare 4 ",
+      "summary": "Call of Duty: Modern Warfare 4 is literally shaping up to be one of the biggest Xbox games of the year, as its campaign mode in early access alone already takes up 137GB. If you hope to fit Call of Duty: Modern Warfare 4 into your Xbox along with its...",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/AAARawzjZ4rGe8AtiAwGSZ-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-xbox-storage-expansion-options",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 11:27:05 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-24a87850",
       "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
       "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 01 Sep 2026 17:18:43 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c8f3e49b",
-      "title": " Still trying to unlock the Call of Duty: Modern Warfare 4 Beta rewards? Here\u2019s how long you can keep playing. ",
-      "summary": "You still have time to hop into the Call of Duty: Modern Warfare 4 Open Beta and unlock those coveted beta rewards before the event ends September 1 at 10 PM PT/September 2 at 1 AM ET.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ikRPtA2S6u7EbEBxbyYMeZ-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/modern-warfare-4-beta-extended",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 01 Sep 2026 17:56:10 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-306690db",
-      "title": "Call of Duty: Modern Warfare 4 Developers Address Time to Kill Criticisms and Tweak Weapons in New Beta Update",
-      "summary": "Infinity Ward has addressed the state of Call of Duty: Modern Warfare 4's time to kill and tweaked a handful of weapons in a new beta update.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-developers-address-time-to-kill-criticisms-and-tweak-weapons-in-new-beta-update",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 31 Aug 2026 21:44:39 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-6c770d7e",
-      "title": "Buying COD: MW4 On Xbox Comes With A Special Perk Not Available On Other Console Platforms",
-      "summary": "Microsoft is encouraging people to buy the Xbox edition of Call of Duty: Modern Warfare 4 by offering a special perk that players can't get on other console systems. \n\n\n\nPeople who preorder any edition of MW4 on a Microsoft Store--including Xbox or P...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.38.13-AM.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/buying-cod-mw4-on-xbox-comes-with-a-special-perk-not-available-on-other-console-platforms/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 31 Aug 2026 12:49:45 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
