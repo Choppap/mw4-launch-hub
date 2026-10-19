@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-725412c9",
+      "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
+      "summary": "Is Call of Duty: Modern Warfare 4 really the end of the rebooted Modern Warfare story? We asked Infinity Ward.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/19/maxresdefault-22-1792416144161.jpg",
+      "sourceUrl": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 13:29:09 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-032e8a2c",
+      "title": "Mr. Beast\u2019s Call Of Duty: MW4 DMZ Video Pays $1 Million To The Winner, Watch It Here",
+      "summary": "YouTube star Mr. Beast, who has more than 500 million subscribers on that platform alone, has published a Call of Duty video today, October 19, to mark the release of Modern Warfare 4. He teased the video online, saying it's going to be \"one of the b...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/COD-Large.jpeg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 13:28:09 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-69178410",
+      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
+      "summary": "The post Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 18:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-7ed54328",
       "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
       "summary": "Call of Duty co-creator Vince Zampella is honoured in the credits of the Modern Warfare 4 Campaign.",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 10 Sep 2026 10:00:36 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-5ed28e40",
-      "title": "Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint",
-      "summary": "The post Modern Warfare 4 Pre-Order Bonus: Inner Circuit M4 Blueprint appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_3.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/09/09/modern-warfare-4-pre-order-bonus-inner-circuit-m4-blueprint/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Wed, 09 Sep 2026 18:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-21aa931c",
-      "title": " Doom is coming to Black Ops 7 in new Halloween event as final season revealed ahead of Modern Warfare 4 launch ",
-      "summary": "Black Ops 7's final season has been revealed.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/7QP9pKXYKZZAkxPyATLfWU-1280-80.webp",
-      "sourceUrl": "https://www.techradar.com/gaming/doom-is-coming-to-black-ops-7-in-new-halloween-event-as-final-season-revealed-ahead-of-modern-warfare-4-launch",
-      "source": {
-        "name": "TechRadar",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 09 Sep 2026 12:01:28 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c4f315dc",
-      "title": "Call Of Duty: Modern Warfare 4 Beta Extended, Adds Double XP To Help You Grind For Rewards",
-      "summary": "The Call of Duty: Modern Warfare 4 open beta was supposed to end today, September 1, at 10 AM PT / 1 PM ET, but Activision is extending it.\n\n\n\nThe beta is now set to wrap up at 10 PM PT / 1 AM ET (September 2), meaning it's been extended by a full 12...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4MP.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-extended-adds-double-xp-to-help-you-grind-for-rewards/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 01 Sep 2026 17:18:43 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
