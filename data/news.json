@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-c871ed21",
+      "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+      "summary": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/20/r6jr0379-1792459498578.jpeg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-pop-up-the-dmz-has-never-been-this-much-fun",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 01:24:23 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-851fba11",
+      "title": "You Don\u2019t Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4",
+      "summary": "Call of Duty: Modern Warfare 4 releases this week, and with gaming consoles and capable PC rigs now more expensive than ever, you might be wondering if there is another way to play. \n\n\n\nThankfully, there is, but there are a few things you need to kno...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/COD1.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 19:11:06 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-68b79ed4",
+      "title": " One of Modern Warfare 4's most degenerate challenges has already been beaten ",
+      "summary": "There's no way that people who have already finished the Modern Warfare 4 campaign on YOLO difficulty have slept since early access began. But those people are out there.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/9oa4zo9m8EbzRjQV9nGajk-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/modern-warfare-4s-most-degenerate-challenge-so-far-has-already-been-completed-and-heres-what-you-get",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 19 Oct 2026 20:36:55 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-725412c9",
       "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
       "summary": "Is Call of Duty: Modern Warfare 4 really the end of the rebooted Modern Warfare story? We asked Infinity Ward.",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sun, 13 Sep 2026 19:27:53 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-0183fac0",
-      "title": " What carries forward from Call of Duty: Black Ops 7 into Modern Warfare 4? ",
-      "summary": "There's a new Call of Duty game upon us in Modern Warfare 4, so let's break down exactly what items you can carry forward into the new game from Black Ops 7.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/pEtfkWjrH5w73EhxmNaYbV-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/what-carries-forward-from-call-of-duty-black-ops-7-into-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 12 Sep 2026 14:41:28 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-0d0f79e7",
-      "title": " When is the Call of Duty: Modern Warfare 4 campaign early access, and how can you play? ",
-      "summary": "Call of Duty: Modern Warfare 4 will be letting some players in to play early, but only the campaign. Here's everything you need to know.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Dky65eSrxwV9FtT6RDtJTf-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-the-call-of-duty-modern-warfare-4-campaign-early-access-and-how-can-you-play",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 11 Sep 2026 21:04:52 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e5cc63d6",
-      "title": " Black Ops Cold War is the Call of Duty game you should be playing right now while waiting on Modern Warfare 4 ",
-      "summary": "Call of Duty: Black Ops Cold War is the latest legacy title to be added to Xbox Game Pass, and I think it might be the game to play right now, even with Modern Warfare 4 looming.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/CHUeXAEss3sewUqWrxpCzA-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/maybe-the-call-of-duty-game-you-should-be-playing-right-now-is-2020s-black-ops-cold-war-on-xbox-game-pass",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 10 Sep 2026 10:00:36 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
