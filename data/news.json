@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-267cc8fc",
+      "title": "Modern Warfare 4 Rescues The Reboot Series By Replicating Call of Duty\u2019s Greatest Era",
+      "summary": "Modern Warfare 4's great campaign is a fun rethink of COD's finest hour, turning Modern Warfare 2's iconic moments into exciting new missions.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/20/mw4-1792504471458.jpg",
+      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-rescues-the-reboot-series-by-replicating-call-of-dutys-greatest-era",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-01b88d65",
+      "title": " Call of Duty: Modern Warfare 4 ",
+      "summary": "Call of Duty: Modern Warfare 4",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/eKik6wJJTBRKDq5MupmJVS-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/tag/call-of-duty-modern-warfare-4",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 14:47:59 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-c871ed21",
       "title": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
       "summary": "Call of Duty: Modern Warfare 4 Pop-Up: The DMZ Has Never Been This Much Fun",
@@ -857,42 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-a94047dd",
-      "title": "Call of Duty: Modern Warfare 4: The Story So Far",
-      "summary": "The post Call of Duty: Modern Warfare 4: The Story So Far appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/09/16/call-of-duty-modern-warfare-4-the-story-so-far/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Wed, 16 Sep 2026 17:40:28 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-3b1a071a",
-      "title": " When is Call of Duty: Warzone being integrated with Modern Warfare 4? ",
-      "summary": "Call of Duty: Warzone will be integrated with Modern Warfare 4, but not right away. Here's what we know about what's happening and when we think it's going to happen.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nKKmWQJFwgsb9Dw5UxCwmk-1280-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-call-of-duty-warzone-being-integrated-with-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sun, 13 Sep 2026 19:27:53 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
