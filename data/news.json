@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-dfb710bc",
+      "title": "Ready for Launch: Modern Warfare 4 Progression and Prestige",
+      "summary": "The post Ready for Launch: Modern Warfare 4 Progression and Prestige appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/20/ready-for-launch-modern-warfare-4-progression-and-prestige/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 18:21:52 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-4dcb69fd",
+      "title": "Call of Duty: Modern Warfare 4 \u2013 How to Get Started as an Operator in DMZ",
+      "summary": "Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4\u2019s new DMZ mode is here! Following the release of Campaign Early Access last week, Modern Warfare 4\u2019s new action extraction m...",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-d3475d6a",
+      "title": " I tested MW4\u2019s new DMZ mode, and the experience was way stranger (and better) than expected ",
+      "summary": "We went hands on with the DMZ in Call of Duty: Modern Warfare 4 ahead of its early access launch. Here's our first impressions of the revitalized PvEvP mode.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/JJY62HALCFfCzXhqfbDswW-1920-80.png",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/i-went-hands-on-with-modern-warfare-4s-new-dmz-mode-and-it-was-nothing-like-i-expected",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 20 Oct 2026 20:16:09 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-267cc8fc",
       "title": "Modern Warfare 4 Rescues The Reboot Series By Replicating Call of Duty\u2019s Greatest Era",
       "summary": "Modern Warfare 4's great campaign is a fun rethink of COD's finest hour, turning Modern Warfare 2's iconic moments into exciting new missions.",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 18 Sep 2026 11:49:42 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e5f91b47",
-      "title": "Activision Calls Call of Duty: Modern Warfare 4 'The Epic Conclusion,' Leaving Fans Wondering What's Next",
-      "summary": "Call of Duty: Modern Warfare 4 is being advertised as the \"epic conclusion,\" suggesting an end of an era for the franchise.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/05/27/cod-mp-preview-br2-1779914695480.jpg",
-      "sourceUrl": "https://www.ign.com/articles/activision-calls-call-of-duty-modern-warfare-4-the-epic-conclusion-leaving-fans-wondering-whats-next",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 17 Sep 2026 18:09:52 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-11ca7360",
-      "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
-      "summary": "Activision has revealed Casino Royale and Death Stranding star Mads Mikkelsen as a major antagonist in Call of Duty: Modern Warfare 4.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/09/17/hsaspbgwkaatzcz-1789640377723.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 17 Sep 2026 10:26:47 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-89dc2459",
-      "title": "Modern Warfare 4: Tokyo Games Show Campaign Trailer",
-      "summary": "The post Modern Warfare 4: Tokyo Games Show Campaign Trailer appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_3.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/09/17/modern-warfare-4-tokyo-games-show-campaign-trailer/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Thu, 17 Sep 2026 10:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
