@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-81af41b5",
+      "title": " How to get the parachute in Modern Warfare 4 DMZ ",
+      "summary": "Modern Warfare 4 DMZ shakes things up a little by not giving you a parachute automatically. Here's how you get your hands on one.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/FtyxjDmphD2pWEJfu2vGub-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/how-to-get-a-parachute-in-call-of-duty-modern-warfare-4-dmz-3d-printer-crafting-looting-and-how-they-work",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 21 Oct 2026 15:43:10 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-11087715",
+      "title": " Call of Duty: MW4 demands VRR on Xbox for the best experience ",
+      "summary": "Just days before the launch of Call of Duty: Modern Warfare 4, Activision and Infinity Ward have announced that the game's Xbox Series X|S and PS5 versions will need to run on monitors with Variable Refresh Rates in order to achieve optimal 120Hz fra...",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Bh6EAmR8obwZEruNGAgrxL-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-is-mandating-xbox-players-to-get-monitors-with-variable-refresh-rates-otherwise-they-cant-achieve-optimal-performance",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 21 Oct 2026 14:17:19 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-07f54e7e",
       "title": " MW4's camo grind can be sped up in the early stages, here's how ",
       "summary": "With the change to the camo grind in Modern Warfare 4 over Black Ops 7, you can actually work on the special camos before you've unlocked the ones before them. Here's what you need to know.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sat, 26 Sep 2026 11:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-8565be5e",
-      "title": " Modern Warfare 4 will be the \"epic conclusion\" to the series ",
-      "summary": "Alongside the new campaign trailer for Call of Duty: Modern Warfare 4, Activision has called it the \"epic conclusion\" which leads fans to question what that actually means for the future of the franchise.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ikRPtA2S6u7EbEBxbyYMeZ-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-is-the-epic-conclusion-and-its-definitely-time-for-something-new",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 18 Sep 2026 11:49:42 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-fbc39834",
-      "title": " When is Warzone merging with Modern Warfare 4?  ",
-      "summary": "Call of Duty: Warzone will be integrated with Modern Warfare 4, but not right away. Here's what we know about what's happening and when we think it's going to happen.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nKKmWQJFwgsb9Dw5UxCwmk-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/when-is-call-of-duty-warzone-being-integrated-with-modern-warfare-4",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sun, 13 Sep 2026 19:27:53 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
