@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-fc8e81bf",
+      "title": " How to use blueprints to get high-tier weapons in Modern Warfare 4 DMZ ",
+      "summary": "There's an easy way to get high-tier weapons in Modern Warfare 4 DMZ so long as you have some blueprints to use. Better yet, they're totally free (the first time). Here's what to do.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/kunsGuzMGFFYEAMeLVmGiL-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/anyone-can-get-high-tier-weapons-in-modern-warfare-4-dmz-with-minimal-effort-even-in-the-early-game-heres-how",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 22 Oct 2026 10:03:55 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-15596219",
       "title": "Call of Duty: Modern Warfare 4 DMZ Review So Far",
       "summary": "This bigger and better version of DMZ makes a great first impression.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 28 Sep 2026 20:22:41 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-811063cf",
-      "title": " Modern Warfare 4 isn't going to waste your 2XP tokens in the lobby ",
-      "summary": "It took entirely too long, but Activision has announced that starting in Modern Warfare 4, you won't burn through your 2XP tokens while you're sat in the lobby.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/eKik6wJJTBRKDq5MupmJVS-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-will-finally-fix-the-big-problem-with-2xp-tokens",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 28 Sep 2026 18:44:13 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
