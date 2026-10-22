@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-eec956d0",
+      "title": "Call of Duty: Modern Warfare 4 w/Devs \u2013 Campaign, Multiplayer, DMZ, and More | Official XBOX Podcast",
+      "summary": "On this episode of the Official XBOX Podcast, we&#8217;ve travelled to Infinity Ward to discuss the upcoming release of Call of Duty: Modern Warfare 4! We&#8217;re sitting down with the devs and diving into the details when it comes the campaign, mul...",
+      "imageUrl": "assets/images/mw4_placeholder_3.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/22/call-of-duty-modern-warfare-4-w-devs-campaign-multiplayer-dmz-and-more-official-xbox-podcast/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 22 Oct 2026 16:15:45 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-99dfabe4",
+      "title": " Make sure you have the RIGHT backpack to protect your loot in MW4 DMZ ",
+      "summary": "The most essential piece of gear to loot recipes and manuals, especially in Modern Warfare 4 DMZ, is a good backpack. Here's what you should be using and how you get better ones.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mZr7Pcnno3nnm2vypXrw4h-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/the-most-essential-gear-for-looting-in-modern-warfare-4-dmz-isnt-your-weapon-its-having-the-right-backpack",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 22 Oct 2026 11:22:28 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-fc8e81bf",
       "title": " How to use blueprints to get high-tier weapons in Modern Warfare 4 DMZ ",
       "summary": "There's an easy way to get high-tier weapons in Modern Warfare 4 DMZ so long as you have some blueprints to use. Better yet, they're totally free (the first time). Here's what to do.",
@@ -857,42 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Tue, 29 Sep 2026 15:30:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c1dd354c",
-      "title": "Call of Duty: Modern Warfare 4 Is Finally Making Double XP Tokens Only Active During Matches",
-      "summary": "Call of Duty: Modern Warfare 4 is making a major quality of life change that fans have been wanting to see for years.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-is-finally-making-double-xp-tokens-only-active-during-matches",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 28 Sep 2026 21:03:37 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ef99c8e7",
-      "title": "Activision Keeps Saying All The Right Things About Modern Warfare 4",
-      "summary": "Activision has made a key announcement about how Double XP tokens work in the upcoming Call of Duty: Modern Warfare 4, and it sounds like good news.\n\n\n\nBeginning with MW4, 2XP tokens will only count down when you're actually in a match. Previously, t...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/activision-keeps-saying-all-the-right-things-about-modern-warfare-4/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 28 Sep 2026 20:22:41 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
