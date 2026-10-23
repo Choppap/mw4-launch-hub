@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "id": "scraped-986a0f26",
+      "title": "'I Don't Know if There's Perfecting It' \u2014 Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking",
+      "summary": "Infinity Ward's Multiplayer boss weighs in on Call of Duty: Modern Warfare 4 matchmaking.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/23/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792752785708.jpg",
+      "sourceUrl": "https://www.ign.com/articles/i-dont-know-if-theres-perfecting-it-call-of-duty-modern-warfare-4-multiplayer-chief-weighs-in-on-matchmaking",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 10:58:51 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-1092bd94",
+      "title": "Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4",
+      "summary": "When a big new first-party game comes to Xbox, Microsoft is known to put up big, annoying takeover ads, and that trend continues this year with the launch of Call of Duty: Modern Warfare 4. Things are a little different, and more annoying, this year....",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4.jpg?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 13:05:52 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-a9af78c2",
+      "title": " Call of Duty: Modern Warfare 4 review \u2014 A beautiful but violent farewell ",
+      "summary": "From a heartstring-tugging farewell to beloved campaign characters to a new way to play with our favorite operators and a classic-inspired multiplayer that keeps us on our toes, Modern Warfare 4 might actually be the perfect Call of Duty experience.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/KhPxKVKYRGDWwNdJh9Npf-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-review",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 10:50:06 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-51fb29f2",
+      "title": " Call of Duty: Modern Warfare 4 review: blockbuster gaming at its best ",
+      "summary": "Call of Duty: Modern Warfare 4 delivers across the board with its excellent campaign, strong multiplayer, and exhilarating DMZ modes.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VSSz6Yhc27xhasht3dpFNP-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-review",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 13:57:37 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-0f86dd76",
       "title": " Xbox hijacks your custom background for Call of Duty Modern Warfare 4 ads ",
       "summary": "I believe this is the first time Microsoft has done this, but yeah, Xbox has usurped your entire dashboard for Call of Duty: Modern Warfare 4 this year.",
@@ -821,78 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Wed, 07 Oct 2026 15:39:09 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-56bbc3a3",
-      "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
-      "summary": "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive from Infinity Ward.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/05/mw4-dmz-1791216091376.jpg",
-      "sourceUrl": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 5 Oct 2026 20:51:09 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-d9d8769f",
-      "title": " We've finally got some actual details on Modern Warfare 4's DMZ mode ",
-      "summary": "Activision has finally pulled back the curtain on Modern Warfare 4's DMZ, the mode many of us are putting our hopes in for this year's game. Here's a brief overview of what's going on.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Uc5y8KPddmEuAQmATFSNhc-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/we-finally-know-more-about-call-of-duty-modern-warfare-4-dmz-and-hajins-exclusion-zone-sounds-the-place-to-be-in-this-years-game",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 05 Oct 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c1ae7ec2",
-      "title": " What you need to know about the Forward Operating Base in MW4 DMZ ",
-      "summary": "The Forward Operating Base (FOB) in Modern Warfare 4 DMZ is your home away from home when it comes to deploying into Hajin. Here's all the FOB Stations you'll be able to use and what they can do for you.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mZr7Pcnno3nnm2vypXrw4h-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-dmz-fob-complete-guide",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 05 Oct 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ec5e6342",
-      "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
-      "summary": "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/03/call-of-duty-wallhacks-modern-warfare-4-1791050037842.png",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 3 Oct 2026 17:54:26 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
