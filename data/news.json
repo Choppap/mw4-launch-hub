@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-0f86dd76",
+      "title": " Xbox hijacks your custom background for Call of Duty Modern Warfare 4 ads ",
+      "summary": "I believe this is the first time Microsoft has done this, but yeah, Xbox has usurped your entire dashboard for Call of Duty: Modern Warfare 4 this year.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/tJ2mfCJNAuahpDYcK7zEMe-1920-80.png",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/annoying-xbox-is-hijacking-your-custom-dynamic-background-for-call-of-duty-modern-warfare-4-marketing",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 09:05:11 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-418f0a1a",
+      "title": "Call of Duty: Modern Warfare 4 review \u2013 a thrilling airport novel of a game",
+      "summary": "Activision; PC, PS5, Switch 2, XboxFrom parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the gameAnd so we return perhaps one final time to...",
+      "imageUrl": "https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9749524800e553b864961ff04a994271",
+      "sourceUrl": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+      "source": {
+        "name": "The Guardian",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 04:00:06 GMT",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-eec956d0",
       "title": "Call of Duty: Modern Warfare 4 w/Devs \u2013 Campaign, Multiplayer, DMZ, and More | Official XBOX Podcast",
       "summary": "On this episode of the Official XBOX Podcast, we&#8217;ve travelled to Infinity Ward to discuss the upcoming release of Call of Duty: Modern Warfare 4! We&#8217;re sitting down with the devs and diving into the details when it comes the campaign, mul...",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sat, 3 Oct 2026 17:54:26 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-830de5ed",
-      "title": "CoD: Modern Warfare 4 Brings Back The Franchise\u2019s Most Chaotic And Divisive Multiplayer Map",
-      "summary": "Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment, is coming back for this year's Modern Warfare 4.\n\n\n\nAfter fans spotted it in the newly released trailer for MW4's PC version, the Call of Duty account di...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/09/MW4Map.jpg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Tue, 29 Sep 2026 19:08:41 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-269a5c6c",
-      "title": "Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More",
-      "summary": "The post Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/09/29/call-of-duty-modern-warfare-4-pc-trailer-tech-updates-and-more/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Tue, 29 Sep 2026 15:30:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
