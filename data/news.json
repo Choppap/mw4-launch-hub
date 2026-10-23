@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-a6fb7328",
+      "title": "Call Of Duty: Modern Warfare 4\u2019s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
+      "summary": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack, with proceeds going to Activision's charity th...",
+      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/kyle.png?w=300",
+      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
+      "source": {
+        "name": "GameSpot",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 19:37:03 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c7256e71",
+      "title": "Call of Duty: Modern Warfare 4 is Live Worldwide \u2014 Play Now!",
+      "summary": "The post Call of Duty: Modern Warfare 4 is Live Worldwide \u2014 Play Now! appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-is-live-worldwide-play-now/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 17:01:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-c2de0ccb",
+      "title": "Call of Duty: Modern Warfare 4 \u2013 Kill Block is Must-Play Multiplayer at Launch",
+      "summary": "Hidden inside the West Bridge Advanced Military Training Facility is a complex combat environment where shifting, modular battlegrounds challenge even the most elite Operators, with hundreds of unique configurations. This is Kill Block, and if you\u2019re...",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Fri, 23 Oct 2026 17:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-986a0f26",
       "title": "'I Don't Know if There's Perfecting It' \u2014 Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking",
       "summary": "Infinity Ward's Multiplayer boss weighs in on Call of Duty: Modern Warfare 4 matchmaking.",
@@ -839,60 +893,6 @@
         "credibility": "official"
       },
       "publishedAt": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-9a5913fc",
-      "title": " Modern Warfare 4 DMZ will be playable EARLY \u2014 here's how ",
-      "summary": "In a last-ditch play for your pre-orders, Activision has announced an early access period for DMZ in Modern Warfare 4, coming just days after the campaign gets its own early play time.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/h9B3GRrsKTYXbCFFu4Y2i8-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-dmz-will-be-playable-early-heres-when-and-how-you-can-deploy",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 09 Oct 2026 17:00:04 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-36addba1",
-      "title": " Battlefield 6 deploys on Xbox Game Pass just a few days before Call of Duty: MW4 ",
-      "summary": "Microsoft has announced the latest batch of new games coming in the second half of October 2026, which includes new IP like Valor Mortis and AAA games like Battlefield 6.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/vJa2STV6kfvjEC8xSdwbjg-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/xbox/battlefield-6-aims-to-take-on-call-of-duty-modern-warfare-4-as-the-former-comes-to-xbox-game-pass-just-a-few-days-before-the-latters-launch",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 08 Oct 2026 08:27:30 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-640e1af1",
-      "title": " Steelbook or 2XP tokens? Your Modern Warfare 4 pre-order could get you free stuff ",
-      "summary": "Call of Duty: Modern Warfare 4 won't be on Xbox Game Pass this year, so you'll need to buy it. But if you pre-order, you can get yourself some free stuff, because who doesn't like that?",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/eKik6wJJTBRKDq5MupmJVS-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-wont-be-on-xbox-game-pass-but-at-least-you-can-score-some-sweet-pre-order-rewards-right-now",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Wed, 07 Oct 2026 15:39:09 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
