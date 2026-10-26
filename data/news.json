@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-349142b5",
+      "title": "Call of Duty Franchise Surpasses $40 Billion Lifetime Revenue Following Launch of Modern Warfare 4",
+      "summary": "The Call of Duty franchise has now surpassed $40 billion in lifetime franchise revenue in the wake of the launch of its 23rd mainline entry, Call of Duty: Modern Warfare 4, which launched last Friday.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/26/codmw4-1793039849361.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-franchise-surpasses-40-billion-lifetime-revenue-following-launch-of-modern-warfare-4",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 26 Oct 2026 18:38:46 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-a6fb7328",
       "title": "Call Of Duty: Modern Warfare 4\u2019s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
       "summary": "Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack, with proceeds going to Activision's charity th...",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 09 Oct 2026 19:17:24 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-8a172ebc",
-      "title": "DMZ \u2014 5 Features to Get Excited for in Call of Duty: Modern Warfare 4\u2019s New Mode",
-      "summary": "Call of Duty\u2019s upcoming DMZ mode sounds like it\u2019s shaping up to be something special. Set on the new Hajin map and inspired by the events and locations from Modern Warfare 4\u2019s Campaign, this open-world combat environment will challenge you to loot, c...",
-      "imageUrl": "assets/images/mw4_placeholder_2.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Fri, 09 Oct 2026 17:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
