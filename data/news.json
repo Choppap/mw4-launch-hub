@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-c5b422af",
+      "title": "Call of Duty: Modern Warfare 4 Adds Series Favorite Map, Shipment, to Multiplayer",
+      "summary": "Shipment, one of Call of Duty's most iconic maps, has officially been added to Modern Warfare 4's multiplayer.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/20/cod-oo-1792455882717.png",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-series-favorite-map-shipment-to-multiplayer",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 27 Oct 2026 20:28:05 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-09bd352f",
+      "title": " Shipment arrives in Modern Warfare 4 to save the camo grind ",
+      "summary": "The first 'new' post-launch map has just dropped in Modern Warfare 4, and it's the promised return of Shipment, the original brainrot map. But given how multiplayer has been going, it's a welcome sight.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/9oa4zo9m8EbzRjQV9nGajk-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/shipment-arrives-in-call-of-duty-modern-warfare-4-to-the-relief-of-just-about-everyone-our-first-chance-for-some-casual-mindless-fun",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 27 Oct 2026 21:13:13 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-e0874ca1",
       "title": "South Korean Politician Urges President to Play Modern Warfare 4 to Understand 'Devastation' of Potential Invasion",
       "summary": "A South Korean politician has urged the country's President to play Call of Duty: Modern Warfare 4 to grasp the potential devastation from a North Korean invasion.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Tue, 13 Oct 2026 00:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-2231a148",
-      "title": "Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus",
-      "summary": "The post Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_1.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/10/12/get-the-shattered-relay-weapon-blueprint-in-call-of-duty-mobile-as-a-call-of-duty-modern-warfare-4-pre-order-bonus/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Mon, 12 Oct 2026 18:17:50 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-75206725",
-      "title": "Call of Duty: Modern Warfare Story Recap \u2013 What You Need To Know Ahead of MW4",
-      "summary": "The whole story of Call of Duty's rebooted Modern Warfare saga ends in this month's MW4. Catch up on everything you need to know before you play, including all the stuff that happened in Warzone's cutscenes.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/07/mw-recap-blog-1791376493012.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-story-recap",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 10 Oct 2026 12:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
