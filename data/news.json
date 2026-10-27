@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-e0874ca1",
+      "title": "South Korean Politician Urges President to Play Modern Warfare 4 to Understand 'Devastation' of Potential Invasion",
+      "summary": "A South Korean politician has urged the country's President to play Call of Duty: Modern Warfare 4 to grasp the potential devastation from a North Korean invasion.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
+      "sourceUrl": "https://www.ign.com/articles/south-korean-politician-urges-president-to-play-modern-warfare-4-to-understand-devastation-of-potential-invasion",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 27 Oct 2026 16:39:57 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-9465e75c",
+      "title": " Modern Warfare 4 is reportedly down 32% on Xbox (and Steam isn't much better) ",
+      "summary": "Call of Duty: Modern Warfare 4 has reportedly seen a 32% decline in player counts compared to Black Ops 7, with SteamDB figures also suggesting a weaker launch than previous entries. With the game absent from Xbox Game Pass, questions remain over whe...",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/tHg9kLTFvwo6SGre9kGAiX-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-player-counts-are-down-on-xbox-and-steam-but-is-the-usd70-price-tag-to-blame",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 27 Oct 2026 15:28:49 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-349142b5",
       "title": "Call of Duty Franchise Surpasses $40 Billion Lifetime Revenue Following Launch of Modern Warfare 4",
       "summary": "The Call of Duty franchise has now surpassed $40 billion in lifetime franchise revenue in the wake of the launch of its 23rd mainline entry, Call of Duty: Modern Warfare 4, which launched last Friday.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-15368224",
-      "title": "Call of Duty: Modern Warfare 4 Launch Rollout Adds DMZ Early Access",
-      "summary": "Call of Duty: Modern Warfare 4 has added DMZ to its list of early access experiences available for pre-order players ahead of its launch later this month.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early-access",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 9 Oct 2026 17:11:53 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-dd977e63",
-      "title": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here\u2019s How To Get In",
-      "summary": "Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.\n\n\n\nActivision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, ...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 09 Oct 2026 19:17:24 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
