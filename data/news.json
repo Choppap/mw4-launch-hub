@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-c65ebe8a",
+      "title": "Call of Duty: Modern Warfare 4 DMZ Review",
+      "summary": "A bigger and better version of Call of Duty's extraction shooter mode.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/21/codwf4dmz-blogroll-1792622752717.jpg",
+      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-review",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 28 Oct 2026 23:40:17 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-2e49fe29",
+      "title": "Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know",
+      "summary": "The post Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know appeared first on XBOX Wire.",
+      "imageUrl": "assets/images/mw4_placeholder_2.png",
+      "sourceUrl": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-warzone-season-1-announcement#new_tab",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 29 Oct 2026 01:40:58 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-9535450e",
       "title": "Call of Duty: Modern Warfare 4 Patch Makes It Impossible to Get a Nuke in Free-for-All",
       "summary": "A new patch for Modern Warfare 4 has players up in arms because it prevents you from getting a tactical nuke Killstreak in Free-for-All, one of the Multiplayer modes.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Thu, 15 Oct 2026 19:21:10 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-38aa6f11",
-      "title": "Modern Warfare 4 Launches October 23 as a Standalone Release",
-      "summary": "The post Modern Warfare 4 Launches October 23 as a Standalone Release appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_3.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/10/15/modern-warfare-4-launches-october-23-as-a-standalone-release/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Thu, 15 Oct 2026 18:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-68d4e645",
-      "title": "Activision Thinks GTA 6 Will Actually Help Modern Warfare 4: 'No Offense to Zelda, but [GTA and COD] Are the 2 Biggest Games of the Year'",
-      "summary": "Activision believes GTA 6 will benefit Call of Duty rather than hinder it, with the expectation that Modern Warfare 4 and Rockstar\u2019s behemoth will end up the two biggest games of 2026.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/cod-main-1792075154642.jpg",
-      "sourceUrl": "https://www.ign.com/articles/activision-thinks-gta-6-will-actually-help-modern-warfare-4-no-offense-to-zelda-but-gta-and-cod-are-the-2-biggest-games-of-the-year",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Thu, 15 Oct 2026 14:39:50 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
