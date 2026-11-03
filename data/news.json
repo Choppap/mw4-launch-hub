@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-8abb43f3",
+      "title": " 'I have no lack of inspiration from the amazing gameplay itself' \u2014 Call of Duty: Modern Warfare 4 composer says Infinity Ward's sound team were a 'huge creative influence' on the soundtrack and 'integral in shaping the overall vibe' ",
+      "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has attributed the gameplay and the Infinity Ward sound team for helping to inspire the multiplayer score.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VSSz6Yhc27xhasht3dpFNP-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/i-have-no-lack-of-inspiration-from-the-amazing-gameplay-itself-call-of-duty-modern-warfare-4-composer-says-infinity-wards-sound-team-were-a-huge-creative-influence-on-the-soundtrack-and-integral-in-shaping-the-overall-vibe",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Tue, 03 Nov 2026 17:47:08 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-77f4d2bf",
       "title": " Here's what's new for Warzone when it integrates with Modern Warfare 4 ",
       "summary": "Call of Duty: Modern Warfare 4 Season 1 goes live on November 6, and it's bringing Warzone into the mix for the first time. Here's what we know about how things will look.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Fri, 16 Oct 2026 20:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-17db3ccd",
-      "title": "Call of Duty: Modern Warfare 4 - Campaign Review",
-      "summary": "Modern Warfare 4 may not have quite enough to be considered amongst the very best Call of Duty campaigns, but if it\u2019s to be the end of this particular saga, then at least it's going out on a high note.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 16 Oct 2026 17:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
