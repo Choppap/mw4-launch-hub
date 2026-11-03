@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-77f4d2bf",
+      "title": " Here's what's new for Warzone when it integrates with Modern Warfare 4 ",
+      "summary": "Call of Duty: Modern Warfare 4 Season 1 goes live on November 6, and it's bringing Warzone into the mix for the first time. Here's what we know about how things will look.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nf6ekh3eFamXDNRfhf7kYL-1920-80.png",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-warzones-modern-warfare-4-integration-has-been-revealed-heres-what-it-looks-like",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Mon, 02 Nov 2026 18:00:17 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-2dd23692",
       "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
       "summary": "If you\u2019re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you\u2019re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.",
@@ -870,24 +888,6 @@
       "summary": "Modern Warfare 4 may not have quite enough to be considered amongst the very best Call of Duty campaigns, but if it\u2019s to be the end of this particular saga, then at least it's going out on a high note.",
       "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/ss-ee5f6b6aebe4dc9e86b49c4e309d361b132df308-1920x1080-1792058059953.jpg",
       "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-review",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 16 Oct 2026 17:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-99cbbdb7",
-      "title": "Modern Warfare 4 on Switch 2 Is Not The Disaster You\u2019d Imagine",
-      "summary": "Modern Warfare 4 is the first Call of Duty since 2013 to launch on a Nintendo console. We played the campaign on Switch 2 and were pleasantly surprised by its performance.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/15/mw4-switch-blog-1792059802695.jpg",
-      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-switch-2-gameplay",
       "source": {
         "name": "IGN",
         "credibility": "trusted"
