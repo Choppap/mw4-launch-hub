@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-27126fdf",
+      "title": " MW4 DMZ players need to do this loot run before Season 1 starts ",
+      "summary": "Solo players who don't have a lot of time to play Modern Warfare 4 DMZ may feel like they're not getting enough good loot. But that changes with this easy run that takes less than 15 minutes each time.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/JJY62HALCFfCzXhqfbDswW-1920-80.png",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/if-youre-playing-modern-warfare-4-dmz-you-need-to-do-this-loot-run-before-season-1-especially-if-youre-a-solo-player",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 04 Nov 2026 15:45:32 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-8e2341f2",
+      "title": " Call of Duty: Modern Warfare 4 composer says to capture the tone of multiplayer maps, 'you have to play a lot of multiplayer' as 'it's a completely different vibe from the campaign' \u2014 'I was trying to capture forward momentum and pure adrenaline' ",
+      "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has shared his process for designing the game's multiplayer music.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/3eCeYkW4xEhaX7PFoy3Nsn-1920-80.png",
+      "sourceUrl": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-to-capture-the-tone-of-multiplayer-maps-you-have-to-play-a-lot-of-multiplayer-as-its-a-completely-different-vibe-from-the-campaign-i-was-trying-to-capture-forward-momentum-and-pure-adrenaline",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Wed, 04 Nov 2026 15:36:03 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-8abb43f3",
       "title": " 'I have no lack of inspiration from the amazing gameplay itself' \u2014 Call of Duty: Modern Warfare 4 composer says Infinity Ward's sound team were a 'huge creative influence' on the soundtrack and 'integral in shaping the overall vibe' ",
       "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has attributed the gameplay and the Infinity Ward sound team for helping to inspire the multiplayer score.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Sat, 17 Oct 2026 10:43:29 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-c027b126",
-      "title": " 'Call of Duty: Modern Warfare 4' story campaign is truly a cinematic masterpiece \u2014 a BIG return to form ",
-      "summary": "Windows Central goes hands-on with the full campaign of Call of Duty: Modern Warfare 4 for early impressions ahead of the early access release for preorders and full launch on October 23.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VFSboauhq6BbdLhjU9yvnR-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/early-access-for-the-call-of-duty-modern-warfare-4-campaign-is-live-heres-our-spoiler-free-first-impressions",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 17 Oct 2026 10:27:15 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-6d983a9e",
-      "title": "Call of Duty: Modern Warfare 4 \u2013 Captain Price's Fate Explained",
-      "summary": "Who is alive and who is dead at the end of Call of Duty Modern Warfare 4's campaign? Infinity Ward explains Captain Price's fate.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/16/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1792164596496.jpg",
-      "sourceUrl": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-captain-prices-fate-explained",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Fri, 16 Oct 2026 20:00:00 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
