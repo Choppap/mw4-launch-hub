@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-f070827b",
+      "title": " Call of Duty: MW4 no longer demands VRR on Xbox for optimal performance ",
+      "summary": "Call of Duty: Modern Warfare 4 has released its latest patch notes for Season 1. Its most important change is that the Xbox and PlayStation versions no longer require VRR monitors for optimal performance, as the game can now run at 120Hz in Performan...",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ZcskwFp2Fg6GkwkLo84t7M-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-has-heard-your-complaints-and-is-bringing-back-120hz-to-all-120hz-monitors-with-and-without-vrr-for-xbox-players",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 05 Nov 2026 19:01:35 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-2113e9ba",
       "title": " 'Nothing will ever replace the emotional depth and creative inspiration of human beings as artists and creators' \u2014 Call of Duty: Modern Warfare 4 composer speaks out against AI in video games, says 'music is not just a bunch of notes strung together' ",
       "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has spoken out against AI taking over human creativity in video games.",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 19 Oct 2026 09:34:28 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-ed42ecf2",
-      "title": " Upgrade your Xbox storage to make space for Call of Duty: Modern Warfare 4 ",
-      "summary": "Call of Duty: Modern Warfare 4 is literally shaping up to be one of the biggest Xbox games of the year, as its campaign mode in early access alone already takes up 137GB. If you hope to fit Call of Duty: Modern Warfare 4 into your Xbox along with its...",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/AAARawzjZ4rGe8AtiAwGSZ-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-xbox-storage-expansion-options",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 11:27:05 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
