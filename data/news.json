@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "scraped-2113e9ba",
+      "title": " 'Nothing will ever replace the emotional depth and creative inspiration of human beings as artists and creators' \u2014 Call of Duty: Modern Warfare 4 composer speaks out against AI in video games, says 'music is not just a bunch of notes strung together' ",
+      "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has spoken out against AI taking over human creativity in video games.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/RGjVhLvsyRW4VJhizAXt65-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/nothing-will-ever-replace-the-emotional-depth-and-creative-inspiration-of-human-beings-as-artists-and-creators-call-of-duty-modern-warfare-4-composer-speaks-out-against-ai-in-video-games-says-music-is-not-just-a-bunch-of-notes-strung-together",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 05 Nov 2026 12:32:29 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-27978c81",
+      "title": " Call of Duty: Modern Warfare 4 composer says multiplayer music is usually 'an afterthought' and 'cobbled together' from existing campaign music \u2014 'This is the first time we've specifically composed a score of this scale for multiplayer' ",
+      "summary": "According to Call of Duty: Modern Warfare 4 composer Jason Graves,this is the first time a Modern Warfare multiplayer mode has received a full score.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/sjUdKgSpXB5TBkD9xuZyGo-1920-80.png",
+      "sourceUrl": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-multiplayer-music-is-usually-an-afterthought-and-cobbled-together-from-existing-campaign-music-this-is-the-first-time-weve-specifically-composed-a-score-of-this-scale-for-multiplayer",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Thu, 05 Nov 2026 08:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-27126fdf",
       "title": " MW4 DMZ players need to do this loot run before Season 1 starts ",
       "summary": "Solo players who don't have a lot of time to play Modern Warfare 4 DMZ may feel like they're not getting enough good loot. But that changes with this easy run that takes less than 15 minutes each time.",
@@ -857,42 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 19 Oct 2026 11:27:05 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-24a87850",
-      "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
-      "summary": "Barry Sloane, the actor behind Call of Duty's Captain Price, has shared a message with fans as praise for Modern Warfare 4's campaign rolls in.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/16/ss-6b8f4040a1e923f036e04d9eb21ecb0f866be57e-1920x1080-1792164596496.jpg",
-      "sourceUrl": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 17 Oct 2026 15:52:41 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-53bc8edb",
-      "title": " High praise for Call of Duty: Modern Warfare 4  ",
-      "summary": "Modern Warfare 4 early access is live, sitting at 82% on Steam, and critics are calling it the best CoD story mode since 2019.",
-      "imageUrl": "https://cdn.mos.cms.futurecdn.net/9oa4zo9m8EbzRjQV9nGajk-1920-80.jpg",
-      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4s-campaign-early-access-is-out-and-people-are-actually-loving-it",
-      "source": {
-        "name": "Windows Central",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Sat, 17 Oct 2026 10:43:29 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
