@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "scraped-ad129d8c",
+      "title": "Free Play Days \u2013 Call of Duty: Modern Warfare 4 \u2013 DMZ, PAYDAY 3, Anno 117, BALL x PIT, Deceive Inc, Age of Wonders 4, and More",
+      "summary": "Skip the safe picks &#8211; play something daring with Free Play Days! PAYDAY 3, Nowhere Prophet, BALL x PIT, Deceive Inc, and Age of Wonders 4 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursda...",
+      "imageUrl": "assets/images/mw4_placeholder_1.png",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/11/05/free-play-days-11-04-2026/",
+      "source": {
+        "name": "Xbox Wire",
+        "credibility": "official"
+      },
+      "publishedAt": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-f4f9b1a3",
+      "title": " Call of Duty: Modern Warfare 4 composer says multiplayer music requires a 'flexible framework' compared to the campaign with 'dramatic moments' as 'you have no idea how any given match is going to unfold'  \u2014 'Multiplayer is completely unpredictable' ",
+      "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has explained the biggest differences between scoring a multiplayer mode and a campaign.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/w8Zwmxhnh754i44xFmCiSE-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-multiplayer-music-requires-a-flexible-framework-compared-to-the-campaign-with-dramatic-moments-as-you-have-no-idea-how-any-given-match-is-going-to-unfold-multiplayer-is-completely-unpredictable",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 06 Nov 2026 22:00:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
+      "id": "scraped-0947b99b",
+      "title": " Call of Duty: Modern Warfare 4 composer reveals the secret tech behind his work \u2014 'I have an aluminum garbage can lid that I save for special occasions' ",
+      "summary": "Call of Duty: Modern Warfare 4 composer Jason Graves has revealed the unusual, secret tool he used for creating the game's soundtrack.",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/eWGan4zMwtLvyEVJWNaKhk-1920-80.jpg",
+      "sourceUrl": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-reveals-the-secret-tech-behind-his-work-i-have-an-aluminum-garbage-can-lid-that-i-save-for-special-occasions",
+      "source": {
+        "name": "TechRadar",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 06 Nov 2026 17:03:41 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-f070827b",
       "title": " Call of Duty: MW4 no longer demands VRR on Xbox for optimal performance ",
       "summary": "Call of Duty: Modern Warfare 4 has released its latest patch notes for Season 1. Its most important change is that the Xbox and PlayStation versions no longer require VRR monitors for optimal performance, as the game can now run at 120Hz in Performan...",
@@ -839,60 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 19 Oct 2026 13:28:09 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-69178410",
-      "title": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
-      "summary": "The post Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features appeared first on XBOX Wire.",
-      "imageUrl": "assets/images/mw4_placeholder_2.png",
-      "sourceUrl": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/",
-      "source": {
-        "name": "Xbox Wire",
-        "credibility": "official"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 18:00:00 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-7ed54328",
-      "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
-      "summary": "Call of Duty co-creator Vince Zampella is honoured in the credits of the Modern Warfare 4 Campaign.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/19/vincezampella1280jpg-fe1e2d-160w-1792404902827.webp",
-      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 10:17:11 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-e524c661",
-      "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
-      "summary": "One Modern Warfare 4 campaign player has already finished YOLO mode, an ultra hard setting with realistic damage, where you go right back to the start when you die. Here's how they did it.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/09/mw4-dmz-ea-1791562031815.jpg",
-      "sourceUrl": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 09:34:28 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
