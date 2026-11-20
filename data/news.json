@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-3ad2450f",
+      "title": " Call of Duty: Modern Warfare 4 misses out on a major sales milestone ",
+      "summary": "Call of Duty: Modern Warfare 4 has reportedly missed the top 10 best-selling games of 2026 despite topping October's US sales chart. With GTA 6 providing stiff competition, no last-generation console release, and an absence from Xbox Game Pass, could...",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/VFSboauhq6BbdLhjU9yvnR-1920-80.jpg",
+      "sourceUrl": "https://www.windowscentral.com/gaming/call-of-duty/call-of-duty-modern-warfare-4-tops-october-sales-but-fails-to-crack-2026s-top-10-in-a-historic-first",
+      "source": {
+        "name": "Windows Central",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 20 Nov 2026 15:07:13 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-ad129d8c",
       "title": "Free Play Days \u2013 Call of Duty: Modern Warfare 4 \u2013 DMZ, PAYDAY 3, Anno 117, BALL x PIT, Deceive Inc, Age of Wonders 4, and More",
       "summary": "Skip the safe picks &#8211; play something daring with Free Play Days! PAYDAY 3, Nowhere Prophet, BALL x PIT, Deceive Inc, and Age of Wonders 4 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursda...",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 19 Oct 2026 13:29:09 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-032e8a2c",
-      "title": "Mr. Beast\u2019s Call Of Duty: MW4 DMZ Video Pays $1 Million To The Winner, Watch It Here",
-      "summary": "YouTube star Mr. Beast, who has more than 500 million subscribers on that platform alone, has published a Call of Duty video today, October 19, to mark the release of Modern Warfare 4. He teased the video online, saying it's going to be \"one of the b...",
-      "imageUrl": "https://www.gamespot.com/wp-content/uploads/2026/10/COD-Large.jpeg?w=300",
-      "sourceUrl": "https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/",
-      "source": {
-        "name": "GameSpot",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 13:28:09 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
