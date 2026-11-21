@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "scraped-304f0e25",
+      "title": "RayNeo's Black Friday Sale Includes Discounts on AR Glasses, Plus a New Release of GT Max Call of Duty: Modern Warfare 4 Limited Edition AR Glasses",
+      "summary": "Save $94 on RayNeo GT Max AR Glasses and more.",
+      "imageUrl": "https://assets-prd.ignimgs.com/2026/11/20/rayneo-black-friday-cod-blogroll-1795214311203.png",
+      "sourceUrl": "https://www.ign.com/articles/rayneos-black-friday-sale-includes-discounts-on-ar-glasses-and-more",
+      "source": {
+        "name": "IGN",
+        "credibility": "trusted"
+      },
+      "publishedAt": "Fri, 20 Nov 2026 23:32:00 +0000",
+      "classification": "rumour",
+      "confidence": "medium",
+      "pinned": false,
+      "featured": false,
+      "confirmed": false,
+      "debunked": false
+    },
+    {
       "id": "scraped-3ad2450f",
       "title": " Call of Duty: Modern Warfare 4 misses out on a major sales milestone ",
       "summary": "Call of Duty: Modern Warfare 4 has reportedly missed the top 10 best-selling games of 2026 despite topping October's US sales chart. With GTA 6 providing stiff competition, no last-generation console release, and an absence from Xbox Game Pass, could...",
@@ -875,24 +893,6 @@
         "credibility": "trusted"
       },
       "publishedAt": "Mon, 19 Oct 2026 20:36:55 +0000",
-      "classification": "rumour",
-      "confidence": "medium",
-      "pinned": false,
-      "featured": false,
-      "confirmed": false,
-      "debunked": false
-    },
-    {
-      "id": "scraped-725412c9",
-      "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
-      "summary": "Is Call of Duty: Modern Warfare 4 really the end of the rebooted Modern Warfare story? We asked Infinity Ward.",
-      "imageUrl": "https://assets-prd.ignimgs.com/2026/10/19/maxresdefault-22-1792416144161.jpg",
-      "sourceUrl": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
-      "source": {
-        "name": "IGN",
-        "credibility": "trusted"
-      },
-      "publishedAt": "Mon, 19 Oct 2026 13:29:09 +0000",
       "classification": "rumour",
       "confidence": "medium",
       "pinned": false,
